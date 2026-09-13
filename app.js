@@ -272,33 +272,122 @@ invasion|sự xâm chiếm; xâm nhập|The move onto land has been described as
 revised|đã sửa đổi; xem xét lại|Scientists revised their theory after new evidence appeared.
 revisions|những sự sửa đổi|Later discoveries led to several revisions of the timeline.
 speculations|những suy đoán|Early speculations were replaced by stronger evidence.
-determinations|những kết luận; sự xác định|The researchers based their determinations on multiple fossil layers.`;
+determinations|những kết luận; sự xác định|The researchers based their determinations on multiple fossil layers.
+detour|đường vòng; đi đường vòng|We took a detour because the main road was closed.
+interfere|can thiệp; cản trở|Loud noise can interfere with your concentration.
+navigational|thuộc định hướng; thuộc dẫn đường|The ship uses advanced navigational equipment.
+reserve|đặt trước; dành riêng|We reserved two seats near the window.
+jogging|việc chạy bộ nhẹ|Jogging for twenty minutes can improve fitness.
+involves|bao gồm; liên quan đến|The job involves working with several different teams.
+rinse|rửa; tráng bằng nước|Rinse the vegetables under cold water.
+saucepan|nồi nhỏ có cán|Heat the milk gently in a saucepan.
+stir|khuấy; đảo|Stir the soup slowly while it is heating.
+lid|nắp đậy|Put the lid on the saucepan to keep the heat in.
+lit|đã thắp sáng; được chiếu sáng|The room was lit by several small lamps.
+curb|mép vỉa hè|She waited at the curb for the taxi.
+prior|trước đó; trước|Prior experience is helpful but not required.
+advocate|ủng hộ; chủ trương|Many doctors advocate regular exercise.
+disasters|các thảm họa|Natural disasters can destroy homes and infrastructure.
+seriousness|mức độ nghiêm trọng; tính nghiêm túc|The report emphasized the seriousness of the problem.
+poverty|sự nghèo đói|Education can help communities escape poverty.
+frequently|thường xuyên|This problem occurs frequently during the rainy season.
+ethical|thuộc đạo đức; đúng về mặt đạo đức|Researchers must follow ethical standards.
+discriminate|phân biệt đối xử; phân biệt|It is illegal to discriminate against people because of their background.
+evaluating|đang đánh giá; việc đánh giá|The team is evaluating the effectiveness of the program.
+concern|mối lo ngại; sự quan tâm|Safety remains a major concern for parents.
+eligible|đủ điều kiện|Only eligible participants can receive the grant.
+implied|đã ngụ ý; được ngụ ý|His answer implied that the plan might change.
+injection|mũi tiêm; sự tiêm|The nurse gave the patient an injection.
+furiously|một cách giận dữ; dữ dội|He argued furiously against the decision.
+encourages|khuyến khích; thúc đẩy|The program encourages children to read every day.
+praised|đã khen ngợi|The teacher praised her for the careful work.
+gorgeous|rất đẹp; lộng lẫy|The garden looked gorgeous in the morning light.
+prompts|thúc đẩy; gợi ra; khiến|The question prompts students to think more deeply.
+exchange|trao đổi; sự trao đổi|The students exchange ideas after the presentation.
+part with|chia tay với; từ bỏ một vật mình sở hữu|He refused to part with the old family photograph.
+forced|bị ép buộc; cưỡng ép|They were forced to leave because of the storm.
+proper|phù hợp; đúng đắn; thích hợp|Proper preparation can prevent many mistakes.
+uncomplicated|không phức tạp; đơn giản|The procedure is short and uncomplicated.
+sequel|phần tiếp theo|The sequel continues the story of the first film.
+annoy|làm khó chịu; chọc tức|Repeated notifications can annoy users.
+hurdles|các trở ngại; rào cản|The project faced several financial hurdles.
+assessing|đang đánh giá; việc đánh giá|Doctors are assessing the patient before treatment.
+represents|đại diện; thể hiện|The symbol represents peace and cooperation.
+infection|sự nhiễm trùng|The wound developed an infection.
+parasitic|thuộc ký sinh; do ký sinh trùng|Malaria is caused by a parasitic organism.
+specifically|cụ thể; đặc biệt là|The course is designed specifically for beginners.
+clinical|thuộc lâm sàng; liên quan điều trị bệnh nhân|The vaccine was tested in a clinical trial.
+yielded|đã tạo ra; đã mang lại; đã cho ra (động từ)|The clinical trial yielded promising results.
+yield|tạo ra; mang lại; cho ra (động từ)|The new method may yield more reliable results.
+a month apart|cách nhau một tháng|The two vaccine doses were given a month apart.
+severe|nghiêm trọng; nặng; khắc nghiệt|Severe malaria can become life-threatening.
+effectiveness|hiệu quả; mức độ hiệu quả|Researchers measured the effectiveness of the vaccine.
+declined|đã giảm; đã suy giảm|The number of cases declined after vaccination.
+essential|thiết yếu; cực kỳ cần thiết|Clean water is essential for good health.
+malaria|bệnh sốt rét|Malaria is spread by infected mosquitoes.
+administered|đã được cho dùng; đã được tiêm/cấp (thuốc)|The vaccine was administered by a trained nurse.
+childhood vaccines|các vắc-xin dành cho trẻ em|Childhood vaccines protect against several serious diseases.
+partially|một phần; chưa hoàn toàn|The treatment was only partially effective.
+disease|bệnh; bệnh tật|The disease can spread rapidly without treatment.
+grant|cấp; trao; cho phép (động từ)|The agency may grant additional funding to the project.
+milk extracts|các chiết xuất từ sữa|Researchers detected milk extracts in ancient pottery.
+vessels|bình; đồ đựng; vật chứa|The archaeologists examined pottery vessels from the site.
+pottery|đồ gốm|Ancient pottery can reveal what people cooked and stored.
+perforated|được đục lỗ; có lỗ|The vessel had a perforated base.
+obvious|rõ ràng; dễ nhận thấy|There was no obvious sign of damage.
+northern|thuộc phía bắc|The samples came from a northern European site.
+Neolithic|thuộc thời kỳ Đồ đá mới|The settlement dates to the Neolithic period.
+lipid|chất béo; lipid|Scientists identified a lipid from animal fat.
+detected|đã phát hiện|The test detected traces of milk fat.
+traces|dấu vết; lượng rất nhỏ còn lại|Researchers found traces of fat inside the vessel.
+convincing|thuyết phục; đáng tin|The evidence provides a convincing explanation.
+prehistoric|thuộc thời tiền sử|The cave contains prehistoric paintings.
+ingredient|thành phần; nguyên liệu|Milk may have been an important ingredient in the mixture.
+domesticated|đã được thuần hóa|Early farmers kept domesticated cattle and goats.
+predates|có trước; xảy ra trước|This discovery predates earlier evidence by several centuries.
+genetic|thuộc di truyền; thuộc gen|The researchers compared genetic evidence from several populations.
+lactose intolerant|không dung nạp lactose|A lactose intolerant person may have difficulty digesting fresh milk.
+consume|tiêu thụ; ăn; uống|Some adults can consume milk without discomfort.
+undesirable|không mong muốn; không có lợi|The treatment produced several undesirable side effects.
+upset|làm rối loạn; gây khó chịu (động từ)|Too much lactose can upset digestion.
+digestion|sự tiêu hóa|Certain foods can affect digestion.
+cow|bò; bò cái|Cow milk contains lactose.
+goat|dê|Goat milk was also used by early farming communities.`;
 const DATA=RAW.trim().split('\n').map(r=>r.split('|')),SIZE=10,ORDER_KEY='vocab-trio-order-v1';
 function loadOrder(){try{const x=JSON.parse(localStorage.getItem(ORDER_KEY));if(Array.isArray(x)&&x.length===DATA.length&&new Set(x).size===DATA.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<DATA.length))return x}catch{}return [...Array(DATA.length).keys()]}
 let wordOrder=loadOrder(),LESSONS=makeLessons(wordOrder);
 function makeLessons(order){return Array.from({length:Math.ceil(order.length/SIZE)},(_,i)=>order.slice(i*SIZE,(i+1)*SIZE).map(n=>DATA[n]))}
-const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['conditions','circumstances'],['argue','contend'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried']];
+const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['conditions','circumstances'],['argue','contend'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried'],['innkeepers','inn owners'],['perishable','easily spoiled'],['subject','liable to'],['period','span'],['native industries','domestic industries'],['national','countrywide'],['title to land','land ownership'],['protectionist','trade-protective'],['drastic change','major change'],['progressive','gradual'],['organisms','living things'],['seed','plant reproductive unit'],['vascular','vessel-related'],['terrestrialization','move onto land'],['diversified explosively','rapidly branched out'],['paleontologists','fossil scientists'],['geological','earth-science related'],['turns out','proves to be'],['bath','soak'],['deposited','laid down'],['origins','beginnings'],['existence','being'],['invasion','incursion'],['revised','corrected'],['revisions','amendments'],['speculations','guesses'],['determinations','conclusions'],['detour','diversion'],['interfere','disrupt'],['navigational','guidance-related'],['reserve','set aside'],['jogging','running'],['involves','includes'],['rinse','wash'],['saucepan','cooking pot'],['stir','mix'],['lid','cover'],['lit','illuminated'],['curb','kerb'],['prior','previous'],['advocate','support'],['instead','rather'],['disasters','catastrophes'],['seriousness','gravity'],['poverty','deprivation'],['occur','happen'],['frequently','often'],['ethical','moral'],['discriminate','treat unfairly'],['evaluating','assessing'],['concern','worry'],['eligible','qualified'],['implied','suggested'],['injection','shot'],['furiously','angrily'],['encourages','promotes'],['praised','complimented'],['gorgeous','beautiful'],['prompts','triggers'],['exchange','swap'],['part with','give up'],['forced','compelled'],['proper','appropriate'],['uncomplicated','simple'],['sequel','follow-up'],['annoy','irritate'],['hurdles','obstacles'],['represents','symbolizes'],['infection','infectious condition'],['parasitic','parasite-related'],['specifically','particularly'],['clinical','medical'],['yielded','produced'],['yield','produce'],['a month apart','separated by one month'],['effectiveness','efficacy'],['declined','decreased'],['essential','necessary'],['malaria','mosquito-borne disease'],['administered','given'],['childhood vaccines','children\'s immunizations'],['partially','partly'],['disease','illness'],['grant','give'],['milk extracts','milk-derived substances'],['vessels','containers'],['pottery','ceramics'],['perforated','pierced'],['obvious','evident'],['northern','northerly'],['Neolithic','New Stone Age'],['lipid','fat'],['detected','discovered'],['traces','remnants'],['convincing','persuasive'],['prehistoric','prehistory-era'],['ingredient','component'],['domesticated','tamed'],['predates','comes before'],['archaeological','archaeology-related'],['genetic','hereditary'],['lactose intolerant','unable to digest lactose'],['consume','ingest'],['undesirable','unwanted'],['upset','disturb'],['digestion','digestive process'],['cow','female cattle'],['goat','caprine animal']];
 const SYN_ORDER_KEY='vocab-trio-syn-order-v1';
 function loadSynOrder(){try{const x=JSON.parse(localStorage.getItem(SYN_ORDER_KEY));if(Array.isArray(x)&&x.length===SYNONYMS.length&&new Set(x).size===SYNONYMS.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<SYNONYMS.length))return x}catch{}return [...Array(SYNONYMS.length).keys()]}
 let synOrder=loadSynOrder(),SYN_LESSONS=makeSynLessons(synOrder);
 function makeSynLessons(order){return Array.from({length:Math.ceil(order.length/SIZE)},(_,i)=>order.slice(i*SIZE,(i+1)*SIZE).map(n=>SYNONYMS[n]))}
 
-const ENGLISH_HINTS_RAW=`abrasion|damage caused by rubbing or scraping a surface
+const ENGLISH_HINTS_RAW=`a month apart|separated in time by one month
+abrasion|damage caused by rubbing or scraping a surface
 acronym|a word formed from the first letters of other words
+administered|gave or applied a medicine, treatment, or test
 admiration|a feeling of respect and approval
+advocate|to publicly support or recommend an idea or action
 affect|to influence or change something
 affected|changed or influenced by something
 alarming|causing worry or fear
 allowed|given permission to happen or be done
 alters|changes something
 ambiguous|having more than one possible meaning or interpretation
+amendments|changes or revisions made to a text, plan, or rule
 amplification|the process of making something stronger, louder, or larger
+angrily|in a furious or angry way
+annoy|to make someone slightly angry or irritated
 anthropologist|a scientist who studies humans, societies, and cultures
 apparatus|equipment or a set of devices used for a particular purpose
 appeared|became visible or became known
+appropriate|proper or suitable
 archaeological|related to the study of ancient people through physical remains
 archaeology|the study of ancient societies through material remains
+archaeology-related|related to archaeology
 argue|to give reasons for or against an idea
+assessing|judging or measuring the quality, value, or condition of something
 assistance|help or support
 assumed|accepted as true without complete proof
 at the turn of the century|around the time when one century changes into the next
@@ -313,7 +402,10 @@ awe|a strong feeling of wonder mixed with respect
 basic|simple and forming the most important foundation
 bath|washing the body in water, or a container or liquid used for soaking
 battery|a device that stores energy and provides electric power
+beautiful|very attractive
 began|started
+beginnings|the origins or earliest stages of something
+being|the state of existing
 border|a line separating two areas or countries
 borderline|a dividing line, or very close to a limit
 boundary|a line or limit separating two areas, periods, or categories
@@ -324,47 +416,70 @@ buried|placed or hidden under the ground or another material
 canals|artificial waterways made for boats, water supply, or transport
 capable|having the ability or skill to do something
 capitalism|an economic system based mainly on private ownership and markets
+caprine animal|a goat or goat-like animal
 carelessly|without enough attention or caution
 carnival|a public festival with entertainment, costumes, rides, or celebrations
 cases|particular examples or situations
+catastrophes|events causing very great damage or suffering
 caught|captured, trapped, or stopped
 caused|made something happen
+ceramics|pottery or objects made from fired clay
 characteristics|typical qualities or features of a person or thing
 charters|official documents giving rights, powers, or permission
 cheap|low in price
 chemical|a substance with a particular chemical composition or properties
+childhood vaccines|vaccines given to children to protect them from disease
+children's immunizations|vaccines given to children
 circumstances|the conditions and facts surrounding an event
+clinical|related to medical treatment or the study of patients
 coasts|areas of land beside the sea
 cohesion|the quality of staying united and working well together
 coined|created a new word, phrase, or expression
 collect|to bring things together
 colonized|settled and established a population in a new area
 colony|a settlement or territory controlled by another group or country
+comes before|predates or happens earlier
 commodities|basic goods or raw materials that can be bought and sold
 common|happening often or shared by many people
 compel|to force or strongly persuade someone to do something
+compelled|forced or strongly made to do something
+complimented|praised or expressed approval
+component|an ingredient or part of something
 comprehensive|complete and covering nearly all important details
 conceived|formed or developed an idea in the mind
+concern|a worry or something that causes anxiety
+conclusions|judgments or determinations reached after considering evidence
 conditions|the circumstances or situation in which something happens
 conduct|to organize and carry out an activity or study
 confusing|difficult to understand or making you unsure
 consciously|with deliberate awareness of what you are doing
 constant|continuing without stopping or changing much
 construction|the process of building something
+consume|to eat, drink, use, or use up something
+containers|vessels used to hold things
 contend|to argue or state strongly that something is true
 continuum|a continuous range with no clear divisions between stages
 controlling|regulating or directing how something works
 controversial|causing strong disagreement or public argument
 conveying|communicating or expressing an idea, feeling, or message
+convincing|able to make someone believe that something is true
+cooking pot|a container used for cooking food
 coordinates|organizes people or activities so they work together effectively
+corrected|revised to remove errors or improve accuracy
 corrosion|gradual damage to metal caused by chemical reactions
 counterparts|people or things with a similar role in another place or system
+countrywide|across an entire country
+cover|something placed over an opening
+cow|an adult female of cattle, especially one kept for milk
 created|made something new
 crushed|pressed or broken with strong force
 culminating|reaching the final or highest point
+curb|the raised edge between a road and a sidewalk
 dangerous|likely to cause harm, injury, or loss
 debate|a discussion in which different opinions are argued
 deciding|making a choice or reaching a conclusion
+declined|became lower, weaker, or less
+decreased|declined or became lower
 deduced|worked out a conclusion from known facts
 definition|a statement explaining the meaning of a word or idea
 demonstrate|to show clearly that something is true or how something works
@@ -373,19 +488,32 @@ demonstration|a clear example, proof, or public showing of something
 depictions|representations or descriptions of something in art, writing, or media
 deposited|laid down or left in a particular place
 deposits|layers or amounts of material left in a place
+deprivation|a lack of basic needs or resources
 desirable|worth having or wanting
+detected|found or noticed something that was not immediately obvious
 determinations|decisions, conclusions, or acts of finding something out
 determining|deciding or establishing something
+detour|a different or longer route used to avoid the usual way
 device|a piece of equipment made for a particular purpose
+digestion|the process by which the body breaks down food
+digestive process|digestion
 direct|straight, immediate, or without an intermediary
+disasters|very serious events causing great damage or suffering
 discovered|found something for the first time
+discriminate|to treat people unfairly because they belong to a particular group
 discussion|a conversation in which ideas or opinions are exchanged
+disease|an illness or medical condition that affects the body
+disrupt|to interrupt or prevent something from working normally
 distinct|clearly different or separate
 distinguish|to recognize or show the difference between things
+disturb|to upset or interfere with normal operation
 diverse|including many different types or kinds
 diversified|became more varied or developed into different forms
 diversified explosively|developed into many different forms very rapidly
+diversion|an alternative route around an obstacle
 domestic|related to one's own country or home
+domestic industries|industries operating within a country
+domesticated|tamed and bred by humans for use or companionship
 dramatically|in a sudden, striking, or very noticeable way
 drastic|extreme and likely to have a strong effect
 drastic change|a very large, sudden, or extreme change
@@ -393,10 +521,15 @@ due to|because of
 dug up|removed from the ground by digging
 durable|able to last a long time without being damaged
 duties|taxes on goods, or responsibilities that someone must perform
+earth-science related|related to geology or the study of Earth
+easily spoiled|likely to become bad or unsafe quickly
 ecological|related to living things and their environment
 ecology|the study of relationships between living things and their environment
+effectiveness|the degree to which something successfully produces the intended result
+efficacy|effectiveness in producing a desired result
 efficient|working well without wasting time, energy, or resources
 either|one or the other of two choices
+eligible|meeting the conditions required to take part or receive something
 embellish|to decorate or add extra details, sometimes to make a story more interesting
 embellished|decorated or made more interesting with extra details
 emerged|appeared, became known, or came into view
@@ -404,23 +537,29 @@ emission|the act of sending out light, heat, gas, or another substance
 emit|to send out light, heat, sound, gas, or radiation
 emitted|sent out light, heat, sound, gas, or another form of energy
 encouraged|gave support, confidence, or motivation
+encourages|gives support or confidence, or makes something more likely
 ending|the final part or conclusion
 enforcing|making sure a rule or law is obeyed
 engaged|involved or taking part in an activity
 enhance|to improve or increase the quality, value, or strength of something
 enhanced|improved or made stronger, better, or more attractive
 entombed|buried or enclosed as if in a tomb
+essential|completely necessary or extremely important
 essentials|things that are absolutely necessary
 establishing|creating, starting, or setting something up
+ethical|morally right or related to principles of right and wrong
 ethnographic|related to the study and description of cultures and communities
+evaluating|judging the quality, value, or effectiveness of something
 eventually|at some later time, especially after a delay
 evidence|facts or information that support a conclusion
+evident|obvious or clear
 examination|a careful inspection or study
 examining|looking at something carefully
 excavated|dug out carefully, especially from the ground
 exceptional|unusually good, rare, or different
 exceptionally|to an unusually high degree
 excess energy|energy that is more than what is needed or normally available
+exchange|to give one thing and receive another, or to share things with each other
 existence|the state of being real or present
 exposed|not protected and therefore open to contact, view, or danger
 express|to communicate a thought, feeling, or idea
@@ -429,32 +568,56 @@ extensive|covering a large area, amount, or range
 extreme|very great, severe, or far from normal
 facilitation|the act of making a process easier
 fast|moving or happening quickly
+fat|a lipid or fatty substance
 fear|the feeling caused by danger or threat
 features|important or noticeable parts or qualities of something
 fed|ate food or supplied food to someone or something
 federal|related to a central government shared with states or regions
+female cattle|a cow
 fictional|invented for a story and not real
 fittings|fixed pieces of equipment or accessories in a building or object
+follow-up|something that continues or comes after an earlier item
 followed|went after, obeyed, or continued along something
 force|to make someone do something, or strong physical power
+forced|made to do something against one’s choice
 forecast|a prediction about what is likely to happen
 fossil|preserved remains or traces of an ancient organism
+fossil scientists|scientists who study fossils and ancient life
 founding|the act of establishing an organization, place, or institution
 frequent|happening often
+frequently|often or many times
 frightened|afraid or scared
 frontier|the edge of settled or explored land, or a boundary area
+furiously|in a very angry or intense way
 gained|obtained, achieved, or increased
 gather|to collect things or bring people together
 gave|provided or handed something to someone
 generalist|a person with knowledge or skills in many different areas
+genetic|related to genes or inherited characteristics
 geological|related to the structure and history of the Earth
+give|an English equivalent or near-synonym of “grant”
+give up|to part with or stop having something
+given|administered or provided
+goat|a horned farm animal often kept for milk, meat, or fiber
 goods|items that are made, bought, or sold
+gorgeous|extremely beautiful or attractive
+gradual|happening slowly in stages
+grant|to officially give, allow, or provide something
 granted|gave, allowed, or officially approved something
+gravity|seriousness or importance
+guesses|ideas formed without enough evidence
+guidance-related|related to directing or navigating
+happen|to occur or take place
 happens|takes place
+hereditary|genetic or inherited
 hilarious|extremely funny
 hostile|unfriendly, aggressive, or difficult to live in
+hurdles|problems or difficulties that must be overcome
+illness|disease or poor health
+illuminated|lit or made bright with light
 imagined|formed a picture or idea in the mind
 imparted|gave or passed on a quality, feeling, or piece of information
+implied|suggested something without saying it directly
 important|having great value, effect, or significance
 imposing|forcing a rule, tax, condition, or burden on someone
 impossible|not able to happen, exist, or be done
@@ -463,17 +626,25 @@ improvise|to create or do something using what is available, without preparation
 improvised|made or done quickly without advance preparation
 in preventing|while stopping something from happening
 include|to contain something as part of a whole
+includes|contains something as part of a whole
 incorporate|to include something as part of a larger whole
 incorporated|included something as part of a larger whole
 incorporation|the act of including something as part of a larger whole
 increasingly|more and more over time
+incursion|an invasion or entry into a place
 independently|without help, control, or connection from others
 inevitable|certain to happen and impossible to avoid
 inexpensive|not costing much money
+infection|a condition caused when harmful microorganisms enter the body
+infectious condition|an illness caused by infection
 inferred|reached a conclusion from evidence rather than direct observation
 influence|the power or ability to affect what happens
 influential|having the power to affect people, events, or decisions
+ingest|consume by eating or drinking
+ingredient|one of the substances or parts used to make something
 initially|at the beginning
+injection|medicine or another substance put into the body using a needle
+inn owners|people who own or manage inns
 innkeepers|people who own or manage inns
 innovative|introducing new ideas, methods, or designs
 inspecting|examining something carefully to check its condition or quality
@@ -484,6 +655,7 @@ inspires|makes someone feel motivated to do or create something
 instances|examples or particular cases
 instead|in place of something else
 intensification|the process of becoming stronger or more intense
+interfere|to get involved in a way that prevents something from working normally
 internal|inside an organization, country, or system
 interrelationship|a relationship in which two or more things affect each other
 intersection|a place or point where two or more things cross
@@ -493,30 +665,60 @@ invasion|an act of entering and spreading into a place, often forcefully
 invented|created something new for the first time
 involved|taking part in or connected with something
 involvement|the act or state of taking part in something
+involves|includes something as a necessary part
+irritate|to annoy
+jogging|running slowly and steadily for exercise
+kerb|the British spelling of curb, the edge of a road
+lactose intolerant|unable to digest lactose properly
+laid down|deposited or placed in layers
+land ownership|the legal right to own land
 land-based|located, living, or operating on land
+liable to|subject to or likely to experience something
 licensing|the process of officially giving permission to do something
+lid|a removable cover for a container
 limitations|restrictions or conditions that reduce what is possible
+lipid|a type of fat or fat-like substance in living things
+lit|illuminated or made bright with light
+living things|organisms that are alive
 long-lasting|continuing for a long time
 looked for|tried to find
 lumber|wood that has been cut and prepared for building
 mainly|mostly or primarily
+major change|a very large or important change
+malaria|a mosquito-borne disease caused by parasites
 maneuvering|careful or strategic actions used to gain an advantage
 manipulate|to control, move, or handle something skillfully
 manufacturers|companies or people that make products
+medical|related to medicine or healthcare
 merchants|people or businesses that buy and sell goods
+milk extracts|substances taken or extracted from milk
+milk-derived substances|substances obtained from milk
 miniature|very small, or a small copy of something
 mirrored|closely reflected or was similar to something
+mix|to combine substances by moving them together
 molecules|groups of atoms joined together
+moral|related to principles of right and wrong
+mosquito-borne disease|a disease spread by mosquitoes
+move onto land|the transition from living in water to living on land
 mundane|ordinary and not very interesting or exciting
 murder mystery|a story about discovering who committed a murder
 national|related to an entire country
 native industries|industries that belong to or developed within a country
+navigational|related to finding and following a route
+necessary|essential or required
+neolithic|related to the New Stone Age
+new stone age|the Neolithic period
+northerly|northern or toward the north
+northern|located in or related to the north
 notable|important or interesting enough to deserve attention
+obstacles|hurdles or difficulties
+obvious|easy to see, understand, or notice
 occasions|particular times, events, or opportunities
 occur|to happen or take place
 occurred|happened or took place
 occurs|happens or takes place
 odor|a smell
+often|frequently
 orbit|the curved path of an object around a planet, star, or other body
 orchestras|large groups of musicians playing instruments together
 order|a particular arrangement or sequence
@@ -529,7 +731,14 @@ ornament|an object used for decoration
 ornaments|objects used mainly for decoration
 outlining|giving the main points without all the details
 paleontologists|scientists who study fossils and ancient life
+parasite-related|related to parasites
+parasitic|living on or in another organism and taking resources from it
+part with|to give away or stop owning something, often unwillingly
+partially|only in part and not completely
+particularly|specifically or especially
+partly|partially
 peddlers|people who travel around selling goods
+perforated|having one or more holes made through it
 perform|to carry out a task or present something to an audience
 period|a length of time
 periodic|happening repeatedly at regular intervals
@@ -537,33 +746,55 @@ periodical|a publication issued regularly, or something occurring periodically
 periodically|from time to time at regular or repeated intervals
 perishable|likely to spoil or decay quickly
 permitted|allowed
+persuasive|convincing
+pierced|perforated or made with holes
 plankton|tiny organisms that float or drift in water
+plant reproductive unit|a seed or similar structure that can grow into a new plant
 platform|a system, service, or raised surface used for a particular purpose
 pleasing|pleasant, attractive, or enjoyable
 portable|easy to carry or move
 possess|to own, have, or contain something
 possessed|owned or had a particular quality
+pottery|objects made from baked clay
+poverty|the state of having very little money or resources
+praised|expressed approval or admiration for someone or something
+predates|existed or happened earlier than something else
 predominantly|mainly or mostly
+prehistoric|belonging to the time before written history
+prehistory-era|belonging to prehistoric times
 prevalent|common or widespread
+previous|earlier in time
 primitive|simple, early, or not highly developed
+prior|earlier in time or before something else
+produce|to yield or create a result
 produced|made, created, or caused
 progressive|developing gradually, or favoring improvement and reform
 progressively|gradually, step by step
 promoted|encouraged, supported, or helped something grow
+promotes|encourages or supports the growth of something
+prompts|causes or encourages a reaction, thought, or action
 proof|evidence showing that something is true
+proper|correct, suitable, or appropriate for a situation
 protectionist|designed to protect domestic businesses from foreign competition
+proves to be|is eventually shown or discovered to be
 provocative|likely to cause strong thought, reaction, or disagreement
 purely|completely and only for one reason or purpose
 purposely|intentionally; on purpose
 pursued|continued trying to achieve, follow, or obtain something
+qualified|meeting the necessary requirements
 radiation|energy that travels as waves or particles
 radical|very different from the usual way; involving major change
 rapid|happening very quickly
+rapidly branched out|became diverse very quickly
+rather|instead; as an alternative
 reflected|showed, represented, or gave back an image
 regular|happening repeatedly or according to a usual pattern
 regulatory|related to rules that control an activity or industry
 relatively|when compared with something else
 release|to let something out, free, or send it into the environment
+remnants|traces or small remaining parts
+represents|stands for, symbolizes, or shows something
+reserve|to arrange or keep something for future use
 restrictions|rules or limits that control what is allowed
 retail|the sale of goods directly to customers
 retailers|businesses or people who sell goods directly to customers
@@ -571,8 +802,11 @@ revealed|made something previously hidden or unknown become known
 reveals|shows or makes something previously hidden known
 revised|changed or corrected after reviewing
 revisions|changes made to improve, correct, or update something
+rinse|to wash something quickly with clean water
 risky|involving a possibility of danger, loss, or failure
+running|moving quickly on foot, or the activity of doing so
 samples|small parts or examples used to represent a larger whole
+saucepan|a deep cooking pan with a handle
 scarcity|a situation in which there is not enough of something
 scrutinises|examines something very carefully
 sediments|small particles of rock, soil, or organic material deposited in layers
@@ -580,16 +814,26 @@ seed|a plant structure from which a new plant can grow
 selling|giving goods or services in exchange for money
 sense|to notice or detect something, or the ability to perceive it
 separate|not joined, connected, or the same
+separated by one month|having exactly one month between two events
+sequel|a book, film, or story that continues an earlier one
 sequence|a set of things arranged in a particular order
+serious|severe or important
+seriousness|the degree to which something is severe or important
+set aside|to reserve something for a particular purpose
 settled|established a home, community, or final agreement
 settlement|a place where people establish a community, or the act of settling
-severe|very serious, harsh, or intense
+severe|very serious, intense, or harsh
 shores|the land along the edge of a sea, lake, or large river
+shot|an injection, especially of medicine or a vaccine
 show|to make something visible or clear
 significant|important, meaningful, or large enough to be noticed
 similarly|in a similar way
+simple|uncomplicated and easy to understand
 smashed|broken or hit with great force
+soak|an act or period of being immersed in liquid
 sought|tried to find, obtain, or achieve something
+span|a period or length of time
+specifically|in a precise or particular way
 specimens|individual samples used for study or examination
 speculated|made guesses about something without enough evidence
 speculation|guessing or forming ideas without enough evidence
@@ -602,13 +846,19 @@ states|political regions that form part of a larger country
 steady|stable and not changing suddenly
 stimulate|to encourage activity, growth, interest, or development
 stimulated|encouraged or caused something to become more active
+stir|to move a liquid or mixture around with a spoon or similar tool
 straight|direct and without bends or detours
 strategizing|planning carefully to achieve a goal
 subject|a topic, person, or thing being discussed, or something under a rule
 such|of the type just mentioned
+suggested|implied without stating directly
 summarizing|giving the main points in a shorter form
 supplant|to replace something and take its position
+support|to approve of or argue in favor of something
 supposed|believed or assumed to be true
+swap|an exchange of one thing for another
+symbolizes|represents an idea or quality
+tamed|domesticated
 tariffs|taxes placed on imported or exported goods
 tended to be more intense|usually or generally became stronger or more severe
 terrestrial|living on or relating to land rather than water
@@ -620,31 +870,46 @@ thus|therefore; as a result
 timber|wood prepared for building or construction
 title to land|legal ownership of a piece of land
 toddlers|very young children who are learning to walk
+traces|very small amounts or signs that something was present
+trade-protective|designed to protect domestic trade from foreign competition
 traders|people who buy and sell goods
 trapped|caught and unable to escape or move freely
+treat unfairly|to discriminate against someone
+triggers|prompts or causes something to happen
 turns out|is discovered or shown to be true in the end
 ultimately|in the end, after everything has been considered
+unable to digest lactose|lactose intolerant
 unadorned|plain and without decoration
 unavoidable|impossible to prevent or escape
 unbelievable|very difficult to believe, or extremely impressive
 uncertain|not known, definite, or sure
+uncomplicated|simple and not difficult to understand or deal with
 uncovered|discovered or revealed something previously hidden
+undesirable|not wanted or not considered good
 unfortunately|used to say that something is disappointing or unlucky
 unfriendly|not kind, welcoming, or supportive
 unravel|to solve, explain, or make a complicated thing clear
+unwanted|undesirable
+upset|to disturb the normal condition or operation of something
 varied|including or showing many different types
 various|several different kinds
 vascular|related to vessels that carry fluids, especially in plants or animals
 vendors|people or businesses that sell things
+vessel-related|related to tubes or vessels that carry fluid
+vessels|containers such as bowls, jars, or pots
 vital|extremely important or necessary
+wash|to clean with water or another liquid
 wavelength|the distance between matching points of two successive waves
 wide-ranging|covering many subjects, areas, or types
 widespread|existing or happening over a large area or among many people
 witnessed|saw an event happen
 worn|used as clothing or damaged through long use
+worry|a concern or feeling of anxiety
 worrying|causing concern or anxiety
 worsened|became worse
-yet|but nevertheless; up to the present time`;
+yet|but nevertheless; up to the present time
+yield|to produce, provide, or result in something
+yielded|produced, provided, or resulted in something`;
 const ENGLISH_HINTS=Object.fromEntries(ENGLISH_HINTS_RAW.trim().split('\n').map(line=>{const p=line.indexOf('|');return [line.slice(0,p),line.slice(p+1)]}));
 function englishHintKey(word){return word.toLowerCase().replace(/\s*\(verb\)\s*$/,'').trim()}
 function getEnglishHint(word){return ENGLISH_HINTS[englishHintKey(word)]||'Use the example sentence and context to infer this word.'}
