@@ -3,3 +3,5 @@
 .english-hint{display:block;margin-top:10px;padding-top:8px;border-top:1px solid #6ed5ff38;color:var(--blue);font-size:.78rem;font-weight:650;line-height:1.42;padding-right:4px}
 .word-card.selected,.syn-card.selected{height:auto}
 .syn-card .english-hint{font-size:.76rem;text-align:left;font-weight:600;color:#aee9ff}
+
+.card,.syn-card,.primary,.tab,.lesson,.mode-choice,.random-btn{touch-action:manipulation}
