@@ -21,6 +21,7 @@ emerged|xuất hiện; nổi lên|A clear pattern emerged from the data.
 debate|cuộc tranh luận; tranh luận|The proposal sparked a public debate.
 conditions|điều kiện; hoàn cảnh|Plants grow quickly under these conditions.
 argue|lập luận; tranh luận|Some experts argue that the policy is ineffective.
+argued|đã lập luận; đã tranh luận|Researchers argued that the evidence supported a different explanation.
 intervention|sự can thiệp|Early intervention can prevent further damage.
 influence|ảnh hưởng; tác động|Culture can influence how people communicate.
 durable|bền; lâu hỏng|The bag is light but extremely durable.
@@ -67,6 +68,7 @@ battery|pin; ắc quy|The device runs on a rechargeable battery.
 efficient|hiệu quả; tiết kiệm năng lượng|The new system is more efficient.
 counterparts|những đối tượng tương ứng|Digital tools are faster than their traditional counterparts.
 toddlers|trẻ mới biết đi|Toddlers learn by touching and exploring.
+coughs|những cơn ho; ho (ngôi thứ ba số ít)|Air pollution can cause persistent coughs in some people.
 murder mystery|truyện hoặc phim bí ẩn án mạng|She enjoys reading a clever murder mystery.
 ambiguous|mơ hồ; có nhiều cách hiểu|The ending of the film is deliberately ambiguous.
 fictional|hư cấu|The story takes place in a fictional city.
@@ -82,6 +84,7 @@ admiration|sự ngưỡng mộ|I have great admiration for her work.
 fear|nỗi sợ; sợ hãi|Fear can affect our decisions.
 yet|tuy nhiên; nhưng vẫn; chưa|The task is difficult, yet still possible.
 terrified|vô cùng sợ hãi|The child was terrified by the loud noise.
+frightened|sợ hãi; hoảng sợ|The sudden noise frightened several children nearby.
 supplant|thay thế; chiếm chỗ|Digital media may supplant some printed materials.
 independently|một cách độc lập|The two teams worked independently.
 capable|có khả năng|The system is capable of learning from data.
@@ -95,6 +98,7 @@ retailers|các nhà bán lẻ|Online retailers offer a wide range of products.
 manufacturers|các nhà sản xuất|Manufacturers must follow safety standards.
 regular|thường xuyên; đều đặn|The equipment needs regular maintenance.
 platform|nền tảng; bục|The course is available on an online platform.
+youth hostels|nhà nghỉ giá rẻ dành cho thanh niên hoặc khách du lịch trẻ|Many backpackers stay in youth hostels to reduce travel costs.
 vital|thiết yếu; cực kỳ quan trọng|Clean water is vital for human health.
 conveying|truyền đạt; chuyên chở|Her voice was calm, conveying confidence.
 constant|liên tục; không đổi|The machine makes a constant low sound.
@@ -102,7 +106,9 @@ awareness|nhận thức; sự hiểu biết|The campaign raised awareness of oce
 scrutinises|xem xét kỹ lưỡng|The editor scrutinises every detail before publication.
 coordinates|phối hợp; tọa độ|She coordinates the work of several teams.
 forecast|dự báo|Experts forecast stronger demand next year.
+prediction|sự dự đoán; lời dự đoán|Her prediction about the weather turned out to be correct.
 conduct|tiến hành; cách cư xử|The team will conduct a new experiment.
+concentrate|tập trung|It is easier to concentrate in a quiet room.
 fittings|phụ kiện; thiết bị lắp cố định|The room still has its original brass fittings.
 express|bày tỏ; diễn đạt|Art allows people to express complex emotions.
 exposed|bị phơi bày; tiếp xúc|The metal was exposed to rain and wind.
@@ -115,6 +121,7 @@ characteristics|đặc điểm; tính chất|Curiosity is one of her defining ch
 distinguish|phân biệt|It can be difficult to distinguish fact from opinion.
 improvisation|sự ứng biến; ngẫu hứng|Jazz often leaves room for improvisation.
 improvise|ứng biến|We had to improvise when the power failed.
+touse|làm rối; vò rối; đối xử thô bạo|The strong wind toused his hair and left it completely untidy.
 improvised|được ứng biến; làm tạm|They built an improvised shelter.
 inspiration|nguồn cảm hứng|Nature is a constant source of inspiration.
 brilliance|sự xuất sắc; vẻ rực rỡ|Critics praised the brilliance of her performance.
@@ -133,6 +140,11 @@ consciously|một cách có ý thức|He consciously slowed his breathing.
 unadorned|không trang trí; mộc mạc|The room was simple and unadorned.
 inexpensive|không đắt; rẻ|The material is durable and inexpensive.
 ecological|thuộc sinh thái|The spill caused serious ecological damage.
+pollution|sự ô nhiễm|Heavy traffic is a major source of air pollution in the city.
+unspoiled|còn nguyên sơ; chưa bị tàn phá|The island is known for its unspoiled beaches and clear water.
+inhabitants|cư dân; người sinh sống|The island's inhabitants depend heavily on fishing and tourism.
+spoil|làm hỏng; phá hỏng|Too much development could spoil the natural beauty of the area.
+rubbish|rác; đồ bỏ đi|Visitors were asked not to leave rubbish on the beach.
 rapid|nhanh chóng|The region experienced rapid population growth.
 hostile|thù địch; khắc nghiệt|Few plants survive in this hostile environment.
 affected|bị ảnh hưởng|Several coastal towns were affected by the storm.
@@ -157,6 +169,7 @@ in preventing|trong việc ngăn chặn|Education plays a key role in preventing
 controversial|gây tranh cãi|The new policy remains controversial.
 tended to be more intense|có xu hướng dữ dội hơn|Storms near the coast tended to be more intense.
 period|giai đoạn; thời kỳ; dấu chấm|The region experienced a long period of drought.
+adopted|đã áp dụng; chấp nhận; nhận nuôi|The city adopted a new policy to reduce plastic waste.
 periodic|có tính định kỳ|The comet makes periodic appearances.
 due to|do; bởi vì|The match was canceled due to heavy rain.
 intersection|giao điểm; sự giao nhau|The accident happened at a busy intersection.
@@ -357,7 +370,7 @@ const DATA=RAW.trim().split('\n').map(r=>r.split('|')),SIZE=10,ORDER_KEY='vocab-
 function loadOrder(){try{const x=JSON.parse(localStorage.getItem(ORDER_KEY));if(Array.isArray(x)&&x.length===DATA.length&&new Set(x).size===DATA.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<DATA.length))return x}catch{}return [...Array(DATA.length).keys()]}
 let wordOrder=loadOrder(),LESSONS=makeLessons(wordOrder);
 function makeLessons(order){return Array.from({length:Math.ceil(order.length/SIZE)},(_,i)=>order.slice(i*SIZE,(i+1)*SIZE).map(n=>DATA[n]))}
-const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['conditions','circumstances'],['argue','contend'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried'],['innkeepers','inn owners'],['perishable','easily spoiled'],['subject','liable to'],['period','span'],['native industries','domestic industries'],['national','countrywide'],['title to land','land ownership'],['protectionist','trade-protective'],['drastic change','major change'],['progressive','gradual'],['organisms','living things'],['seed','plant reproductive unit'],['vascular','vessel-related'],['terrestrialization','move onto land'],['diversified explosively','rapidly branched out'],['paleontologists','fossil scientists'],['geological','earth-science related'],['turns out','proves to be'],['bath','soak'],['deposited','laid down'],['origins','beginnings'],['existence','being'],['invasion','incursion'],['revised','corrected'],['revisions','amendments'],['speculations','guesses'],['determinations','conclusions'],['detour','diversion'],['interfere','disrupt'],['navigational','guidance-related'],['reserve','set aside'],['jogging','running'],['involves','includes'],['rinse','wash'],['saucepan','cooking pot'],['stir','mix'],['lid','cover'],['lit','illuminated'],['curb','kerb'],['prior','previous'],['advocate','support'],['instead','rather'],['disasters','catastrophes'],['seriousness','gravity'],['poverty','deprivation'],['occur','happen'],['frequently','often'],['ethical','moral'],['discriminate','treat unfairly'],['evaluating','assessing'],['concern','worry'],['eligible','qualified'],['implied','suggested'],['injection','shot'],['furiously','angrily'],['encourages','promotes'],['praised','complimented'],['gorgeous','beautiful'],['prompts','triggers'],['exchange','swap'],['part with','give up'],['forced','compelled'],['proper','appropriate'],['uncomplicated','simple'],['sequel','follow-up'],['annoy','irritate'],['hurdles','obstacles'],['represents','symbolizes'],['infection','infectious condition'],['parasitic','parasite-related'],['specifically','particularly'],['clinical','medical'],['yielded','produced'],['yield','produce'],['a month apart','separated by one month'],['effectiveness','efficacy'],['declined','decreased'],['essential','necessary'],['malaria','mosquito-borne disease'],['administered','given'],['childhood vaccines','children\'s immunizations'],['partially','partly'],['disease','illness'],['grant','give'],['milk extracts','milk-derived substances'],['vessels','containers'],['pottery','ceramics'],['perforated','pierced'],['obvious','evident'],['northern','northerly'],['Neolithic','New Stone Age'],['lipid','fat'],['detected','discovered'],['traces','remnants'],['convincing','persuasive'],['prehistoric','prehistory-era'],['ingredient','component'],['domesticated','tamed'],['predates','comes before'],['archaeological','archaeology-related'],['genetic','hereditary'],['lactose intolerant','unable to digest lactose'],['consume','ingest'],['undesirable','unwanted'],['upset','disturb'],['digestion','digestive process'],['cow','female cattle'],['goat','caprine animal']];
+const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['frightened','scared'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['prediction','forecast'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['argue','contend'],['argued','contended'],['conditions','circumstances'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['adopted','accepted'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried'],['pollution','contamination'],['unspoiled','pristine'],['inhabitants','residents'],['spoil','ruin'],['rubbish','trash'],['coughs','bouts of coughing'],['concentrate','focus'],['touse','tousle'],['youth hostels','budget hostels'],['innkeepers','inn owners'],['perishable','easily spoiled'],['subject','liable to'],['period','span'],['native industries','domestic industries'],['national','countrywide'],['title to land','land ownership'],['protectionist','trade-protective'],['drastic change','major change'],['progressive','gradual'],['organisms','living things'],['seed','plant reproductive unit'],['vascular','vessel-related'],['terrestrialization','move onto land'],['diversified explosively','rapidly branched out'],['paleontologists','fossil scientists'],['geological','earth-science related'],['turns out','proves to be'],['bath','soak'],['deposited','laid down'],['origins','beginnings'],['existence','being'],['invasion','incursion'],['revised','corrected'],['revisions','amendments'],['speculations','guesses'],['determinations','conclusions'],['detour','diversion'],['interfere','disrupt'],['navigational','guidance-related'],['reserve','set aside'],['jogging','running'],['involves','includes'],['rinse','wash'],['saucepan','cooking pot'],['stir','mix'],['lid','cover'],['lit','illuminated'],['curb','kerb'],['prior','previous'],['advocate','support'],['instead','rather'],['disasters','catastrophes'],['seriousness','gravity'],['poverty','deprivation'],['occur','happen'],['frequently','often'],['ethical','moral'],['discriminate','treat unfairly'],['evaluating','assessing'],['concern','worry'],['eligible','qualified'],['implied','suggested'],['injection','shot'],['furiously','angrily'],['encourages','promotes'],['praised','complimented'],['gorgeous','beautiful'],['prompts','triggers'],['exchange','swap'],['part with','give up'],['forced','compelled'],['proper','appropriate'],['uncomplicated','simple'],['sequel','follow-up'],['annoy','irritate'],['hurdles','obstacles'],['represents','symbolizes'],['infection','infectious condition'],['parasitic','parasite-related'],['specifically','particularly'],['clinical','medical'],['yielded','produced'],['yield','produce'],['a month apart','separated by one month'],['effectiveness','efficacy'],['declined','decreased'],['essential','necessary'],['malaria','mosquito-borne disease'],['administered','given'],['childhood vaccines','children\'s immunizations'],['partially','partly'],['disease','illness'],['grant','give'],['milk extracts','milk-derived substances'],['vessels','containers'],['pottery','ceramics'],['perforated','pierced'],['obvious','evident'],['northern','northerly'],['Neolithic','New Stone Age'],['lipid','fat'],['detected','discovered'],['traces','remnants'],['convincing','persuasive'],['prehistoric','prehistory-era'],['ingredient','component'],['domesticated','tamed'],['predates','comes before'],['archaeological','archaeology-related'],['genetic','hereditary'],['lactose intolerant','unable to digest lactose'],['consume','ingest'],['undesirable','unwanted'],['upset','disturb'],['digestion','digestive process'],['cow','female cattle'],['goat','caprine animal']];
 const SYN_ORDER_KEY='vocab-trio-syn-order-v1';
 function loadSynOrder(){try{const x=JSON.parse(localStorage.getItem(SYN_ORDER_KEY));if(Array.isArray(x)&&x.length===SYNONYMS.length&&new Set(x).size===SYNONYMS.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<SYNONYMS.length))return x}catch{}return [...Array(SYNONYMS.length).keys()]}
 let synOrder=loadSynOrder(),SYN_LESSONS=makeSynLessons(synOrder);
@@ -909,7 +922,31 @@ worrying|causing concern or anxiety
 worsened|became worse
 yet|but nevertheless; up to the present time
 yield|to produce, provide, or result in something
-yielded|produced, provided, or resulted in something`;
+yielded|produced, provided, or resulted in something
+touse|to make something untidy or tangled, especially hair, or to handle it roughly
+tousle|to make hair or something similar untidy or disarranged
+coughs|repeated sudden actions of forcing air from the lungs, often because the throat is irritated
+bouts of coughing|periods in which a person coughs repeatedly
+pollution|harmful substances or waste that make air, water, or land dirty or unsafe
+contamination|the process of making something impure, dirty, or unsafe by adding harmful substances
+unspoiled|still natural, beautiful, and not damaged by development or human activity
+pristine|very clean, pure, or in its original undamaged condition
+inhabitants|people or animals that live in a particular place
+residents|people who live in a particular place
+spoil|to damage or ruin the quality, value, or enjoyment of something
+ruin|to damage something so badly that it loses its value, quality, or usefulness
+rubbish|waste material or things that are no longer wanted
+trash|waste or unwanted material that is thrown away
+scared|afraid or frightened
+concentrate|to direct your attention or effort fully toward one thing
+focus|to give special attention to one thing
+prediction|a statement about what you think will happen in the future
+argued|gave reasons for a particular opinion or disagreed with someone using reasons
+contended|argued or stated strongly that something was true
+youth hostels|inexpensive places where young travelers or backpackers can stay, often in shared rooms
+budget hostels|low-cost places providing simple accommodation, often for travelers
+adopted|accepted and began to use an idea, method, policy, or plan
+accepted|agreed to receive, approve, or use something`;
 const ENGLISH_HINTS=Object.fromEntries(ENGLISH_HINTS_RAW.trim().split('\n').map(line=>{const p=line.indexOf('|');return [line.slice(0,p),line.slice(p+1)]}));
 function englishHintKey(word){return word.toLowerCase().replace(/\s*\(verb\)\s*$/,'').trim()}
 function getEnglishHint(word){return ENGLISH_HINTS[englishHintKey(word)]||'Use the example sentence and context to infer this word.'}
