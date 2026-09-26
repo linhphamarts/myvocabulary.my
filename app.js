@@ -365,12 +365,175 @@ undesirable|không mong muốn; không có lợi|The treatment produced several 
 upset|làm rối loạn; gây khó chịu (động từ)|Too much lactose can upset digestion.
 digestion|sự tiêu hóa|Certain foods can affect digestion.
 cow|bò; bò cái|Cow milk contains lactose.
-goat|dê|Goat milk was also used by early farming communities.`;
+goat|dê|Goat milk was also used by early farming communities.
+slave|nô lệ|The plantation owner treated the man as a slave.
+named after the|được đặt tên theo|The town was named after the explorer who founded it.
+slender|mảnh mai; thon; mỏng|The tool had a long, slender wooden handle.
+frail|yếu ớt; mỏng manh|The frail old woman needed help walking.
+trifle|một điều nhỏ nhặt; một chút|The delay was only a trifle and caused no real problem.
+in want of a domestic|đang cần một người giúp việc trong nhà|The family was in want of a domestic to help with household work.
+waif|đứa trẻ lang thang; trẻ bị bỏ rơi|The novel tells the story of a homeless waif in the city.
+terminally ill|mắc bệnh nan y ở giai đoạn cuối|The charity provides care for terminally ill patients.
+surmised|đã suy đoán; phỏng đoán|From the footprints, the investigators surmised that two people had entered.
+evidently|rõ ràng; hiển nhiên là|Evidently, the storm had damaged the roof during the night.
+climate|khí hậu|The region has a warm and humid climate.
+carpet|thảm; trải thảm|A thick carpet covered the floor of the room.
+a quantity|một lượng; một số lượng|The workers stored a quantity of timber beside the workshop.
+circumstances of|hoàn cảnh của; các tình tiết xung quanh|The report examined the circumstances of the accident.
+shedding|sự rụng; sự thải ra|The animal begins shedding its winter coat in spring.
+poetry|thơ ca|She became famous for poetry about freedom and faith.
+poem|bài thơ|He wrote a short poem in memory of his friend.
+elegiac|mang tính ai điếu; buồn thương|The poem has an elegiac tone and mourns the dead.
+celebrated|nổi tiếng; được ca ngợi|She was a celebrated writer in her lifetime.
+divine|thiêng liêng; thần thánh|The poet described love as a divine gift.
+countess|nữ bá tước|The countess used her wealth to support charitable causes.
+wealthy|giàu có|A wealthy family funded the new school.
+evangelical|thuộc Tin Lành Phúc Âm; nhiệt thành truyền bá đức tin|The movement attracted many evangelical Christians.
+abolitionist|người theo chủ nghĩa bãi nô|The abolitionist campaigned against slavery.
+colonies|các thuộc địa|Several colonies depended heavily on overseas trade.
+infants|trẻ sơ sinh; trẻ nhỏ|The hospital provides special care for premature infants.
+grave|mộ; nghiêm trọng|Flowers were placed beside the grave.
+unmarked grave|ngôi mộ không có bia hay dấu đánh dấu|The soldiers were buried in an unmarked grave.
+nevertheless|tuy nhiên; dù vậy|The journey was difficult; nevertheless, they continued.
+enslaved|bị bắt làm nô lệ|Thousands of people were enslaved and forced to work.
+former|trước đây; cựu|The former teacher later became a writer.
+attachment to|sự gắn bó với; sự quyến luyến với|Her attachment to her hometown remained strong.
+millennia|hàng thiên niên kỷ|People have used wood for tools for millennia.
+conservatism|chủ nghĩa bảo thủ; khuynh hướng giữ truyền thống|Political conservatism often emphasizes tradition and gradual change.
+saws|các loại cưa|Carpenters used saws to cut timber into boards.
+chisels|các loại đục|The craftsman used chisels to shape the wood.
+planes|bào; dụng cụ bào gỗ|Woodworkers use planes to smooth wooden surfaces.
+augers|các mũi khoan xoắn; dụng cụ khoan lỗ|Large augers were used to bore holes in heavy timbers.
+compasses|compa; dụng cụ vẽ hoặc đo vòng tròn|The carpenter used compasses to mark a curved line.
+measures|phép đo; dụng cụ đo|Accurate measures were essential for fitting the pieces together.
+carpenters|thợ mộc|Skilled carpenters built the wooden frame of the house.
+shipwrights|thợ đóng tàu|Shipwrights shaped heavy timbers for wooden ships.
+at most|nhiều nhất; tối đa|The repair should take two hours at most.
+delicate|tinh xảo; mỏng manh; cần sự khéo léo|The decorative work required delicate handling.
+delicate chisels|những chiếc đục tinh nhỏ dùng cho chi tiết tinh xảo|Delicate chisels were used to carve the smallest details.
+specialization|sự chuyên môn hóa|Greater specialization allowed craftsmen to focus on particular tasks.
+primary|chính; chủ yếu; đầu tiên|Wood was the primary material used in the structure.
+joinery|kỹ thuật ghép nối gỗ; nghề mộc ghép|Traditional joinery can hold timber together without metal fasteners.
+protruding|nhô ra; lồi ra|A protruding peg was cut flush with the surface.
+projecting|nhô ra; chìa ra|The projecting beam extended beyond the wall.
+drilled|đã khoan|The carpenter drilled a hole through the beam.
+auger|mũi khoan xoắn; dụng cụ khoan lỗ|He used an auger to make a deep hole in the timber.
+peg|chốt; chốt gỗ|A wooden peg held the two beams together.
+whittled|đã gọt; đẽo bằng dao|He whittled the stick until it fitted the hole.
+whittled peg|chốt gỗ được gọt đẽo|A whittled peg was driven into the joint.
+secure|cố định; làm chắc; an toàn|The rope helped secure the load to the wagon.
+secure the joint|cố định mối nối; làm chắc mối ghép|The peg was hammered in to secure the joint.
+forged|được rèn; đã rèn|The blacksmith forged the iron into a strong hook.
+screws|ốc vít; đinh vít|Metal screws were used to attach the hinge.
+glue|keo dán; dán bằng keo|The carpenter applied glue before joining the pieces.
+hinges|bản lề|Iron hinges allowed the heavy door to swing open.
+cruder|thô sơ hơn; kém tinh xảo hơn|Earlier tools were cruder than the later versions.
+crude|thô sơ; thô ráp|They built a crude shelter from branches.
+finer|tinh hơn; mịn hơn; tốt hơn|Finer tools allowed craftsmen to make more precise cuts.
+plates|các tấm; bản kim loại|Metal plates strengthened the wooden connection.
+the latter|người/vật được nhắc đến sau trong hai đối tượng|Of oak and pine, the latter was easier to cut.
+above all|trên hết; quan trọng nhất|Above all, the workers needed patience and skill.
+dedication|sự tận tâm; cống hiến|The project required years of dedication.
+forts|các pháo đài; đồn quân sự|The army built forts along the frontier.
+bold|táo bạo; gan dạ|The explorers made a bold decision to continue west.
+daring|gan dạ; táo bạo|Daring adventurers crossed the mountains in winter.
+numerous|nhiều; rất nhiều|Numerous travelers stopped at the fort for supplies.
+posts|bài đăng; vị trí/trạm/đồn đóng quân trong ngữ cảnh quân đội|The establishment of military posts opened new roads, while online posts spread news quickly.
+expeditions|các cuộc thám hiểm; đoàn thám hiểm|Several expeditions passed through the region.
+obtain|có được; đạt được; lấy được|Travelers stopped at the fort to obtain fresh supplies.
+supplies|đồ tiếp tế; vật tư; nhu yếu phẩm|The wagon train carried food and medical supplies.
+refreshments|đồ ăn nhẹ và thức uống|Travelers were offered refreshments after the long journey.
+wagon trains|đoàn xe ngựa chở hàng/người|Wagon trains moved slowly across the frontier.
+frontiers|các vùng biên cương; vùng khai phá|Settlers moved toward the western frontiers.
+pony express|dịch vụ chuyển thư bằng ngựa tốc hành|The Pony Express carried mail across long distances.
+still others|còn những người khác nữa|Some became farmers, while still others worked as traders.
+chapels|các nhà nguyện|Small chapels were built near several settlements.
+religious|thuộc tôn giáo|The community held regular religious services.
+expenses|chi phí; khoản chi|The organization paid the travel expenses.
+inference|sự suy luận; kết luận suy ra|The conclusion was an inference based on limited evidence.
+promote|thúc đẩy; khuyến khích; quảng bá|The program was designed to promote better farming methods.
+gardening|việc làm vườn|The school taught gardening and basic agriculture.
+experimental|mang tính thử nghiệm|The farmers tested an experimental method of irrigation.
+agriculture|nông nghiệp|Agriculture became the main source of income in the region.
+stationed|được đóng quân; được bố trí tại|Soldiers were stationed at the fort throughout the winter.
+maintaining order|duy trì trật tự|The local officials were responsible for maintaining order.
+officials|các quan chức; viên chức|Government officials inspected the settlement.
+posed|đặt ra; gây ra|The rough terrain posed a serious obstacle to construction.
+obstacle|trở ngại; chướng ngại vật|The river was a major obstacle to travel.
+investigation|cuộc điều tra; sự nghiên cứu|The agency opened an investigation into the accident.
+foremost|hàng đầu; quan trọng nhất|Safety was the foremost concern of the engineers.
+inhibit|ngăn cản; kìm hãm|Cold temperatures can inhibit plant growth.
+involved|có liên quan; tham gia|Several departments were involved in the project.
+united|đoàn kết; thống nhất|The crisis united the local communities.
+exploited|bị khai thác; bị lợi dụng|Workers were exploited for cheap labor.
+hinder|cản trở|Heavy rain can hinder construction work.
+official|quan chức; chính thức|An official visited the fort to inspect conditions.
+incapacitated|mất khả năng hoạt động; không thể làm việc|The injured soldier was temporarily incapacitated.
+garrisons|các đơn vị đồn trú; quân đồn trú|Small garrisons protected the frontier forts.
+frequency|tần suất|Researchers measured the frequency of the events.
+surgeons|các bác sĩ phẫu thuật|Surgeons treated the most serious injuries.
+monitoring|việc theo dõi; giám sát|Regular monitoring helped detect changes early.
+composition|thành phần; cấu tạo; bài viết/sáng tác|Scientists analyzed the mineral composition of the sample.
+counterpart|đối tác; đối tượng tương ứng; bản sao/bản đối chiếu|The modern tool is lighter than its traditional counterpart.
+identical|giống hệt; đồng nhất|The two samples were almost identical in composition.
+interpretation|sự diễn giải; cách hiểu|The discovery led to a new interpretation of the evidence.
+dense|dày đặc; đặc|Dense bone contains fewer large spaces.
+pores|các lỗ nhỏ; lỗ rỗng|Water moved through tiny pores in the rock.
+minerals|các khoáng chất; khoáng vật|The water contained dissolved minerals.
+interstitial|nằm ở kẽ; thuộc khoảng giữa|Interstitial spaces can hold fluids between solid particles.
+foreign|ngoại lai; nước ngoài|Foreign material entered the pores of the bone.
+marrow cavity|khoang tủy xương|The marrow cavity lies inside the long bone.
+recrystallized|đã tái kết tinh|Some minerals recrystallized during fossilization.
+percolation|sự thấm qua; lọc qua|Percolation of mineral-rich water changed the bone.
+concentrations|nồng độ; sự tập trung|High concentrations of minerals were found in the sample.
+solution|dung dịch; giải pháp|The mineral solution moved through the pores, while a practical solution solved the problem.
+factors|các yếu tố|Several factors determine how quickly fossilization occurs.
+extent|mức độ; phạm vi|The extent of mineral replacement varied between specimens.
+antiquity|thời cổ đại; tính cổ xưa|The object has survived since antiquity.
+optimum|tối ưu; tốt nhất|The process works best under optimum conditions.
+remarkably|một cách đáng chú ý; đáng kinh ngạc|The structure was remarkably well preserved.
+microscopic|cực nhỏ; thuộc kính hiển vi|Microscopic pores can still contain minerals.
+lacunae|các hốc nhỏ, đặc biệt trong mô xương|Bone cells once occupied microscopic lacunae.
+living bone|mô xương sống; xương khi còn là mô sống|Living bone contains cells and blood vessels.
+resided|đã cư trú; nằm ở|The cells resided in tiny spaces within the bone.
+alter|thay đổi; làm biến đổi|Minerals can alter the original structure over time.
+unaltered|không bị thay đổi|Some parts of the specimen remained unaltered.
+virtually|hầu như; gần như|The original shape was virtually unchanged.
+retains|giữ lại; vẫn còn|The fossil retains much of its original structure.
+apparent|rõ ràng; có vẻ như|There was no apparent damage to the surface.
+component|thành phần; bộ phận|Calcium is an important component of bone.
+detectable|có thể phát hiện được|Only small amounts of the substance were detectable.
+moist|ẩm; hơi ướt|The soil remained moist after the rain.
+led|đã dẫn đến; đã dẫn dắt|The discovery led to a different conclusion.
+implication|hàm ý; hệ quả|One implication of the findings is that the process began earlier.
+tissues|các mô của cơ thể; khăn giấy|Soft tissues decay quickly, while tissues can also mean paper handkerchiefs.
+certainly|chắc chắn; chắc hẳn|The evidence certainly supports further research.
+threat|mối đe dọa|Pollution poses a serious threat to wildlife.
+ploughed|đã cày|The farmer ploughed the field before planting seeds.
+amazed|kinh ngạc|She was amazed by how quickly the plants grew.
+noticed|đã nhận thấy; chú ý|He noticed a small crack in the wall.
+jealous|ghen tị; ghen tuông|He felt jealous of his friend's success.
+rivalry|sự cạnh tranh; đối địch|A strong rivalry developed between the two teams.
+ditched|đã bỏ; vứt bỏ; đào mương|They ditched the old plan and started again.
+semester|học kỳ|The course lasts for one semester.
+commercials|quảng cáo trên truyền hình/phát thanh|The program was interrupted by several commercials.
+stressed|căng thẳng; được nhấn mạnh|She felt stressed before the final exam.
+frankly|thẳng thắn mà nói|Frankly, I do not think the plan will work.
+beliefs|niềm tin; tín ngưỡng|People's beliefs can influence their decisions.
+dawn|bình minh; sự khởi đầu|They left the camp at dawn.
+phenomena|các hiện tượng|Scientists study unusual natural phenomena.
+corporate|thuộc công ty; doanh nghiệp|The company changed its corporate strategy.
+statement|tuyên bố; phát biểu; bản kê|The witness gave a written statement to the police.
+reliability|độ tin cậy|The researchers tested the reliability of the equipment.
+expertise|chuyên môn; kiến thức chuyên sâu|Her expertise in engineering was essential to the project.
+efficiency|hiệu suất; tính hiệu quả|The new system improved efficiency and reduced waste.
+reassured|đã trấn an; làm yên lòng|The doctor reassured the patient that the test was routine.
+recognisable|có thể nhận ra; dễ nhận biết|The building remained recognisable despite the damage.`;
 const DATA=RAW.trim().split('\n').map(r=>r.split('|')),SIZE=10,ORDER_KEY='vocab-trio-order-v1';
 function loadOrder(){try{const x=JSON.parse(localStorage.getItem(ORDER_KEY));if(Array.isArray(x)&&x.length===DATA.length&&new Set(x).size===DATA.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<DATA.length))return x}catch{}return [...Array(DATA.length).keys()]}
 let wordOrder=loadOrder(),LESSONS=makeLessons(wordOrder);
 function makeLessons(order){return Array.from({length:Math.ceil(order.length/SIZE)},(_,i)=>order.slice(i*SIZE,(i+1)*SIZE).map(n=>DATA[n]))}
-const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['frightened','scared'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['prediction','forecast'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['argue','contend'],['argued','contended'],['conditions','circumstances'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['adopted','accepted'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried'],['pollution','contamination'],['unspoiled','pristine'],['inhabitants','residents'],['spoil','ruin'],['rubbish','trash'],['coughs','bouts of coughing'],['concentrate','focus'],['touse','tousle'],['youth hostels','budget hostels'],['innkeepers','inn owners'],['perishable','easily spoiled'],['subject','liable to'],['period','span'],['native industries','domestic industries'],['national','countrywide'],['title to land','land ownership'],['protectionist','trade-protective'],['drastic change','major change'],['progressive','gradual'],['organisms','living things'],['seed','plant reproductive unit'],['vascular','vessel-related'],['terrestrialization','move onto land'],['diversified explosively','rapidly branched out'],['paleontologists','fossil scientists'],['geological','earth-science related'],['turns out','proves to be'],['bath','soak'],['deposited','laid down'],['origins','beginnings'],['existence','being'],['invasion','incursion'],['revised','corrected'],['revisions','amendments'],['speculations','guesses'],['determinations','conclusions'],['detour','diversion'],['interfere','disrupt'],['navigational','guidance-related'],['reserve','set aside'],['jogging','running'],['involves','includes'],['rinse','wash'],['saucepan','cooking pot'],['stir','mix'],['lid','cover'],['lit','illuminated'],['curb','kerb'],['prior','previous'],['advocate','support'],['instead','rather'],['disasters','catastrophes'],['seriousness','gravity'],['poverty','deprivation'],['occur','happen'],['frequently','often'],['ethical','moral'],['discriminate','treat unfairly'],['evaluating','assessing'],['concern','worry'],['eligible','qualified'],['implied','suggested'],['injection','shot'],['furiously','angrily'],['encourages','promotes'],['praised','complimented'],['gorgeous','beautiful'],['prompts','triggers'],['exchange','swap'],['part with','give up'],['forced','compelled'],['proper','appropriate'],['uncomplicated','simple'],['sequel','follow-up'],['annoy','irritate'],['hurdles','obstacles'],['represents','symbolizes'],['infection','infectious condition'],['parasitic','parasite-related'],['specifically','particularly'],['clinical','medical'],['yielded','produced'],['yield','produce'],['a month apart','separated by one month'],['effectiveness','efficacy'],['declined','decreased'],['essential','necessary'],['malaria','mosquito-borne disease'],['administered','given'],['childhood vaccines','children\'s immunizations'],['partially','partly'],['disease','illness'],['grant','give'],['milk extracts','milk-derived substances'],['vessels','containers'],['pottery','ceramics'],['perforated','pierced'],['obvious','evident'],['northern','northerly'],['Neolithic','New Stone Age'],['lipid','fat'],['detected','discovered'],['traces','remnants'],['convincing','persuasive'],['prehistoric','prehistory-era'],['ingredient','component'],['domesticated','tamed'],['predates','comes before'],['archaeological','archaeology-related'],['genetic','hereditary'],['lactose intolerant','unable to digest lactose'],['consume','ingest'],['undesirable','unwanted'],['upset','disturb'],['digestion','digestive process'],['cow','female cattle'],['goat','caprine animal']];
+const SYNONYMS=[['important','vital'],['ordinary','mundane'],['ultimately','eventually'],['autonomously','independently'],['features','characteristics'],['rapid','fast'],['durable','long-lasting'],['pleasing','attractive'],['unavoidable','inevitable'],['demonstrate','show'],['revealed','uncovered'],['gather','collect'],['influence','affect'],['hostile','unfriendly'],['inexpensive','cheap'],['terrified','frightened'],['frightened','scared'],['conceived','imagined'],['compel','force'],['incorporate','include'],['speculative','uncertain'],['prediction','forecast'],['coined','invented'],['amplification','intensification'],['emission','release'],['device','apparatus'],['stimulated','encouraged'],['occurs','happens'],['emit','release'],['sought','looked for'],['outlining','summarizing'],['emerged','appeared'],['debate','discussion'],['argue','contend'],['argued','contended'],['conditions','circumstances'],['intervention','involvement'],['granted','gave'],['construction','building'],['various','diverse'],['internal','domestic'],['encouraged','promoted'],['provocative','controversial'],['innovative','original'],['alarming','worrying'],['separate','distinct'],['inferred','deduced'],['predominantly','mainly'],['regulatory','controlling'],['engaged','involved'],['direct','straight'],['extensive','wide-ranging'],['licensing','authorization'],['peddlers','vendors'],['merchants','traders'],['retail','selling'],['commodities','goods'],['inspecting','examining'],['frontier','border'],['staples','essentials'],['lumber','timber'],['restrictions','limitations'],['imposing','enforcing'],['establishing','founding'],['facilitation','assistance'],['settlement','colony'],['pursued','followed'],['stabilize','steady'],['permitted','allowed'],['adopted','accepted'],['increasingly','progressively'],['culminating','ending'],['tariffs','duties'],['maneuvering','strategizing'],['produced','created'],['frequent','common'],['inspection','examination'],['determining','deciding'],['originated','began'],['significant','notable'],['drastic','severe'],['widespread','prevalent'],['radical','extreme'],['risky','dangerous'],['terrestrial','land-based'],['specimens','samples'],['comprehensive','thorough'],['assumed','supposed'],['sequence','order'],['mirrored','reflected'],['primitive','basic'],['colonized','settled'],['fed','ate'],['diversified','varied'],['boundary','borderline'],['sediments','deposits'],['uncovered','discovered'],['evidence','proof'],['shores','coasts'],['instances','cases'],['crushed','smashed'],['excavated','dug up'],['trapped','caught'],['entombed','buried'],['pollution','contamination'],['unspoiled','pristine'],['inhabitants','residents'],['spoil','ruin'],['rubbish','trash'],['coughs','bouts of coughing'],['concentrate','focus'],['touse','tousle'],['youth hostels','budget hostels'],['innkeepers','inn owners'],['perishable','easily spoiled'],['subject','liable to'],['period','span'],['native industries','domestic industries'],['national','countrywide'],['title to land','land ownership'],['protectionist','trade-protective'],['drastic change','major change'],['progressive','gradual'],['organisms','living things'],['seed','plant reproductive unit'],['vascular','vessel-related'],['terrestrialization','move onto land'],['diversified explosively','rapidly branched out'],['paleontologists','fossil scientists'],['geological','earth-science related'],['turns out','proves to be'],['bath','soak'],['deposited','laid down'],['origins','beginnings'],['existence','being'],['invasion','incursion'],['revised','corrected'],['revisions','amendments'],['speculations','guesses'],['determinations','conclusions'],['detour','diversion'],['interfere','disrupt'],['navigational','guidance-related'],['reserve','set aside'],['jogging','running'],['involves','includes'],['rinse','wash'],['saucepan','cooking pot'],['stir','mix'],['lid','cover'],['lit','illuminated'],['curb','kerb'],['prior','previous'],['advocate','support'],['instead','rather'],['disasters','catastrophes'],['seriousness','gravity'],['poverty','deprivation'],['occur','happen'],['frequently','often'],['ethical','moral'],['discriminate','treat unfairly'],['evaluating','assessing'],['concern','worry'],['eligible','qualified'],['implied','suggested'],['injection','shot'],['furiously','angrily'],['encourages','promotes'],['praised','complimented'],['gorgeous','beautiful'],['prompts','triggers'],['exchange','swap'],['part with','give up'],['forced','compelled'],['proper','appropriate'],['uncomplicated','simple'],['sequel','follow-up'],['annoy','irritate'],['hurdles','obstacles'],['represents','symbolizes'],['infection','infectious condition'],['parasitic','parasite-related'],['specifically','particularly'],['clinical','medical'],['yielded','produced'],['yield','produce'],['a month apart','separated by one month'],['effectiveness','efficacy'],['declined','decreased'],['essential','necessary'],['malaria','mosquito-borne disease'],['administered','given'],['childhood vaccines','children\'s immunizations'],['partially','partly'],['disease','illness'],['grant','give'],['milk extracts','milk-derived substances'],['vessels','containers'],['pottery','ceramics'],['perforated','pierced'],['obvious','evident'],['northern','northerly'],['Neolithic','New Stone Age'],['lipid','fat'],['detected','discovered'],['traces','remnants'],['convincing','persuasive'],['prehistoric','prehistory-era'],['ingredient','component'],['domesticated','tamed'],['predates','comes before'],['archaeological','archaeology-related'],['genetic','hereditary'],['lactose intolerant','unable to digest lactose'],['consume','ingest'],['undesirable','unwanted'],['upset','disturb'],['digestion','digestive process'],['cow','female cattle'],['goat','caprine animal'],["slave", "enslaved person"],["named after the", "given the name of"],["slender", "slim"],["frail", "weak"],["trifle", "small matter"],["in want of a domestic", "needing a servant"],["waif", "abandoned child"],["terminally ill", "dying from an incurable illness"],["surmised", "guessed"],["evidently", "apparently"],["climate", "weather conditions"],["carpet", "rug"],["a quantity", "an amount"],["circumstances of", "conditions surrounding"],["shedding", "losing"],["poetry", "verse"],["poem", "verse composition"],["elegiac", "mournful"],["celebrated", "renowned"],["divine", "sacred"],["countess", "noblewoman"],["wealthy", "rich"],["evangelical", "Protestant"],["abolitionist", "anti-slavery activist"],["colonies", "territories"],["infants", "babies"],["grave", "tomb"],["unmarked grave", "unidentified burial"],["nevertheless", "nonetheless"],["enslaved", "held in slavery"],["former", "previous"],["attachment to", "affection for"],["millennia", "thousands of years"],["conservatism", "traditionalism"],["saws", "cutting tools"],["chisels", "carving tools"],["planes", "woodworking planes"],["augers", "boring tools"],["compasses", "drawing compasses"],["measures", "measurements"],["carpenters", "woodworkers"],["shipwrights", "shipbuilders"],["at most", "no more than"],["delicate", "fine"],["delicate chisels", "fine carving tools"],["specialization", "specialism"],["primary", "main"],["joinery", "wood joining"],["protruding", "sticking out"],["projecting", "jutting"],["drilled", "bored"],["auger", "boring tool"],["peg", "pin"],["whittled", "carved"],["whittled peg", "carved wooden pin"],["secure", "fasten"],["secure the joint", "fasten the connection"],["forged", "hammered into shape"],["screws", "fasteners"],["glue", "adhesive"],["hinges", "door joints"],["cruder", "rougher"],["crude", "rough"],["finer", "more refined"],["plates", "flat pieces"],["the latter", "the second one"],["above all", "most importantly"],["dedication", "commitment"],["forts", "military posts"],["bold", "daring"],["daring", "adventurous"],["numerous", "many"],["posts", "stations"],["expeditions", "explorations"],["obtain", "acquire"],["supplies", "provisions"],["refreshments", "snacks and drinks"],["wagon trains", "wagon convoys"],["frontiers", "borderlands"],["pony express", "horse mail service"],["still others", "other people as well"],["chapels", "small churches"],["religious", "spiritual"],["expenses", "costs"],["inference", "deduction"],["promote", "encourage"],["gardening", "horticulture"],["experimental", "trial"],["agriculture", "farming"],["stationed", "posted"],["maintaining order", "preserving order"],["officials", "authorities"],["posed", "presented"],["obstacle", "barrier"],["investigation", "inquiry"],["foremost", "most important"],["inhibit", "hinder"],["involved", "engaged"],["united", "joined"],["exploited", "taken advantage of"],["hinder", "obstruct"],["official", "authority"],["incapacitated", "disabled"],["garrisons", "stationed troops"],["frequency", "rate"],["surgeons", "operating doctors"],["monitoring", "observation"],["composition", "makeup"],["counterpart", "equivalent"],["identical", "exactly the same"],["interpretation", "explanation"],["dense", "compact"],["pores", "tiny openings"],["minerals", "mineral substances"],["interstitial", "between spaces"],["foreign", "external"],["marrow cavity", "medullary cavity"],["recrystallized", "crystallized again"],["percolation", "seepage"],["concentrations", "levels"],["solution", "liquid mixture"],["factors", "elements"],["extent", "degree"],["antiquity", "ancient times"],["optimum", "optimal"],["remarkably", "notably"],["microscopic", "tiny"],["lacunae", "small cavities"],["living bone", "viable bone tissue"],["resided", "lived"],["alter", "change"],["unaltered", "unchanged"],["virtually", "almost"],["retains", "preserves"],["apparent", "obvious"],["component", "part"],["detectable", "noticeable"],["moist", "damp"],["led", "resulted in"],["implication", "consequence"],["tissues", "body tissues"],["certainly", "definitely"],["threat", "danger"],["ploughed", "tilled"],["amazed", "astonished"],["noticed", "observed"],["jealous", "envious"],["rivalry", "competition"],["ditched", "abandoned"],["semester", "term"],["commercials", "advertisements"],["stressed", "anxious"],["frankly", "honestly"],["beliefs", "convictions"],["dawn", "daybreak"],["phenomena", "occurrences"],["corporate", "company-related"],["statement", "declaration"],["reliability", "dependability"],["expertise", "specialized knowledge"],["efficiency", "productivity"],["reassured", "comforted"],["recognisable", "identifiable"]];
 const SYN_ORDER_KEY='vocab-trio-syn-order-v1';
 function loadSynOrder(){try{const x=JSON.parse(localStorage.getItem(SYN_ORDER_KEY));if(Array.isArray(x)&&x.length===SYNONYMS.length&&new Set(x).size===SYNONYMS.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<SYNONYMS.length))return x}catch{}return [...Array(SYNONYMS.length).keys()]}
 let synOrder=loadSynOrder(),SYN_LESSONS=makeSynLessons(synOrder);
