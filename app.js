@@ -1,534 +1,534 @@
-const RAW=`coined|đặt ra; tạo ra từ mới|The term was coined by a scientist in 1959.
-acronym|từ viết tắt từ chữ cái đầu|NASA is an acronym for a space agency.
-amplification|sự khuếch đại|The device uses amplification to make the signal stronger.
-emission|sự phát ra; khí thải|The new engine produces lower carbon emissions.
-bulb|bóng đèn; củ|This energy-efficient bulb lasts for years.
-emitted|đã phát ra|The heated material emitted a bright light.
-spontaneously|một cách tự phát|The audience spontaneously began to applaud.
-atoms|các nguyên tử|All matter is made of atoms.
-molecules|các phân tử|Water molecules contain hydrogen and oxygen.
-device|thiết bị|This small device measures air quality.
-stimulated|được kích thích|The laser stimulated the atoms to release light.
-occurs|xảy ra|The reaction occurs at high temperatures.
-excess energy|năng lượng dư thừa|The atoms release their excess energy as light.
-emit|phát ra|Hot objects emit infrared radiation.
-sought|đã tìm kiếm; được săn tìm|Researchers sought a safer solution.
-wavelength|bước sóng|Each color of light has a different wavelength.
-radiation|bức xạ|The instrument detects radiation from space.
-conceived|hình thành ý tưởng; nghĩ ra|The project was conceived during a train ride.
-outlining|phác thảo; trình bày khái quát|She began by outlining the main argument.
-emerged|xuất hiện; nổi lên|A clear pattern emerged from the data.
-debate|cuộc tranh luận; tranh luận|The proposal sparked a public debate.
-conditions|điều kiện; hoàn cảnh|Plants grow quickly under these conditions.
-argue|lập luận; tranh luận|Some experts argue that the policy is ineffective.
-argued|đã lập luận; đã tranh luận|Researchers argued that the evidence supported a different explanation.
-intervention|sự can thiệp|Early intervention can prevent further damage.
-influence|ảnh hưởng; tác động|Culture can influence how people communicate.
-durable|bền; lâu hỏng|The bag is light but extremely durable.
-ornaments|đồ trang sức; vật trang trí|The tomb contained gold ornaments.
-possessed|đã sở hữu; có|The object possessed both beauty and value.
-intimate|thân mật; riêng tư; hiểu sâu|The letters reveal intimate details of her life.
-archaeological|thuộc khảo cổ học|The team discovered an archaeological site.
-enhanced|được nâng cao; làm đẹp thêm|The lighting enhanced the colors of the painting.
-embellished|được tô điểm; trang trí thêm|The dress was embellished with tiny beads.
-worn|được mặc; bị mòn|The necklace was worn on special occasions.
-buried|được chôn|The treasure had been buried for centuries.
-abrasion|sự mài mòn; vết trầy xước|Surface abrasion can erase fine details.
-alters|làm thay đổi|Exposure to sunlight alters the material.
-corrosion|sự ăn mòn|Salt water causes corrosion in metal.
-features|đặc điểm; nét đặc trưng|The sculpture has several unusual features.
-thus|vì vậy; do đó|The item was rare and thus highly valuable.
-imparted|đã truyền đạt; đem lại|The polishing process imparted a bright shine.
-incorporated|được kết hợp; đưa vào|Animal shapes were incorporated into the design.
-attire|trang phục|Traditional attire is worn during the festival.
-either|một trong hai; cũng không|You can choose either option.
-possess|sở hữu; có|Some materials possess remarkable strength.
-desirable|đáng mong muốn; hấp dẫn|These qualities made the stone highly desirable.
-portable|dễ mang theo|The speaker is small and portable.
-scarcity|sự khan hiếm|Scarcity increased the value of the material.
-odor|mùi|The flower has a pleasant odor.
-pleasing|dễ chịu; đẹp mắt|The room has a pleasing balance of colors.
-compel|buộc; thôi thúc|The evidence may compel us to change our view.
-revealed|đã tiết lộ; cho thấy|The scan revealed a hidden layer of paint.
-miniature|thu nhỏ; vật tí hon|He collected miniature models of old ships.
-unravel|làm sáng tỏ; tháo gỡ|Scientists hope to unravel the mystery.
-ordinary|bình thường|An ordinary object can tell an important story.
-mundane|tầm thường; đời thường|The museum displays tools from mundane daily life.
-witnessed|đã chứng kiến|The town witnessed rapid growth.
-gather|thu thập; tụ họp|Researchers gather evidence from many sources.
-diverse|đa dạng|The city has a diverse population.
-generalist|người có hiểu biết rộng nhiều lĩnh vực|A generalist can connect ideas across disciplines.
-ethnographic|thuộc nghiên cứu dân tộc học|She conducted ethnographic research in the village.
-anthropologist|nhà nhân học|The anthropologist studied local traditions.
-definition|định nghĩa|The dictionary gives a clear definition.
-confusing|gây bối rối; khó hiểu|The instructions were confusing at first.
-instead|thay vào đó|We stayed home instead of going out.
-chemical|hóa chất; thuộc hóa học|The test detected a dangerous chemical.
-battery|pin; ắc quy|The device runs on a rechargeable battery.
-efficient|hiệu quả; tiết kiệm năng lượng|The new system is more efficient.
-counterparts|những đối tượng tương ứng|Digital tools are faster than their traditional counterparts.
-toddlers|trẻ mới biết đi|Toddlers learn by touching and exploring.
-coughs|những cơn ho; ho (ngôi thứ ba số ít)|Air pollution can cause persistent coughs in some people.
-murder mystery|truyện hoặc phim bí ẩn án mạng|She enjoys reading a clever murder mystery.
-ambiguous|mơ hồ; có nhiều cách hiểu|The ending of the film is deliberately ambiguous.
-fictional|hư cấu|The story takes place in a fictional city.
-depictions|những sự miêu tả; hình ảnh mô tả|Films contain dramatic depictions of robots.
-perform|thực hiện; biểu diễn|The machine can perform repetitive tasks.
-autonomously|một cách tự chủ|The vehicle can navigate autonomously.
-sense|cảm nhận; giác quan; ý nghĩa|The sensors sense movement in the room.
-manipulate|điều khiển; thao tác; thao túng|The robot can manipulate small objects.
-hilarious|rất hài hước|The robot's mistakes were hilarious.
-inspires|truyền cảm hứng|Her courage inspires young artists.
-awe|sự kinh ngạc pha kính nể|The vast landscape filled us with awe.
-admiration|sự ngưỡng mộ|I have great admiration for her work.
-fear|nỗi sợ; sợ hãi|Fear can affect our decisions.
-yet|tuy nhiên; nhưng vẫn; chưa|The task is difficult, yet still possible.
-terrified|vô cùng sợ hãi|The child was terrified by the loud noise.
-frightened|sợ hãi; hoảng sợ|The sudden noise frightened several children nearby.
-supplant|thay thế; chiếm chỗ|Digital media may supplant some printed materials.
-independently|một cách độc lập|The two teams worked independently.
-capable|có khả năng|The system is capable of learning from data.
-capitalism|chủ nghĩa tư bản|The book examines the history of capitalism.
-inevitable|không thể tránh khỏi|Some degree of change is inevitable.
-impossible|không thể|It is impossible to predict every outcome.
-important|quan trọng|Clear communication is important in teamwork.
-unbelievable|khó tin; không thể tin được|The view from the mountain was unbelievable.
-unavoidable|không thể tránh được|Some delays were unavoidable.
-retailers|các nhà bán lẻ|Online retailers offer a wide range of products.
-manufacturers|các nhà sản xuất|Manufacturers must follow safety standards.
-regular|thường xuyên; đều đặn|The equipment needs regular maintenance.
-platform|nền tảng; bục|The course is available on an online platform.
-youth hostels|nhà nghỉ giá rẻ dành cho thanh niên hoặc khách du lịch trẻ|Many backpackers stay in youth hostels to reduce travel costs.
-vital|thiết yếu; cực kỳ quan trọng|Clean water is vital for human health.
-conveying|truyền đạt; chuyên chở|Her voice was calm, conveying confidence.
-constant|liên tục; không đổi|The machine makes a constant low sound.
-awareness|nhận thức; sự hiểu biết|The campaign raised awareness of ocean pollution.
-scrutinises|xem xét kỹ lưỡng|The editor scrutinises every detail before publication.
-coordinates|phối hợp; tọa độ|She coordinates the work of several teams.
-forecast|dự báo|Experts forecast stronger demand next year.
-prediction|sự dự đoán; lời dự đoán|Her prediction about the weather turned out to be correct.
-conduct|tiến hành; cách cư xử|The team will conduct a new experiment.
-concentrate|tập trung|It is easier to concentrate in a quiet room.
-fittings|phụ kiện; thiết bị lắp cố định|The room still has its original brass fittings.
-express|bày tỏ; diễn đạt|Art allows people to express complex emotions.
-exposed|bị phơi bày; tiếp xúc|The metal was exposed to rain and wind.
-gained|đã đạt được; có được|The idea gained public support.
-incorporate|kết hợp; đưa vào|We should incorporate feedback into the design.
-continuum|một chuỗi liên tục|Learning exists on a continuum from beginner to expert.
-at the turn of the century|vào thời điểm chuyển giao thế kỷ|The city expanded rapidly at the turn of the century.
-demonstrate|chứng minh; thể hiện|These results demonstrate the value of practice.
-characteristics|đặc điểm; tính chất|Curiosity is one of her defining characteristics.
-distinguish|phân biệt|It can be difficult to distinguish fact from opinion.
-improvisation|sự ứng biến; ngẫu hứng|Jazz often leaves room for improvisation.
-improvise|ứng biến|We had to improvise when the power failed.
-touse|làm rối; vò rối; đối xử thô bạo|The strong wind toused his hair and left it completely untidy.
-improvised|được ứng biến; làm tạm|They built an improvised shelter.
-inspiration|nguồn cảm hứng|Nature is a constant source of inspiration.
-brilliance|sự xuất sắc; vẻ rực rỡ|Critics praised the brilliance of her performance.
-demonstrated|đã chứng minh; thể hiện|The musicians demonstrated remarkable skill.
-extended|kéo dài; mở rộng|The show was extended for another week.
-similarly|tương tự như vậy|The first group improved; similarly, the second made progress.
-orchestras|các dàn nhạc giao hưởng|Both orchestras performed at the festival.
-carnival|lễ hội hóa trang; hội chợ|Crowds filled the streets during the carnival.
-cohesion|sự gắn kết; tính mạch lạc|Trust improves cohesion within a team.
-influential|có ảnh hưởng|She became an influential figure in modern art.
-initially|ban đầu|Initially, the project seemed too ambitious.
-periodically|theo định kỳ; thỉnh thoảng|The equipment is checked periodically.
-carelessly|một cách bất cẩn|He carelessly left the door unlocked.
-purposely|một cách có chủ ý|She purposely kept the design simple.
-consciously|một cách có ý thức|He consciously slowed his breathing.
-unadorned|không trang trí; mộc mạc|The room was simple and unadorned.
-inexpensive|không đắt; rẻ|The material is durable and inexpensive.
-ecological|thuộc sinh thái|The spill caused serious ecological damage.
-pollution|sự ô nhiễm|Heavy traffic is a major source of air pollution in the city.
-unspoiled|còn nguyên sơ; chưa bị tàn phá|The island is known for its unspoiled beaches and clear water.
-inhabitants|cư dân; người sinh sống|The island's inhabitants depend heavily on fishing and tourism.
-spoil|làm hỏng; phá hỏng|Too much development could spoil the natural beauty of the area.
-rubbish|rác; đồ bỏ đi|Visitors were asked not to leave rubbish on the beach.
-rapid|nhanh chóng|The region experienced rapid population growth.
-hostile|thù địch; khắc nghiệt|Few plants survive in this hostile environment.
-affected|bị ảnh hưởng|Several coastal towns were affected by the storm.
-ultimately|cuối cùng; xét cho cùng|Ultimately, the decision belongs to the community.
-eventually|cuối cùng; rồi thì|The rain eventually stopped.
-unfortunately|không may|Unfortunately, the data was incomplete.
-exceptionally|một cách đặc biệt; khác thường|The winter was exceptionally cold.
-dramatically|một cách đáng kể; đầy kịch tính|Temperatures dropped dramatically overnight.
-fossil|hóa thạch|The fossil reveals how the animal once lived.
-reveals|tiết lộ; cho thấy|The study reveals a link between sleep and memory.
-occurred|đã xảy ra|The earthquake occurred early in the morning.
-occasions|những dịp; những lần|We met on several occasions.
-throughout|xuyên suốt; khắp|The climate stayed dry throughout the summer.
-relatively|tương đối|The task was relatively easy.
-worsened|đã trở nên tệ hơn|The weather worsened during the afternoon.
-caused|đã gây ra|Heavy rain caused severe flooding.
-interrelationship|mối quan hệ qua lại|The study explores the interrelationship between diet and health.
-organisms|các sinh vật|Tiny organisms live in the soil.
-plankton|sinh vật phù du|Many sea animals feed on plankton.
-such|như vậy; như thế|Such behavior can harm the entire group.
-in preventing|trong việc ngăn chặn|Education plays a key role in preventing disease.
-controversial|gây tranh cãi|The new policy remains controversial.
-tended to be more intense|có xu hướng dữ dội hơn|Storms near the coast tended to be more intense.
-period|giai đoạn; thời kỳ; dấu chấm|The region experienced a long period of drought.
-adopted|đã áp dụng; chấp nhận; nhận nuôi|The city adopted a new policy to reduce plastic waste.
-periodic|có tính định kỳ|The comet makes periodic appearances.
-due to|do; bởi vì|The match was canceled due to heavy rain.
-intersection|giao điểm; sự giao nhau|The accident happened at a busy intersection.
-orbit|quỹ đạo; quay quanh|The satellite entered orbit around Earth.
-purely|hoàn toàn; thuần túy|His interest was purely academic.
-speculative|mang tính suy đoán|The claim remains highly speculative.
-speculated|đã suy đoán|Scientists speculated about the cause.
-influence (verb)|ảnh hưởng đến|Weather can influence animal behavior.
-periodical|ấn phẩm định kỳ; có tính định kỳ|The library subscribes to a scientific periodical.
-occur|xảy ra|Unexpected problems can occur at any time.
-incorporation|sự kết hợp; đưa vào|The incorporation of color improved the design.
-demonstration|sự chứng minh; buổi trình diễn|The teacher gave a clear demonstration.
-exceptional|xuất sắc; khác thường|She showed exceptional artistic ability.
-ecology|sinh thái học|Ecology examines relationships among living things.
-speculation|sự suy đoán|The announcement ended months of speculation.
-stimulate|kích thích; khuyến khích|Good questions stimulate creative thinking.
-ornament|đồ trang trí; trang trí|A silver ornament hung from the tree.
-archaeology|khảo cổ học|Archaeology helps us understand ancient societies.
-enhance|nâng cao; làm tăng|Soft light can enhance the atmosphere.
-embellish|tô điểm; thêu dệt thêm|Some writers embellish a story with extra details.
-inspired|được truyền cảm hứng|She was inspired by traditional architecture.
-federal|thuộc liên bang|The federal government funded several major infrastructure projects.
-states|các bang; tiểu bang|Several states supported the new transportation plan.
-granted|đã cấp; ban cho|The government granted the company permission to build the canal.
-charters|đặc quyền; giấy phép thành lập|The states granted charters to private transportation companies.
-construction|sự xây dựng|Canal construction required a large amount of labor and money.
-various|đa dạng; nhiều loại khác nhau|Various groups supported the project for different reasons.
-internal|nội bộ; trong nước|The program aimed to improve internal transportation.
-canals|các kênh đào|Canals connected inland farms with coastal markets.
-encouraged|được khuyến khích; đã khuyến khích|The new roads encouraged trade between regions.
-provocative|mang tính khiêu khích; gợi tranh luận|The proposal was provocative and immediately sparked debate.
-innovative|đổi mới; sáng tạo|The company introduced an innovative method of transportation.
-alarming|đáng báo động|The rapid rise in prices was alarming to local merchants.
-separate|tách biệt; riêng biệt|The law treated the two activities as separate issues.
-inferred|đã suy ra|Researchers inferred the pattern from indirect evidence.
-predominantly|chủ yếu; phần lớn|The region was predominantly agricultural at the time.
-regulatory|thuộc quản lý; điều tiết|The state adopted new regulatory measures for local trade.
-engaged|tham gia; tham gia vào|Many merchants were engaged in interstate trade.
-direct|trực tiếp; thẳng|The policy had a direct effect on small businesses.
-extensive|rộng lớn; sâu rộng|The city developed an extensive network of roads and canals.
-licensing|việc cấp giấy phép|Licensing rules applied to many types of local businesses.
-peddlers|những người bán hàng rong|Peddlers traveled from town to town selling small goods.
-merchants|các thương nhân|Merchants depended on reliable transportation routes.
-retail|bán lẻ; thuộc bán lẻ|Retail businesses were regulated by local authorities.
-innkeepers|chủ quán trọ|Innkeepers provided food and lodging to travelers.
-perishable|dễ hỏng|Perishable goods had to reach the market quickly.
-commodities|hàng hóa; mặt hàng|Farmers shipped commodities such as grain and timber.
-inspecting|việc kiểm tra; đang kiểm tra|Officials were responsible for inspecting goods before sale.
-frontier|vùng biên cương; vùng khai phá|Settlers moved steadily toward the western frontier.
-staples|mặt hàng thiết yếu; lương thực chủ yếu|Flour and salt were common frontier staples.
-lumber|gỗ xẻ|The town exported lumber to growing cities.
-subject|chịu; đối tượng; chủ đề|Imported goods were subject to additional restrictions.
-restrictions|các hạn chế|The government imposed restrictions on certain types of trade.
-imposing|áp đặt; ban hành|The state was accused of imposing unfair fees.
-establishing|thiết lập; thành lập|The law helped in establishing new commercial standards.
-facilitation|sự tạo điều kiện; thúc đẩy|The canal was built for the facilitation of trade.
-settlement|sự định cư; khu định cư|Road building accelerated settlement in the region.
-native industries|các ngành công nghiệp trong nước|Tariffs were designed to protect native industries.
-pursued|đã theo đuổi|The government pursued a policy of economic expansion.
-national|thuộc quốc gia; toàn quốc|Leaders wanted to create a stronger national market.
-stabilize|ổn định|The policy was intended to stabilize prices.
-permitted|được cho phép; đã cho phép|The law permitted settlers to buy public land.
-increasingly|ngày càng|Transportation became increasingly important to economic growth.
-culminating|lên đến đỉnh điểm; kết thúc bằng|The dispute continued for years, culminating in a court case.
-title to land|quyền sở hữu đất|Settlers needed a legal title to land before selling it.
-tariffs|thuế quan|Tariffs raised the price of some imported goods.
-protectionist|mang tính bảo hộ|The country adopted a protectionist trade policy.
-maneuvering|sự vận động; xoay xở chiến thuật|Political maneuvering shaped the final version of the law.
-produced|đã tạo ra; sản xuất|The new system produced several unexpected effects.
-frequent|thường xuyên|Frequent changes in policy confused many merchants.
-inspection|sự kiểm tra|Inspection of food products was required before sale.
-determining|xác định; quyết định|Cost was an important factor in determining the final route.
-originated|bắt nguồn; xuất phát|The idea originated in a small group of researchers.
-significant|đáng kể; quan trọng|The discovery represented a significant change in our understanding.
-drastic|mạnh mẽ; quyết liệt|The climate underwent a drastic shift.
-widespread|phổ biến rộng rãi|The new technology soon became widespread.
-drastic change|sự thay đổi mạnh mẽ|The fossils suggest a drastic change in the local environment.
-radical|căn bản; triệt để; cấp tiến|The evidence led scientists to propose a radical new explanation.
-progressive|tiến bộ; diễn tiến dần|The sequence shows a progressive adaptation to life on land.
-risky|rủi ro; nguy hiểm|Moving onto land would have been risky for early organisms.
-terrestrial|thuộc đất liền; trên cạn|These were among the earliest terrestrial organisms.
-specimens|các mẫu vật|The museum preserved several rare fossil specimens.
-seed|hạt giống|The seed can survive dry conditions for many months.
-comprehensive|toàn diện|The team conducted a comprehensive study of the fossils.
-assumed|đã giả định; cho rằng|Scientists had long assumed that the species lived only in water.
-vascular|thuộc mạch dẫn|Vascular plants can transport water through specialized tissues.
-sequence|trình tự; chuỗi|The fossil sequence records several stages of evolution.
-terrestrialization|quá trình thích nghi/chuyển lên sống trên cạn|Terrestrialization transformed the history of life on Earth.
-mirrored|phản ánh; giống như|The pattern mirrored changes seen in other fossil sites.
-primitive|nguyên thủy; sơ khai|Primitive plants had relatively simple structures.
-colonized|đã định cư; xâm chiếm môi trường sống|Early plants colonized moist areas near the shore.
-fed|đã ăn; được nuôi dưỡng|The animals fed on small organisms in shallow water.
-diversified explosively|đa dạng hóa bùng nổ|Some groups diversified explosively after reaching new habitats.
-diversified|đã đa dạng hóa|The species diversified into many distinct forms.
-boundary|ranh giới|The fossils were found near a major geological boundary.
-paleontologists|các nhà cổ sinh vật học|Paleontologists examined the newly discovered specimens.
-sediments|trầm tích|The fossils were preserved in fine coastal sediments.
-geological|thuộc địa chất|The site contains a detailed geological record.
-turns out|hóa ra|It turns out that the earlier interpretation was incomplete.
-bath|bồn tắm; sự tắm|The object was cleaned in a warm chemical bath.
-uncovered|đã phát hiện; làm lộ ra|Excavations uncovered evidence of an ancient shoreline.
-evidence|bằng chứng|The sediments provide evidence of changing sea levels.
-deposited|được lắng đọng; đặt xuống|Sand was deposited along the ancient shore.
-shores|các bờ biển; bờ hồ|Early organisms may have lived near shallow shores.
-instances|các trường hợp|Researchers found several instances of similar fossils.
-crushed|bị nghiền nát; đè bẹp|Some specimens were crushed by the weight of overlying sediments.
-excavated|được khai quật|The fossils were carefully excavated from the rock.
-trapped|bị mắc kẹt|Small organisms became trapped in wet sediment.
-entombed|bị chôn vùi|The remains were entombed beneath layers of sediment.
-origins|nguồn gốc|The discovery raised new questions about the origins of land life.
-existence|sự tồn tại|The fossils confirm the existence of organisms in that period.
-invasion|sự xâm chiếm; xâm nhập|The move onto land has been described as a biological invasion.
-revised|đã sửa đổi; xem xét lại|Scientists revised their theory after new evidence appeared.
-revisions|những sự sửa đổi|Later discoveries led to several revisions of the timeline.
-speculations|những suy đoán|Early speculations were replaced by stronger evidence.
-determinations|những kết luận; sự xác định|The researchers based their determinations on multiple fossil layers.
-detour|đường vòng; đi đường vòng|We took a detour because the main road was closed.
-interfere|can thiệp; cản trở|Loud noise can interfere with your concentration.
-navigational|thuộc định hướng; thuộc dẫn đường|The ship uses advanced navigational equipment.
-reserve|đặt trước; dành riêng|We reserved two seats near the window.
-jogging|việc chạy bộ nhẹ|Jogging for twenty minutes can improve fitness.
-involves|bao gồm; liên quan đến|The job involves working with several different teams.
-rinse|rửa; tráng bằng nước|Rinse the vegetables under cold water.
-saucepan|nồi nhỏ có cán|Heat the milk gently in a saucepan.
-stir|khuấy; đảo|Stir the soup slowly while it is heating.
-lid|nắp đậy|Put the lid on the saucepan to keep the heat in.
-lit|đã thắp sáng; được chiếu sáng|The room was lit by several small lamps.
-curb|mép vỉa hè|She waited at the curb for the taxi.
-prior|trước đó; trước|Prior experience is helpful but not required.
-advocate|ủng hộ; chủ trương|Many doctors advocate regular exercise.
-disasters|các thảm họa|Natural disasters can destroy homes and infrastructure.
-seriousness|mức độ nghiêm trọng; tính nghiêm túc|The report emphasized the seriousness of the problem.
-poverty|sự nghèo đói|Education can help communities escape poverty.
-frequently|thường xuyên|This problem occurs frequently during the rainy season.
-ethical|thuộc đạo đức; đúng về mặt đạo đức|Researchers must follow ethical standards.
-discriminate|phân biệt đối xử; phân biệt|It is illegal to discriminate against people because of their background.
-evaluating|đang đánh giá; việc đánh giá|The team is evaluating the effectiveness of the program.
-concern|mối lo ngại; sự quan tâm|Safety remains a major concern for parents.
-eligible|đủ điều kiện|Only eligible participants can receive the grant.
-implied|đã ngụ ý; được ngụ ý|His answer implied that the plan might change.
-injection|mũi tiêm; sự tiêm|The nurse gave the patient an injection.
-furiously|một cách giận dữ; dữ dội|He argued furiously against the decision.
-encourages|khuyến khích; thúc đẩy|The program encourages children to read every day.
-praised|đã khen ngợi|The teacher praised her for the careful work.
-gorgeous|rất đẹp; lộng lẫy|The garden looked gorgeous in the morning light.
-prompts|thúc đẩy; gợi ra; khiến|The question prompts students to think more deeply.
-exchange|trao đổi; sự trao đổi|The students exchange ideas after the presentation.
-part with|chia tay với; từ bỏ một vật mình sở hữu|He refused to part with the old family photograph.
-forced|bị ép buộc; cưỡng ép|They were forced to leave because of the storm.
-proper|phù hợp; đúng đắn; thích hợp|Proper preparation can prevent many mistakes.
-uncomplicated|không phức tạp; đơn giản|The procedure is short and uncomplicated.
-sequel|phần tiếp theo|The sequel continues the story of the first film.
-annoy|làm khó chịu; chọc tức|Repeated notifications can annoy users.
-hurdles|các trở ngại; rào cản|The project faced several financial hurdles.
-assessing|đang đánh giá; việc đánh giá|Doctors are assessing the patient before treatment.
-represents|đại diện; thể hiện|The symbol represents peace and cooperation.
-infection|sự nhiễm trùng|The wound developed an infection.
-parasitic|thuộc ký sinh; do ký sinh trùng|Malaria is caused by a parasitic organism.
-specifically|cụ thể; đặc biệt là|The course is designed specifically for beginners.
-clinical|thuộc lâm sàng; liên quan điều trị bệnh nhân|The vaccine was tested in a clinical trial.
-yielded|đã tạo ra; đã mang lại; đã cho ra (động từ)|The clinical trial yielded promising results.
-yield|tạo ra; mang lại; cho ra (động từ)|The new method may yield more reliable results.
-a month apart|cách nhau một tháng|The two vaccine doses were given a month apart.
-severe|nghiêm trọng; nặng; khắc nghiệt|Severe malaria can become life-threatening.
-effectiveness|hiệu quả; mức độ hiệu quả|Researchers measured the effectiveness of the vaccine.
-declined|đã giảm; đã suy giảm|The number of cases declined after vaccination.
-essential|thiết yếu; cực kỳ cần thiết|Clean water is essential for good health.
-malaria|bệnh sốt rét|Malaria is spread by infected mosquitoes.
-administered|đã được cho dùng; đã được tiêm/cấp (thuốc)|The vaccine was administered by a trained nurse.
-childhood vaccines|các vắc-xin dành cho trẻ em|Childhood vaccines protect against several serious diseases.
-partially|một phần; chưa hoàn toàn|The treatment was only partially effective.
-disease|bệnh; bệnh tật|The disease can spread rapidly without treatment.
-grant|cấp; trao; cho phép (động từ)|The agency may grant additional funding to the project.
-milk extracts|các chiết xuất từ sữa|Researchers detected milk extracts in ancient pottery.
-vessels|bình; đồ đựng; vật chứa|The archaeologists examined pottery vessels from the site.
-pottery|đồ gốm|Ancient pottery can reveal what people cooked and stored.
-perforated|được đục lỗ; có lỗ|The vessel had a perforated base.
-obvious|rõ ràng; dễ nhận thấy|There was no obvious sign of damage.
-northern|thuộc phía bắc|The samples came from a northern European site.
-Neolithic|thuộc thời kỳ Đồ đá mới|The settlement dates to the Neolithic period.
-lipid|chất béo; lipid|Scientists identified a lipid from animal fat.
-detected|đã phát hiện|The test detected traces of milk fat.
-traces|dấu vết; lượng rất nhỏ còn lại|Researchers found traces of fat inside the vessel.
-convincing|thuyết phục; đáng tin|The evidence provides a convincing explanation.
-prehistoric|thuộc thời tiền sử|The cave contains prehistoric paintings.
-ingredient|thành phần; nguyên liệu|Milk may have been an important ingredient in the mixture.
-domesticated|đã được thuần hóa|Early farmers kept domesticated cattle and goats.
-predates|có trước; xảy ra trước|This discovery predates earlier evidence by several centuries.
-genetic|thuộc di truyền; thuộc gen|The researchers compared genetic evidence from several populations.
-lactose intolerant|không dung nạp lactose|A lactose intolerant person may have difficulty digesting fresh milk.
-consume|tiêu thụ; ăn; uống|Some adults can consume milk without discomfort.
-undesirable|không mong muốn; không có lợi|The treatment produced several undesirable side effects.
-upset|làm rối loạn; gây khó chịu (động từ)|Too much lactose can upset digestion.
-digestion|sự tiêu hóa|Certain foods can affect digestion.
-cow|bò; bò cái|Cow milk contains lactose.
-goat|dê|Goat milk was also used by early farming communities.
-slave|nô lệ|The plantation owner treated the man as a slave.
-named after the|được đặt tên theo|The town was named after the explorer who founded it.
-slender|mảnh mai; thon; mỏng|The tool had a long, slender wooden handle.
-frail|yếu ớt; mỏng manh|The frail old woman needed help walking.
-trifle|một điều nhỏ nhặt; một chút|The delay was only a trifle and caused no real problem.
-in want of a domestic|đang cần một người giúp việc trong nhà|The family was in want of a domestic to help with household work.
-waif|đứa trẻ lang thang; trẻ bị bỏ rơi|The novel tells the story of a homeless waif in the city.
-terminally ill|mắc bệnh nan y ở giai đoạn cuối|The charity provides care for terminally ill patients.
-surmised|đã suy đoán; phỏng đoán|From the footprints, the investigators surmised that two people had entered.
-evidently|rõ ràng; hiển nhiên là|Evidently, the storm had damaged the roof during the night.
-climate|khí hậu|The region has a warm and humid climate.
-carpet|thảm; trải thảm|A thick carpet covered the floor of the room.
-a quantity|một lượng; một số lượng|The workers stored a quantity of timber beside the workshop.
-circumstances of|hoàn cảnh của; các tình tiết xung quanh|The report examined the circumstances of the accident.
-shedding|sự rụng; sự thải ra|The animal begins shedding its winter coat in spring.
-poetry|thơ ca|She became famous for poetry about freedom and faith.
-poem|bài thơ|He wrote a short poem in memory of his friend.
-elegiac|mang tính ai điếu; buồn thương|The poem has an elegiac tone and mourns the dead.
-celebrated|nổi tiếng; được ca ngợi|She was a celebrated writer in her lifetime.
-divine|thiêng liêng; thần thánh|The poet described love as a divine gift.
-countess|nữ bá tước|The countess used her wealth to support charitable causes.
-wealthy|giàu có|A wealthy family funded the new school.
-evangelical|thuộc Tin Lành Phúc Âm; nhiệt thành truyền bá đức tin|The movement attracted many evangelical Christians.
-abolitionist|người theo chủ nghĩa bãi nô|The abolitionist campaigned against slavery.
-colonies|các thuộc địa|Several colonies depended heavily on overseas trade.
-infants|trẻ sơ sinh; trẻ nhỏ|The hospital provides special care for premature infants.
-grave|mộ; nghiêm trọng|Flowers were placed beside the grave.
-unmarked grave|ngôi mộ không có bia hay dấu đánh dấu|The soldiers were buried in an unmarked grave.
-nevertheless|tuy nhiên; dù vậy|The journey was difficult; nevertheless, they continued.
-enslaved|bị bắt làm nô lệ|Thousands of people were enslaved and forced to work.
-former|trước đây; cựu|The former teacher later became a writer.
-attachment to|sự gắn bó với; sự quyến luyến với|Her attachment to her hometown remained strong.
-millennia|hàng thiên niên kỷ|People have used wood for tools for millennia.
-conservatism|chủ nghĩa bảo thủ; khuynh hướng giữ truyền thống|Political conservatism often emphasizes tradition and gradual change.
-saws|các loại cưa|Carpenters used saws to cut timber into boards.
-chisels|các loại đục|The craftsman used chisels to shape the wood.
-planes|bào; dụng cụ bào gỗ|Woodworkers use planes to smooth wooden surfaces.
-augers|các mũi khoan xoắn; dụng cụ khoan lỗ|Large augers were used to bore holes in heavy timbers.
-compasses|compa; dụng cụ vẽ hoặc đo vòng tròn|The carpenter used compasses to mark a curved line.
-measures|phép đo; dụng cụ đo|Accurate measures were essential for fitting the pieces together.
-carpenters|thợ mộc|Skilled carpenters built the wooden frame of the house.
-shipwrights|thợ đóng tàu|Shipwrights shaped heavy timbers for wooden ships.
-at most|nhiều nhất; tối đa|The repair should take two hours at most.
-delicate|tinh xảo; mỏng manh; cần sự khéo léo|The decorative work required delicate handling.
-delicate chisels|những chiếc đục tinh nhỏ dùng cho chi tiết tinh xảo|Delicate chisels were used to carve the smallest details.
-specialization|sự chuyên môn hóa|Greater specialization allowed craftsmen to focus on particular tasks.
-primary|chính; chủ yếu; đầu tiên|Wood was the primary material used in the structure.
-joinery|kỹ thuật ghép nối gỗ; nghề mộc ghép|Traditional joinery can hold timber together without metal fasteners.
-protruding|nhô ra; lồi ra|A protruding peg was cut flush with the surface.
-projecting|nhô ra; chìa ra|The projecting beam extended beyond the wall.
-drilled|đã khoan|The carpenter drilled a hole through the beam.
-auger|mũi khoan xoắn; dụng cụ khoan lỗ|He used an auger to make a deep hole in the timber.
-peg|chốt; chốt gỗ|A wooden peg held the two beams together.
-whittled|đã gọt; đẽo bằng dao|He whittled the stick until it fitted the hole.
-whittled peg|chốt gỗ được gọt đẽo|A whittled peg was driven into the joint.
-secure|cố định; làm chắc; an toàn|The rope helped secure the load to the wagon.
-secure the joint|cố định mối nối; làm chắc mối ghép|The peg was hammered in to secure the joint.
-forged|được rèn; đã rèn|The blacksmith forged the iron into a strong hook.
-screws|ốc vít; đinh vít|Metal screws were used to attach the hinge.
-glue|keo dán; dán bằng keo|The carpenter applied glue before joining the pieces.
-hinges|bản lề|Iron hinges allowed the heavy door to swing open.
-cruder|thô sơ hơn; kém tinh xảo hơn|Earlier tools were cruder than the later versions.
-crude|thô sơ; thô ráp|They built a crude shelter from branches.
-finer|tinh hơn; mịn hơn; tốt hơn|Finer tools allowed craftsmen to make more precise cuts.
-plates|các tấm; bản kim loại|Metal plates strengthened the wooden connection.
-the latter|người/vật được nhắc đến sau trong hai đối tượng|Of oak and pine, the latter was easier to cut.
-above all|trên hết; quan trọng nhất|Above all, the workers needed patience and skill.
-dedication|sự tận tâm; cống hiến|The project required years of dedication.
-forts|các pháo đài; đồn quân sự|The army built forts along the frontier.
-bold|táo bạo; gan dạ|The explorers made a bold decision to continue west.
-daring|gan dạ; táo bạo|Daring adventurers crossed the mountains in winter.
-numerous|nhiều; rất nhiều|Numerous travelers stopped at the fort for supplies.
-posts|bài đăng; vị trí/trạm/đồn đóng quân trong ngữ cảnh quân đội|The establishment of military posts opened new roads, while online posts spread news quickly.
-expeditions|các cuộc thám hiểm; đoàn thám hiểm|Several expeditions passed through the region.
-obtain|có được; đạt được; lấy được|Travelers stopped at the fort to obtain fresh supplies.
-supplies|đồ tiếp tế; vật tư; nhu yếu phẩm|The wagon train carried food and medical supplies.
-refreshments|đồ ăn nhẹ và thức uống|Travelers were offered refreshments after the long journey.
-wagon trains|đoàn xe ngựa chở hàng/người|Wagon trains moved slowly across the frontier.
-frontiers|các vùng biên cương; vùng khai phá|Settlers moved toward the western frontiers.
-pony express|dịch vụ chuyển thư bằng ngựa tốc hành|The Pony Express carried mail across long distances.
-still others|còn những người khác nữa|Some became farmers, while still others worked as traders.
-chapels|các nhà nguyện|Small chapels were built near several settlements.
-religious|thuộc tôn giáo|The community held regular religious services.
-expenses|chi phí; khoản chi|The organization paid the travel expenses.
-inference|sự suy luận; kết luận suy ra|The conclusion was an inference based on limited evidence.
-promote|thúc đẩy; khuyến khích; quảng bá|The program was designed to promote better farming methods.
-gardening|việc làm vườn|The school taught gardening and basic agriculture.
-experimental|mang tính thử nghiệm|The farmers tested an experimental method of irrigation.
-agriculture|nông nghiệp|Agriculture became the main source of income in the region.
-stationed|được đóng quân; được bố trí tại|Soldiers were stationed at the fort throughout the winter.
-maintaining order|duy trì trật tự|The local officials were responsible for maintaining order.
-officials|các quan chức; viên chức|Government officials inspected the settlement.
-posed|đặt ra; gây ra|The rough terrain posed a serious obstacle to construction.
-obstacle|trở ngại; chướng ngại vật|The river was a major obstacle to travel.
-investigation|cuộc điều tra; sự nghiên cứu|The agency opened an investigation into the accident.
-foremost|hàng đầu; quan trọng nhất|Safety was the foremost concern of the engineers.
-inhibit|ngăn cản; kìm hãm|Cold temperatures can inhibit plant growth.
-involved|có liên quan; tham gia|Several departments were involved in the project.
-united|đoàn kết; thống nhất|The crisis united the local communities.
-exploited|bị khai thác; bị lợi dụng|Workers were exploited for cheap labor.
-hinder|cản trở|Heavy rain can hinder construction work.
-official|quan chức; chính thức|An official visited the fort to inspect conditions.
-incapacitated|mất khả năng hoạt động; không thể làm việc|The injured soldier was temporarily incapacitated.
-garrisons|các đơn vị đồn trú; quân đồn trú|Small garrisons protected the frontier forts.
-frequency|tần suất|Researchers measured the frequency of the events.
-surgeons|các bác sĩ phẫu thuật|Surgeons treated the most serious injuries.
-monitoring|việc theo dõi; giám sát|Regular monitoring helped detect changes early.
-composition|thành phần; cấu tạo; bài viết/sáng tác|Scientists analyzed the mineral composition of the sample.
-counterpart|đối tác; đối tượng tương ứng; bản sao/bản đối chiếu|The modern tool is lighter than its traditional counterpart.
-identical|giống hệt; đồng nhất|The two samples were almost identical in composition.
-interpretation|sự diễn giải; cách hiểu|The discovery led to a new interpretation of the evidence.
-dense|dày đặc; đặc|Dense bone contains fewer large spaces.
-pores|các lỗ nhỏ; lỗ rỗng|Water moved through tiny pores in the rock.
-minerals|các khoáng chất; khoáng vật|The water contained dissolved minerals.
-interstitial|nằm ở kẽ; thuộc khoảng giữa|Interstitial spaces can hold fluids between solid particles.
-foreign|ngoại lai; nước ngoài|Foreign material entered the pores of the bone.
-marrow cavity|khoang tủy xương|The marrow cavity lies inside the long bone.
-recrystallized|đã tái kết tinh|Some minerals recrystallized during fossilization.
-percolation|sự thấm qua; lọc qua|Percolation of mineral-rich water changed the bone.
-concentrations|nồng độ; sự tập trung|High concentrations of minerals were found in the sample.
-solution|dung dịch; giải pháp|The mineral solution moved through the pores, while a practical solution solved the problem.
-factors|các yếu tố|Several factors determine how quickly fossilization occurs.
-extent|mức độ; phạm vi|The extent of mineral replacement varied between specimens.
-antiquity|thời cổ đại; tính cổ xưa|The object has survived since antiquity.
-optimum|tối ưu; tốt nhất|The process works best under optimum conditions.
-remarkably|một cách đáng chú ý; đáng kinh ngạc|The structure was remarkably well preserved.
-microscopic|cực nhỏ; thuộc kính hiển vi|Microscopic pores can still contain minerals.
-lacunae|các hốc nhỏ, đặc biệt trong mô xương|Bone cells once occupied microscopic lacunae.
-living bone|mô xương sống; xương khi còn là mô sống|Living bone contains cells and blood vessels.
-resided|đã cư trú; nằm ở|The cells resided in tiny spaces within the bone.
-alter|thay đổi; làm biến đổi|Minerals can alter the original structure over time.
-unaltered|không bị thay đổi|Some parts of the specimen remained unaltered.
-virtually|hầu như; gần như|The original shape was virtually unchanged.
-retains|giữ lại; vẫn còn|The fossil retains much of its original structure.
-apparent|rõ ràng; có vẻ như|There was no apparent damage to the surface.
-component|thành phần; bộ phận|Calcium is an important component of bone.
-detectable|có thể phát hiện được|Only small amounts of the substance were detectable.
-moist|ẩm; hơi ướt|The soil remained moist after the rain.
-led|đã dẫn đến; đã dẫn dắt|The discovery led to a different conclusion.
-implication|hàm ý; hệ quả|One implication of the findings is that the process began earlier.
-tissues|các mô của cơ thể; khăn giấy|Soft tissues decay quickly, while tissues can also mean paper handkerchiefs.
-certainly|chắc chắn; chắc hẳn|The evidence certainly supports further research.
-threat|mối đe dọa|Pollution poses a serious threat to wildlife.
-ploughed|đã cày|The farmer ploughed the field before planting seeds.
-amazed|kinh ngạc|She was amazed by how quickly the plants grew.
-noticed|đã nhận thấy; chú ý|He noticed a small crack in the wall.
-jealous|ghen tị; ghen tuông|He felt jealous of his friend's success.
-rivalry|sự cạnh tranh; đối địch|A strong rivalry developed between the two teams.
-ditched|đã bỏ; vứt bỏ; đào mương|They ditched the old plan and started again.
-semester|học kỳ|The course lasts for one semester.
-commercials|quảng cáo trên truyền hình/phát thanh|The program was interrupted by several commercials.
-stressed|căng thẳng; được nhấn mạnh|She felt stressed before the final exam.
-frankly|thẳng thắn mà nói|Frankly, I do not think the plan will work.
-beliefs|niềm tin; tín ngưỡng|People's beliefs can influence their decisions.
-dawn|bình minh; sự khởi đầu|They left the camp at dawn.
-phenomena|các hiện tượng|Scientists study unusual natural phenomena.
-corporate|thuộc công ty; doanh nghiệp|The company changed its corporate strategy.
-statement|tuyên bố; phát biểu; bản kê|The witness gave a written statement to the police.
-reliability|độ tin cậy|The researchers tested the reliability of the equipment.
-expertise|chuyên môn; kiến thức chuyên sâu|Her expertise in engineering was essential to the project.
-efficiency|hiệu suất; tính hiệu quả|The new system improved efficiency and reduced waste.
-reassured|đã trấn an; làm yên lòng|The doctor reassured the patient that the test was routine.
-recognisable|có thể nhận ra; dễ nhận biết|The building remained recognisable despite the damage.`;
+const RAW=`coined|đặt ra; tạo ra từ mới|The term was coined by a scientist in 1959.|Thuật ngữ này được một nhà khoa học đặt ra vào năm 1959.
+acronym|từ viết tắt từ chữ cái đầu|NASA is an acronym for a space agency.|NASA là một từ viết tắt của một cơ quan vũ trụ.
+amplification|sự khuếch đại|The device uses amplification to make the signal stronger.|Thiết bị sử dụng sự khuếch đại để làm tín hiệu mạnh hơn.
+emission|sự phát ra; khí thải|The new engine produces lower carbon emissions.|Động cơ mới tạo ra lượng khí thải carbon thấp hơn.
+bulb|bóng đèn; củ|This energy-efficient bulb lasts for years.|Bóng đèn tiết kiệm năng lượng này có thể dùng được trong nhiều năm.
+emitted|đã phát ra|The heated material emitted a bright light.|Vật liệu được nung nóng đã phát ra ánh sáng rực rỡ.
+spontaneously|một cách tự phát|The audience spontaneously began to applaud.|Khán giả tự phát bắt đầu vỗ tay.
+atoms|các nguyên tử|All matter is made of atoms.|Mọi vật chất đều được tạo thành từ các nguyên tử.
+molecules|các phân tử|Water molecules contain hydrogen and oxygen.|Các phân tử nước chứa hydro và oxy.
+device|thiết bị|This small device measures air quality.|Thiết bị nhỏ này đo chất lượng không khí.
+stimulated|được kích thích|The laser stimulated the atoms to release light.|Tia laser kích thích các nguyên tử giải phóng ánh sáng.
+occurs|xảy ra|The reaction occurs at high temperatures.|Phản ứng xảy ra ở nhiệt độ cao.
+excess energy|năng lượng dư thừa|The atoms release their excess energy as light.|Các nguyên tử giải phóng năng lượng dư thừa của chúng dưới dạng ánh sáng.
+emit|phát ra|Hot objects emit infrared radiation.|Các vật nóng phát ra bức xạ hồng ngoại.
+sought|đã tìm kiếm; được săn tìm|Researchers sought a safer solution.|Các nhà nghiên cứu đã tìm kiếm một giải pháp an toàn hơn.
+wavelength|bước sóng|Each color of light has a different wavelength.|Mỗi màu ánh sáng có một bước sóng khác nhau.
+radiation|bức xạ|The instrument detects radiation from space.|Thiết bị phát hiện bức xạ từ không gian.
+conceived|hình thành ý tưởng; nghĩ ra|The project was conceived during a train ride.|Dự án được hình thành trong một chuyến đi bằng tàu hỏa.
+outlining|phác thảo; trình bày khái quát|She began by outlining the main argument.|Cô ấy bắt đầu bằng việc phác thảo lập luận chính.
+emerged|xuất hiện; nổi lên|A clear pattern emerged from the data.|Một quy luật rõ ràng đã xuất hiện từ dữ liệu.
+debate|cuộc tranh luận; tranh luận|The proposal sparked a public debate.|Đề xuất đó đã làm dấy lên một cuộc tranh luận công khai.
+conditions|điều kiện; hoàn cảnh|Plants grow quickly under these conditions.|Cây cối phát triển nhanh trong những điều kiện này.
+argue|lập luận; tranh luận|Some experts argue that the policy is ineffective.|Một số chuyên gia cho rằng chính sách này không hiệu quả.
+argued|đã lập luận; đã tranh luận|Researchers argued that the evidence supported a different explanation.|Các nhà nghiên cứu lập luận rằng bằng chứng ủng hộ một cách giải thích khác.
+intervention|sự can thiệp|Early intervention can prevent further damage.|Can thiệp sớm có thể ngăn ngừa thiệt hại thêm.
+influence|ảnh hưởng; tác động|Culture can influence how people communicate.|Văn hóa có thể ảnh hưởng đến cách mọi người giao tiếp.
+durable|bền; lâu hỏng|The bag is light but extremely durable.|Chiếc túi nhẹ nhưng cực kỳ bền.
+ornaments|đồ trang sức; vật trang trí|The tomb contained gold ornaments.|Ngôi mộ chứa các đồ trang sức bằng vàng.
+possessed|đã sở hữu; có|The object possessed both beauty and value.|Vật đó vừa có vẻ đẹp vừa có giá trị.
+intimate|thân mật; riêng tư; hiểu sâu|The letters reveal intimate details of her life.|Những lá thư tiết lộ các chi tiết riêng tư về cuộc đời cô ấy.
+archaeological|thuộc khảo cổ học|The team discovered an archaeological site.|Nhóm đã phát hiện một địa điểm khảo cổ.
+enhanced|được nâng cao; làm đẹp thêm|The lighting enhanced the colors of the painting.|Ánh sáng làm màu sắc của bức tranh nổi bật hơn.
+embellished|được tô điểm; trang trí thêm|The dress was embellished with tiny beads.|Chiếc váy được trang trí thêm bằng những hạt cườm nhỏ.
+worn|được mặc; bị mòn|The necklace was worn on special occasions.|Chiếc vòng cổ được đeo vào những dịp đặc biệt.
+buried|được chôn|The treasure had been buried for centuries.|Kho báu đã bị chôn vùi suốt nhiều thế kỷ.
+abrasion|sự mài mòn; vết trầy xước|Surface abrasion can erase fine details.|Sự mài mòn bề mặt có thể xóa đi các chi tiết nhỏ.
+alters|làm thay đổi|Exposure to sunlight alters the material.|Tiếp xúc với ánh nắng làm thay đổi vật liệu.
+corrosion|sự ăn mòn|Salt water causes corrosion in metal.|Nước mặn gây ăn mòn kim loại.
+features|đặc điểm; nét đặc trưng|The sculpture has several unusual features.|Tác phẩm điêu khắc có một số đặc điểm khác thường.
+thus|vì vậy; do đó|The item was rare and thus highly valuable.|Vật này hiếm và vì vậy rất có giá trị.
+imparted|đã truyền đạt; đem lại|The polishing process imparted a bright shine.|Quá trình đánh bóng tạo cho bề mặt độ sáng bóng.
+incorporated|được kết hợp; đưa vào|Animal shapes were incorporated into the design.|Các hình động vật được đưa vào thiết kế.
+attire|trang phục|Traditional attire is worn during the festival.|Trang phục truyền thống được mặc trong lễ hội.
+either|một trong hai; cũng không|You can choose either option.|Bạn có thể chọn một trong hai phương án.
+possess|sở hữu; có|Some materials possess remarkable strength.|Một số vật liệu có độ bền đáng kinh ngạc.
+desirable|đáng mong muốn; hấp dẫn|These qualities made the stone highly desirable.|Những phẩm chất này khiến loại đá trở nên rất đáng mong muốn.
+portable|dễ mang theo|The speaker is small and portable.|Chiếc loa nhỏ và dễ mang theo.
+scarcity|sự khan hiếm|Scarcity increased the value of the material.|Sự khan hiếm làm tăng giá trị của vật liệu.
+odor|mùi|The flower has a pleasant odor.|Bông hoa có mùi dễ chịu.
+pleasing|dễ chịu; đẹp mắt|The room has a pleasing balance of colors.|Căn phòng có sự cân bằng màu sắc dễ chịu.
+compel|buộc; thôi thúc|The evidence may compel us to change our view.|Bằng chứng có thể buộc chúng ta thay đổi quan điểm.
+revealed|đã tiết lộ; cho thấy|The scan revealed a hidden layer of paint.|Bản quét cho thấy một lớp sơn bị che khuất.
+miniature|thu nhỏ; vật tí hon|He collected miniature models of old ships.|Anh ấy sưu tầm các mô hình tàu cổ thu nhỏ.
+unravel|làm sáng tỏ; tháo gỡ|Scientists hope to unravel the mystery.|Các nhà khoa học hy vọng làm sáng tỏ bí ẩn.
+ordinary|bình thường|An ordinary object can tell an important story.|Một vật bình thường cũng có thể kể một câu chuyện quan trọng.
+mundane|tầm thường; đời thường|The museum displays tools from mundane daily life.|Bảo tàng trưng bày các công cụ từ đời sống thường nhật.
+witnessed|đã chứng kiến|The town witnessed rapid growth.|Thị trấn đã chứng kiến sự tăng trưởng nhanh chóng.
+gather|thu thập; tụ họp|Researchers gather evidence from many sources.|Các nhà nghiên cứu thu thập bằng chứng từ nhiều nguồn.
+diverse|đa dạng|The city has a diverse population.|Thành phố có dân số đa dạng.
+generalist|người có hiểu biết rộng nhiều lĩnh vực|A generalist can connect ideas across disciplines.|Một người có kiến thức rộng có thể kết nối các ý tưởng giữa nhiều lĩnh vực.
+ethnographic|thuộc nghiên cứu dân tộc học|She conducted ethnographic research in the village.|Cô ấy tiến hành nghiên cứu dân tộc học trong ngôi làng.
+anthropologist|nhà nhân học|The anthropologist studied local traditions.|Nhà nhân học nghiên cứu các truyền thống địa phương.
+definition|định nghĩa|The dictionary gives a clear definition.|Từ điển đưa ra một định nghĩa rõ ràng.
+confusing|gây bối rối; khó hiểu|The instructions were confusing at first.|Ban đầu các hướng dẫn khá khó hiểu.
+instead|thay vào đó|We stayed home instead of going out.|Chúng tôi ở nhà thay vì ra ngoài.
+chemical|hóa chất; thuộc hóa học|The test detected a dangerous chemical.|Bài kiểm tra phát hiện một hóa chất nguy hiểm.
+battery|pin; ắc quy|The device runs on a rechargeable battery.|Thiết bị chạy bằng pin sạc.
+efficient|hiệu quả; tiết kiệm năng lượng|The new system is more efficient.|Hệ thống mới hiệu quả hơn.
+counterparts|những đối tượng tương ứng|Digital tools are faster than their traditional counterparts.|Công cụ kỹ thuật số nhanh hơn các công cụ truyền thống tương ứng.
+toddlers|trẻ mới biết đi|Toddlers learn by touching and exploring.|Trẻ mới biết đi học bằng cách chạm và khám phá.
+coughs|những cơn ho; ho (ngôi thứ ba số ít)|Air pollution can cause persistent coughs in some people.|Ô nhiễm không khí có thể gây những cơn ho kéo dài ở một số người.
+murder mystery|truyện hoặc phim bí ẩn án mạng|She enjoys reading a clever murder mystery.|Cô ấy thích đọc một câu chuyện trinh thám án mạng thông minh.
+ambiguous|mơ hồ; có nhiều cách hiểu|The ending of the film is deliberately ambiguous.|Kết thúc của bộ phim được cố ý làm mơ hồ.
+fictional|hư cấu|The story takes place in a fictional city.|Câu chuyện diễn ra trong một thành phố hư cấu.
+depictions|những sự miêu tả; hình ảnh mô tả|Films contain dramatic depictions of robots.|Phim có những hình ảnh miêu tả kịch tính về robot.
+perform|thực hiện; biểu diễn|The machine can perform repetitive tasks.|Cỗ máy có thể thực hiện các công việc lặp đi lặp lại.
+autonomously|một cách tự chủ|The vehicle can navigate autonomously.|Chiếc xe có thể tự điều hướng một cách tự chủ.
+sense|cảm nhận; giác quan; ý nghĩa|The sensors sense movement in the room.|Các cảm biến nhận biết chuyển động trong phòng.
+manipulate|điều khiển; thao tác; thao túng|The robot can manipulate small objects.|Robot có thể thao tác các vật nhỏ.
+hilarious|rất hài hước|The robot's mistakes were hilarious.|Những sai sót của robot rất hài hước.
+inspires|truyền cảm hứng|Her courage inspires young artists.|Lòng dũng cảm của cô ấy truyền cảm hứng cho các nghệ sĩ trẻ.
+awe|sự kinh ngạc pha kính nể|The vast landscape filled us with awe.|Phong cảnh rộng lớn khiến chúng tôi tràn đầy kinh ngạc và kính nể.
+admiration|sự ngưỡng mộ|I have great admiration for her work.|Tôi rất ngưỡng mộ công việc của cô ấy.
+fear|nỗi sợ; sợ hãi|Fear can affect our decisions.|Nỗi sợ có thể ảnh hưởng đến các quyết định của chúng ta.
+yet|tuy nhiên; nhưng vẫn; chưa|The task is difficult, yet still possible.|Nhiệm vụ khó, tuy nhiên vẫn có thể thực hiện được.
+terrified|vô cùng sợ hãi|The child was terrified by the loud noise.|Đứa trẻ vô cùng sợ hãi vì tiếng động lớn.
+frightened|sợ hãi; hoảng sợ|The sudden noise frightened several children nearby.|Tiếng động bất ngờ làm một số trẻ em gần đó hoảng sợ.
+supplant|thay thế; chiếm chỗ|Digital media may supplant some printed materials.|Phương tiện kỹ thuật số có thể thay thế một số tài liệu in.
+independently|một cách độc lập|The two teams worked independently.|Hai nhóm làm việc độc lập với nhau.
+capable|có khả năng|The system is capable of learning from data.|Hệ thống có khả năng học từ dữ liệu.
+capitalism|chủ nghĩa tư bản|The book examines the history of capitalism.|Cuốn sách xem xét lịch sử của chủ nghĩa tư bản.
+inevitable|không thể tránh khỏi|Some degree of change is inevitable.|Một mức độ thay đổi nào đó là không thể tránh khỏi.
+impossible|không thể|It is impossible to predict every outcome.|Không thể dự đoán mọi kết quả.
+important|quan trọng|Clear communication is important in teamwork.|Giao tiếp rõ ràng rất quan trọng trong làm việc nhóm.
+unbelievable|khó tin; không thể tin được|The view from the mountain was unbelievable.|Khung cảnh từ trên núi đẹp đến khó tin.
+unavoidable|không thể tránh được|Some delays were unavoidable.|Một số sự chậm trễ là không thể tránh khỏi.
+retailers|các nhà bán lẻ|Online retailers offer a wide range of products.|Các nhà bán lẻ trực tuyến cung cấp nhiều loại sản phẩm.
+manufacturers|các nhà sản xuất|Manufacturers must follow safety standards.|Các nhà sản xuất phải tuân thủ các tiêu chuẩn an toàn.
+regular|thường xuyên; đều đặn|The equipment needs regular maintenance.|Thiết bị cần được bảo trì thường xuyên.
+platform|nền tảng; bục|The course is available on an online platform.|Khóa học có sẵn trên một nền tảng trực tuyến.
+youth hostels|nhà nghỉ giá rẻ dành cho thanh niên hoặc khách du lịch trẻ|Many backpackers stay in youth hostels to reduce travel costs.|Nhiều du khách ba lô ở nhà nghỉ thanh niên để giảm chi phí du lịch.
+vital|thiết yếu; cực kỳ quan trọng|Clean water is vital for human health.|Nước sạch thiết yếu đối với sức khỏe con người.
+conveying|truyền đạt; chuyên chở|Her voice was calm, conveying confidence.|Giọng cô ấy bình tĩnh, thể hiện sự tự tin.
+constant|liên tục; không đổi|The machine makes a constant low sound.|Cỗ máy phát ra một âm thanh trầm liên tục.
+awareness|nhận thức; sự hiểu biết|The campaign raised awareness of ocean pollution.|Chiến dịch nâng cao nhận thức về ô nhiễm đại dương.
+scrutinises|xem xét kỹ lưỡng|The editor scrutinises every detail before publication.|Biên tập viên xem xét kỹ từng chi tiết trước khi xuất bản.
+coordinates|phối hợp; tọa độ|She coordinates the work of several teams.|Cô ấy phối hợp công việc của nhiều nhóm.
+forecast|dự báo|Experts forecast stronger demand next year.|Các chuyên gia dự báo nhu cầu sẽ tăng mạnh hơn vào năm tới.
+prediction|sự dự đoán; lời dự đoán|Her prediction about the weather turned out to be correct.|Dự đoán của cô ấy về thời tiết hóa ra là chính xác.
+conduct|tiến hành; cách cư xử|The team will conduct a new experiment.|Nhóm sẽ tiến hành một thí nghiệm mới.
+concentrate|tập trung|It is easier to concentrate in a quiet room.|Sẽ dễ tập trung hơn trong một căn phòng yên tĩnh.
+fittings|phụ kiện; thiết bị lắp cố định|The room still has its original brass fittings.|Căn phòng vẫn còn các phụ kiện bằng đồng nguyên bản.
+express|bày tỏ; diễn đạt|Art allows people to express complex emotions.|Nghệ thuật cho phép con người bày tỏ những cảm xúc phức tạp.
+exposed|bị phơi bày; tiếp xúc|The metal was exposed to rain and wind.|Kim loại bị phơi ra dưới mưa và gió.
+gained|đã đạt được; có được|The idea gained public support.|Ý tưởng đã nhận được sự ủng hộ của công chúng.
+incorporate|kết hợp; đưa vào|We should incorporate feedback into the design.|Chúng ta nên đưa phản hồi vào thiết kế.
+continuum|một chuỗi liên tục|Learning exists on a continuum from beginner to expert.|Việc học tồn tại trên một chuỗi liên tục từ người mới bắt đầu đến chuyên gia.
+at the turn of the century|vào thời điểm chuyển giao thế kỷ|The city expanded rapidly at the turn of the century.|Thành phố mở rộng nhanh chóng vào thời điểm chuyển giao thế kỷ.
+demonstrate|chứng minh; thể hiện|These results demonstrate the value of practice.|Những kết quả này chứng minh giá trị của việc luyện tập.
+characteristics|đặc điểm; tính chất|Curiosity is one of her defining characteristics.|Tính tò mò là một trong những đặc điểm nổi bật của cô ấy.
+distinguish|phân biệt|It can be difficult to distinguish fact from opinion.|Có thể khó phân biệt sự thật với ý kiến.
+improvisation|sự ứng biến; ngẫu hứng|Jazz often leaves room for improvisation.|Nhạc jazz thường chừa không gian cho sự ngẫu hứng.
+improvise|ứng biến|We had to improvise when the power failed.|Chúng tôi phải ứng biến khi mất điện.
+touse|làm rối; vò rối; đối xử thô bạo|The strong wind toused his hair and left it completely untidy.|Gió mạnh làm tóc anh ấy rối tung và hoàn toàn bù xù.
+improvised|được ứng biến; làm tạm|They built an improvised shelter.|Họ dựng một nơi trú ẩn tạm thời.
+inspiration|nguồn cảm hứng|Nature is a constant source of inspiration.|Thiên nhiên là nguồn cảm hứng bất tận.
+brilliance|sự xuất sắc; vẻ rực rỡ|Critics praised the brilliance of her performance.|Các nhà phê bình ca ngợi sự xuất sắc trong màn trình diễn của cô ấy.
+demonstrated|đã chứng minh; thể hiện|The musicians demonstrated remarkable skill.|Các nhạc công thể hiện kỹ năng đáng kinh ngạc.
+extended|kéo dài; mở rộng|The show was extended for another week.|Buổi biểu diễn được kéo dài thêm một tuần.
+similarly|tương tự như vậy|The first group improved; similarly, the second made progress.|Nhóm đầu tiên tiến bộ; tương tự, nhóm thứ hai cũng có tiến triển.
+orchestras|các dàn nhạc giao hưởng|Both orchestras performed at the festival.|Cả hai dàn nhạc đều biểu diễn tại lễ hội.
+carnival|lễ hội hóa trang; hội chợ|Crowds filled the streets during the carnival.|Đám đông tràn ngập đường phố trong lễ hội hóa trang.
+cohesion|sự gắn kết; tính mạch lạc|Trust improves cohesion within a team.|Sự tin tưởng cải thiện tính gắn kết trong một nhóm.
+influential|có ảnh hưởng|She became an influential figure in modern art.|Cô ấy trở thành một nhân vật có ảnh hưởng trong nghệ thuật hiện đại.
+initially|ban đầu|Initially, the project seemed too ambitious.|Ban đầu, dự án có vẻ quá tham vọng.
+periodically|theo định kỳ; thỉnh thoảng|The equipment is checked periodically.|Thiết bị được kiểm tra định kỳ.
+carelessly|một cách bất cẩn|He carelessly left the door unlocked.|Anh ấy bất cẩn để cửa không khóa.
+purposely|một cách có chủ ý|She purposely kept the design simple.|Cô ấy cố ý giữ thiết kế đơn giản.
+consciously|một cách có ý thức|He consciously slowed his breathing.|Anh ấy chủ động làm chậm nhịp thở của mình.
+unadorned|không trang trí; mộc mạc|The room was simple and unadorned.|Căn phòng đơn giản và không trang trí cầu kỳ.
+inexpensive|không đắt; rẻ|The material is durable and inexpensive.|Vật liệu bền và không đắt.
+ecological|thuộc sinh thái|The spill caused serious ecological damage.|Vụ tràn đã gây thiệt hại sinh thái nghiêm trọng.
+pollution|sự ô nhiễm|Heavy traffic is a major source of air pollution in the city.|Giao thông đông đúc là nguồn gây ô nhiễm không khí lớn trong thành phố.
+unspoiled|còn nguyên sơ; chưa bị tàn phá|The island is known for its unspoiled beaches and clear water.|Hòn đảo nổi tiếng với những bãi biển còn nguyên sơ và làn nước trong.
+inhabitants|cư dân; người sinh sống|The island's inhabitants depend heavily on fishing and tourism.|Cư dân trên đảo phụ thuộc nhiều vào đánh bắt cá và du lịch.
+spoil|làm hỏng; phá hỏng|Too much development could spoil the natural beauty of the area.|Phát triển quá mức có thể làm hỏng vẻ đẹp tự nhiên của khu vực.
+rubbish|rác; đồ bỏ đi|Visitors were asked not to leave rubbish on the beach.|Du khách được yêu cầu không để rác trên bãi biển.
+rapid|nhanh chóng|The region experienced rapid population growth.|Khu vực trải qua sự gia tăng dân số nhanh chóng.
+hostile|thù địch; khắc nghiệt|Few plants survive in this hostile environment.|Rất ít loài cây sống sót trong môi trường khắc nghiệt này.
+affected|bị ảnh hưởng|Several coastal towns were affected by the storm.|Một số thị trấn ven biển bị ảnh hưởng bởi cơn bão.
+ultimately|cuối cùng; xét cho cùng|Ultimately, the decision belongs to the community.|Cuối cùng, quyết định thuộc về cộng đồng.
+eventually|cuối cùng; rồi thì|The rain eventually stopped.|Cuối cùng thì mưa cũng ngừng.
+unfortunately|không may|Unfortunately, the data was incomplete.|Không may là dữ liệu chưa đầy đủ.
+exceptionally|một cách đặc biệt; khác thường|The winter was exceptionally cold.|Mùa đông lạnh khác thường.
+dramatically|một cách đáng kể; đầy kịch tính|Temperatures dropped dramatically overnight.|Nhiệt độ giảm mạnh chỉ trong một đêm.
+fossil|hóa thạch|The fossil reveals how the animal once lived.|Hóa thạch cho thấy con vật từng sống như thế nào.
+reveals|tiết lộ; cho thấy|The study reveals a link between sleep and memory.|Nghiên cứu cho thấy mối liên hệ giữa giấc ngủ và trí nhớ.
+occurred|đã xảy ra|The earthquake occurred early in the morning.|Trận động đất xảy ra vào sáng sớm.
+occasions|những dịp; những lần|We met on several occasions.|Chúng tôi đã gặp nhau trong vài dịp.
+throughout|xuyên suốt; khắp|The climate stayed dry throughout the summer.|Khí hậu khô ráo suốt mùa hè.
+relatively|tương đối|The task was relatively easy.|Nhiệm vụ tương đối dễ.
+worsened|đã trở nên tệ hơn|The weather worsened during the afternoon.|Thời tiết trở nên xấu hơn vào buổi chiều.
+caused|đã gây ra|Heavy rain caused severe flooding.|Mưa lớn gây lũ lụt nghiêm trọng.
+interrelationship|mối quan hệ qua lại|The study explores the interrelationship between diet and health.|Nghiên cứu tìm hiểu mối quan hệ qua lại giữa chế độ ăn và sức khỏe.
+organisms|các sinh vật|Tiny organisms live in the soil.|Các sinh vật nhỏ bé sống trong đất.
+plankton|sinh vật phù du|Many sea animals feed on plankton.|Nhiều động vật biển ăn sinh vật phù du.
+such|như vậy; như thế|Such behavior can harm the entire group.|Hành vi như vậy có thể gây hại cho cả nhóm.
+in preventing|trong việc ngăn chặn|Education plays a key role in preventing disease.|Giáo dục đóng vai trò then chốt trong việc ngăn ngừa bệnh tật.
+controversial|gây tranh cãi|The new policy remains controversial.|Chính sách mới vẫn gây tranh cãi.
+tended to be more intense|có xu hướng dữ dội hơn|Storms near the coast tended to be more intense.|Các cơn bão gần bờ có xu hướng dữ dội hơn.
+period|giai đoạn; thời kỳ; dấu chấm|The region experienced a long period of drought.|Khu vực trải qua một thời kỳ hạn hán kéo dài.
+adopted|đã áp dụng; chấp nhận; nhận nuôi|The city adopted a new policy to reduce plastic waste.|Thành phố áp dụng một chính sách mới để giảm rác thải nhựa.
+periodic|có tính định kỳ|The comet makes periodic appearances.|Sao chổi xuất hiện theo định kỳ.
+due to|do; bởi vì|The match was canceled due to heavy rain.|Trận đấu bị hủy do mưa lớn.
+intersection|giao điểm; sự giao nhau|The accident happened at a busy intersection.|Vụ tai nạn xảy ra tại một giao lộ đông đúc.
+orbit|quỹ đạo; quay quanh|The satellite entered orbit around Earth.|Vệ tinh đi vào quỹ đạo quanh Trái Đất.
+purely|hoàn toàn; thuần túy|His interest was purely academic.|Mối quan tâm của anh ấy hoàn toàn mang tính học thuật.
+speculative|mang tính suy đoán|The claim remains highly speculative.|Nhận định này vẫn mang tính suy đoán cao.
+speculated|đã suy đoán|Scientists speculated about the cause.|Các nhà khoa học suy đoán về nguyên nhân.
+influence (verb)|ảnh hưởng đến|Weather can influence animal behavior.|Thời tiết có thể ảnh hưởng đến hành vi của động vật.
+periodical|ấn phẩm định kỳ; có tính định kỳ|The library subscribes to a scientific periodical.|Thư viện đăng ký mua một ấn phẩm khoa học định kỳ.
+occur|xảy ra|Unexpected problems can occur at any time.|Các vấn đề bất ngờ có thể xảy ra bất cứ lúc nào.
+incorporation|sự kết hợp; đưa vào|The incorporation of color improved the design.|Việc đưa màu sắc vào đã cải thiện thiết kế.
+demonstration|sự chứng minh; buổi trình diễn|The teacher gave a clear demonstration.|Giáo viên đã đưa ra một phần trình diễn minh họa rõ ràng.
+exceptional|xuất sắc; khác thường|She showed exceptional artistic ability.|Cô ấy thể hiện năng lực nghệ thuật xuất sắc khác thường.
+ecology|sinh thái học|Ecology examines relationships among living things.|Sinh thái học nghiên cứu mối quan hệ giữa các sinh vật sống.
+speculation|sự suy đoán|The announcement ended months of speculation.|Thông báo đã chấm dứt nhiều tháng suy đoán.
+stimulate|kích thích; khuyến khích|Good questions stimulate creative thinking.|Những câu hỏi hay kích thích tư duy sáng tạo.
+ornament|đồ trang trí; trang trí|A silver ornament hung from the tree.|Một món đồ trang trí bằng bạc treo trên cây.
+archaeology|khảo cổ học|Archaeology helps us understand ancient societies.|Khảo cổ học giúp chúng ta hiểu các xã hội cổ đại.
+enhance|nâng cao; làm tăng|Soft light can enhance the atmosphere.|Ánh sáng dịu có thể làm tăng bầu không khí của không gian.
+embellish|tô điểm; thêu dệt thêm|Some writers embellish a story with extra details.|Một số nhà văn tô điểm câu chuyện bằng các chi tiết thêm vào.
+inspired|được truyền cảm hứng|She was inspired by traditional architecture.|Cô ấy được truyền cảm hứng từ kiến trúc truyền thống.
+federal|thuộc liên bang|The federal government funded several major infrastructure projects.|Chính phủ liên bang tài trợ một số dự án cơ sở hạ tầng lớn.
+states|các bang; tiểu bang|Several states supported the new transportation plan.|Một số bang ủng hộ kế hoạch giao thông mới.
+granted|đã cấp; ban cho|The government granted the company permission to build the canal.|Chính phủ cấp cho công ty quyền xây dựng kênh đào.
+charters|đặc quyền; giấy phép thành lập|The states granted charters to private transportation companies.|Các bang cấp giấy phép đặc quyền cho các công ty vận tải tư nhân.
+construction|sự xây dựng|Canal construction required a large amount of labor and money.|Việc xây dựng kênh đào đòi hỏi rất nhiều lao động và tiền bạc.
+various|đa dạng; nhiều loại khác nhau|Various groups supported the project for different reasons.|Nhiều nhóm khác nhau ủng hộ dự án vì những lý do khác nhau.
+internal|nội bộ; trong nước|The program aimed to improve internal transportation.|Chương trình nhằm cải thiện hệ thống giao thông nội địa.
+canals|các kênh đào|Canals connected inland farms with coastal markets.|Các kênh đào kết nối các trang trại nội địa với các chợ ven biển.
+encouraged|được khuyến khích; đã khuyến khích|The new roads encouraged trade between regions.|Những con đường mới thúc đẩy thương mại giữa các khu vực.
+provocative|mang tính khiêu khích; gợi tranh luận|The proposal was provocative and immediately sparked debate.|Đề xuất mang tính khiêu khích và ngay lập tức châm ngòi tranh luận.
+innovative|đổi mới; sáng tạo|The company introduced an innovative method of transportation.|Công ty giới thiệu một phương thức vận chuyển sáng tạo.
+alarming|đáng báo động|The rapid rise in prices was alarming to local merchants.|Việc giá cả tăng nhanh khiến các thương nhân địa phương lo ngại.
+separate|tách biệt; riêng biệt|The law treated the two activities as separate issues.|Luật xem hai hoạt động này là hai vấn đề riêng biệt.
+inferred|đã suy ra|Researchers inferred the pattern from indirect evidence.|Các nhà nghiên cứu suy ra quy luật từ bằng chứng gián tiếp.
+predominantly|chủ yếu; phần lớn|The region was predominantly agricultural at the time.|Vào thời điểm đó, khu vực này chủ yếu là nông nghiệp.
+regulatory|thuộc quản lý; điều tiết|The state adopted new regulatory measures for local trade.|Bang áp dụng các biện pháp quản lý mới đối với thương mại địa phương.
+engaged|tham gia; tham gia vào|Many merchants were engaged in interstate trade.|Nhiều thương nhân tham gia buôn bán giữa các bang.
+direct|trực tiếp; thẳng|The policy had a direct effect on small businesses.|Chính sách có tác động trực tiếp đến các doanh nghiệp nhỏ.
+extensive|rộng lớn; sâu rộng|The city developed an extensive network of roads and canals.|Thành phố phát triển một mạng lưới đường bộ và kênh đào rộng lớn.
+licensing|việc cấp giấy phép|Licensing rules applied to many types of local businesses.|Các quy định cấp phép áp dụng cho nhiều loại hình kinh doanh địa phương.
+peddlers|những người bán hàng rong|Peddlers traveled from town to town selling small goods.|Những người bán hàng rong đi từ thị trấn này sang thị trấn khác để bán hàng nhỏ.
+merchants|các thương nhân|Merchants depended on reliable transportation routes.|Các thương nhân phụ thuộc vào những tuyến vận chuyển đáng tin cậy.
+retail|bán lẻ; thuộc bán lẻ|Retail businesses were regulated by local authorities.|Các doanh nghiệp bán lẻ được chính quyền địa phương quản lý.
+innkeepers|chủ quán trọ|Innkeepers provided food and lodging to travelers.|Chủ quán trọ cung cấp thức ăn và chỗ ở cho du khách.
+perishable|dễ hỏng|Perishable goods had to reach the market quickly.|Hàng hóa dễ hỏng phải được đưa ra thị trường nhanh chóng.
+commodities|hàng hóa; mặt hàng|Farmers shipped commodities such as grain and timber.|Nông dân vận chuyển các mặt hàng như ngũ cốc và gỗ xẻ.
+inspecting|việc kiểm tra; đang kiểm tra|Officials were responsible for inspecting goods before sale.|Các quan chức chịu trách nhiệm kiểm tra hàng hóa trước khi bán.
+frontier|vùng biên cương; vùng khai phá|Settlers moved steadily toward the western frontier.|Những người định cư liên tục tiến về vùng biên cương phía tây.
+staples|mặt hàng thiết yếu; lương thực chủ yếu|Flour and salt were common frontier staples.|Bột mì và muối là những mặt hàng thiết yếu phổ biến ở vùng biên cương.
+lumber|gỗ xẻ|The town exported lumber to growing cities.|Thị trấn xuất khẩu gỗ xẻ đến các thành phố đang phát triển.
+subject|chịu; đối tượng; chủ đề|Imported goods were subject to additional restrictions.|Hàng nhập khẩu phải chịu thêm các hạn chế.
+restrictions|các hạn chế|The government imposed restrictions on certain types of trade.|Chính phủ áp đặt các hạn chế đối với một số loại hình thương mại.
+imposing|áp đặt; ban hành|The state was accused of imposing unfair fees.|Bang bị cáo buộc áp đặt các khoản phí không công bằng.
+establishing|thiết lập; thành lập|The law helped in establishing new commercial standards.|Luật góp phần thiết lập các tiêu chuẩn thương mại mới.
+facilitation|sự tạo điều kiện; thúc đẩy|The canal was built for the facilitation of trade.|Kênh đào được xây dựng để tạo điều kiện cho thương mại.
+settlement|sự định cư; khu định cư|Road building accelerated settlement in the region.|Việc xây đường đẩy nhanh quá trình định cư trong khu vực.
+native industries|các ngành công nghiệp trong nước|Tariffs were designed to protect native industries.|Thuế quan được thiết kế để bảo vệ các ngành công nghiệp trong nước.
+pursued|đã theo đuổi|The government pursued a policy of economic expansion.|Chính phủ theo đuổi chính sách mở rộng kinh tế.
+national|thuộc quốc gia; toàn quốc|Leaders wanted to create a stronger national market.|Các nhà lãnh đạo muốn tạo ra một thị trường quốc gia mạnh hơn.
+stabilize|ổn định|The policy was intended to stabilize prices.|Chính sách nhằm ổn định giá cả.
+permitted|được cho phép; đã cho phép|The law permitted settlers to buy public land.|Luật cho phép người định cư mua đất công.
+increasingly|ngày càng|Transportation became increasingly important to economic growth.|Giao thông ngày càng trở nên quan trọng đối với tăng trưởng kinh tế.
+culminating|lên đến đỉnh điểm; kết thúc bằng|The dispute continued for years, culminating in a court case.|Tranh chấp kéo dài nhiều năm và cuối cùng dẫn đến một vụ kiện tại tòa.
+title to land|quyền sở hữu đất|Settlers needed a legal title to land before selling it.|Người định cư cần có quyền sở hữu đất hợp pháp trước khi bán đất.
+tariffs|thuế quan|Tariffs raised the price of some imported goods.|Thuế quan làm tăng giá một số hàng nhập khẩu.
+protectionist|mang tính bảo hộ|The country adopted a protectionist trade policy.|Quốc gia áp dụng chính sách thương mại bảo hộ.
+maneuvering|sự vận động; xoay xở chiến thuật|Political maneuvering shaped the final version of the law.|Việc vận động chính trị đã định hình phiên bản cuối cùng của đạo luật.
+produced|đã tạo ra; sản xuất|The new system produced several unexpected effects.|Hệ thống mới tạo ra một số tác động ngoài dự kiến.
+frequent|thường xuyên|Frequent changes in policy confused many merchants.|Những thay đổi chính sách thường xuyên làm nhiều thương nhân bối rối.
+inspection|sự kiểm tra|Inspection of food products was required before sale.|Việc kiểm tra thực phẩm là bắt buộc trước khi bán.
+determining|xác định; quyết định|Cost was an important factor in determining the final route.|Chi phí là một yếu tố quan trọng trong việc xác định tuyến đường cuối cùng.
+originated|bắt nguồn; xuất phát|The idea originated in a small group of researchers.|Ý tưởng bắt nguồn từ một nhóm nhỏ các nhà nghiên cứu.
+significant|đáng kể; quan trọng|The discovery represented a significant change in our understanding.|Phát hiện này thể hiện một thay đổi đáng kể trong hiểu biết của chúng ta.
+drastic|mạnh mẽ; quyết liệt|The climate underwent a drastic shift.|Khí hậu trải qua một sự thay đổi mạnh mẽ.
+widespread|phổ biến rộng rãi|The new technology soon became widespread.|Công nghệ mới nhanh chóng trở nên phổ biến rộng rãi.
+drastic change|sự thay đổi mạnh mẽ|The fossils suggest a drastic change in the local environment.|Các hóa thạch cho thấy một sự thay đổi lớn trong môi trường địa phương.
+radical|căn bản; triệt để; cấp tiến|The evidence led scientists to propose a radical new explanation.|Bằng chứng khiến các nhà khoa học đề xuất một cách giải thích mới mang tính căn bản.
+progressive|tiến bộ; diễn tiến dần|The sequence shows a progressive adaptation to life on land.|Chuỗi này cho thấy quá trình thích nghi dần dần với cuộc sống trên cạn.
+risky|rủi ro; nguy hiểm|Moving onto land would have been risky for early organisms.|Việc chuyển lên sống trên cạn hẳn đã rất rủi ro đối với các sinh vật thời kỳ đầu.
+terrestrial|thuộc đất liền; trên cạn|These were among the earliest terrestrial organisms.|Đây là một trong những sinh vật trên cạn sớm nhất.
+specimens|các mẫu vật|The museum preserved several rare fossil specimens.|Bảo tàng bảo tồn một số mẫu hóa thạch quý hiếm.
+seed|hạt giống|The seed can survive dry conditions for many months.|Hạt giống có thể sống sót trong điều kiện khô hạn suốt nhiều tháng.
+comprehensive|toàn diện|The team conducted a comprehensive study of the fossils.|Nhóm tiến hành một nghiên cứu toàn diện về các hóa thạch.
+assumed|đã giả định; cho rằng|Scientists had long assumed that the species lived only in water.|Các nhà khoa học từ lâu đã cho rằng loài này chỉ sống dưới nước.
+vascular|thuộc mạch dẫn|Vascular plants can transport water through specialized tissues.|Thực vật có mạch có thể vận chuyển nước qua các mô chuyên biệt.
+sequence|trình tự; chuỗi|The fossil sequence records several stages of evolution.|Chuỗi hóa thạch ghi lại nhiều giai đoạn tiến hóa.
+terrestrialization|quá trình thích nghi/chuyển lên sống trên cạn|Terrestrialization transformed the history of life on Earth.|Quá trình chuyển lên sống trên cạn đã làm thay đổi lịch sử sự sống trên Trái Đất.
+mirrored|phản ánh; giống như|The pattern mirrored changes seen in other fossil sites.|Quy luật này phản ánh những thay đổi được thấy tại các địa điểm hóa thạch khác.
+primitive|nguyên thủy; sơ khai|Primitive plants had relatively simple structures.|Các loài thực vật nguyên thủy có cấu trúc tương đối đơn giản.
+colonized|đã định cư; xâm chiếm môi trường sống|Early plants colonized moist areas near the shore.|Các loài thực vật đầu tiên định cư ở những khu vực ẩm gần bờ.
+fed|đã ăn; được nuôi dưỡng|The animals fed on small organisms in shallow water.|Các động vật ăn những sinh vật nhỏ trong vùng nước nông.
+diversified explosively|đa dạng hóa bùng nổ|Some groups diversified explosively after reaching new habitats.|Một số nhóm đa dạng hóa bùng nổ sau khi đến những môi trường sống mới.
+diversified|đã đa dạng hóa|The species diversified into many distinct forms.|Loài này đa dạng hóa thành nhiều dạng khác biệt.
+boundary|ranh giới|The fossils were found near a major geological boundary.|Các hóa thạch được tìm thấy gần một ranh giới địa chất lớn.
+paleontologists|các nhà cổ sinh vật học|Paleontologists examined the newly discovered specimens.|Các nhà cổ sinh vật học kiểm tra những mẫu vật mới được phát hiện.
+sediments|trầm tích|The fossils were preserved in fine coastal sediments.|Các hóa thạch được bảo tồn trong lớp trầm tích ven biển mịn.
+geological|thuộc địa chất|The site contains a detailed geological record.|Địa điểm này chứa một hồ sơ địa chất chi tiết.
+turns out|hóa ra|It turns out that the earlier interpretation was incomplete.|Hóa ra cách giải thích trước đó chưa đầy đủ.
+bath|bồn tắm; sự tắm|The object was cleaned in a warm chemical bath.|Vật thể được làm sạch trong một bể dung dịch hóa chất ấm.
+uncovered|đã phát hiện; làm lộ ra|Excavations uncovered evidence of an ancient shoreline.|Các cuộc khai quật phát hiện bằng chứng về một đường bờ biển cổ đại.
+evidence|bằng chứng|The sediments provide evidence of changing sea levels.|Các lớp trầm tích cung cấp bằng chứng về sự thay đổi mực nước biển.
+deposited|được lắng đọng; đặt xuống|Sand was deposited along the ancient shore.|Cát được lắng đọng dọc theo bờ biển cổ đại.
+shores|các bờ biển; bờ hồ|Early organisms may have lived near shallow shores.|Các sinh vật thời kỳ đầu có thể đã sống gần những vùng bờ nước nông.
+instances|các trường hợp|Researchers found several instances of similar fossils.|Các nhà nghiên cứu tìm thấy một số trường hợp hóa thạch tương tự.
+crushed|bị nghiền nát; đè bẹp|Some specimens were crushed by the weight of overlying sediments.|Một số mẫu vật bị nghiền nát bởi trọng lượng của các lớp trầm tích phía trên.
+excavated|được khai quật|The fossils were carefully excavated from the rock.|Các hóa thạch được khai quật cẩn thận khỏi đá.
+trapped|bị mắc kẹt|Small organisms became trapped in wet sediment.|Các sinh vật nhỏ bị mắc kẹt trong trầm tích ướt.
+entombed|bị chôn vùi|The remains were entombed beneath layers of sediment.|Phần còn lại bị chôn vùi dưới nhiều lớp trầm tích.
+origins|nguồn gốc|The discovery raised new questions about the origins of land life.|Phát hiện này đặt ra những câu hỏi mới về nguồn gốc của sự sống trên cạn.
+existence|sự tồn tại|The fossils confirm the existence of organisms in that period.|Các hóa thạch xác nhận sự tồn tại của sinh vật trong thời kỳ đó.
+invasion|sự xâm chiếm; xâm nhập|The move onto land has been described as a biological invasion.|Việc chuyển lên đất liền được mô tả như một cuộc xâm chiếm sinh học.
+revised|đã sửa đổi; xem xét lại|Scientists revised their theory after new evidence appeared.|Các nhà khoa học sửa đổi lý thuyết sau khi có bằng chứng mới.
+revisions|những sự sửa đổi|Later discoveries led to several revisions of the timeline.|Những phát hiện sau này dẫn đến một số lần sửa đổi dòng thời gian.
+speculations|những suy đoán|Early speculations were replaced by stronger evidence.|Những suy đoán ban đầu được thay thế bằng bằng chứng mạnh hơn.
+determinations|những kết luận; sự xác định|The researchers based their determinations on multiple fossil layers.|Các nhà nghiên cứu đưa ra kết luận dựa trên nhiều lớp hóa thạch.
+detour|đường vòng; đi đường vòng|We took a detour because the main road was closed.|Chúng tôi đi đường vòng vì đường chính bị đóng.
+interfere|can thiệp; cản trở|Loud noise can interfere with your concentration.|Tiếng ồn lớn có thể cản trở sự tập trung của bạn.
+navigational|thuộc định hướng; thuộc dẫn đường|The ship uses advanced navigational equipment.|Con tàu sử dụng thiết bị định hướng tiên tiến.
+reserve|đặt trước; dành riêng|We reserved two seats near the window.|Chúng tôi đặt trước hai chỗ ngồi gần cửa sổ.
+jogging|việc chạy bộ nhẹ|Jogging for twenty minutes can improve fitness.|Chạy bộ nhẹ trong hai mươi phút có thể cải thiện thể lực.
+involves|bao gồm; liên quan đến|The job involves working with several different teams.|Công việc bao gồm việc làm với nhiều nhóm khác nhau.
+rinse|rửa; tráng bằng nước|Rinse the vegetables under cold water.|Rửa rau dưới vòi nước lạnh.
+saucepan|nồi nhỏ có cán|Heat the milk gently in a saucepan.|Đun sữa nhẹ trong một chiếc nồi nhỏ có cán.
+stir|khuấy; đảo|Stir the soup slowly while it is heating.|Khuấy súp từ từ khi nó đang nóng lên.
+lid|nắp đậy|Put the lid on the saucepan to keep the heat in.|Đậy nắp nồi để giữ nhiệt bên trong.
+lit|đã thắp sáng; được chiếu sáng|The room was lit by several small lamps.|Căn phòng được chiếu sáng bằng vài chiếc đèn nhỏ.
+curb|mép vỉa hè|She waited at the curb for the taxi.|Cô ấy đứng ở mép vỉa hè chờ taxi.
+prior|trước đó; trước|Prior experience is helpful but not required.|Kinh nghiệm trước đây hữu ích nhưng không bắt buộc.
+advocate|ủng hộ; chủ trương|Many doctors advocate regular exercise.|Nhiều bác sĩ ủng hộ việc tập thể dục thường xuyên.
+disasters|các thảm họa|Natural disasters can destroy homes and infrastructure.|Thiên tai có thể phá hủy nhà cửa và cơ sở hạ tầng.
+seriousness|mức độ nghiêm trọng; tính nghiêm túc|The report emphasized the seriousness of the problem.|Báo cáo nhấn mạnh mức độ nghiêm trọng của vấn đề.
+poverty|sự nghèo đói|Education can help communities escape poverty.|Giáo dục có thể giúp cộng đồng thoát khỏi nghèo đói.
+frequently|thường xuyên|This problem occurs frequently during the rainy season.|Vấn đề này xảy ra thường xuyên trong mùa mưa.
+ethical|thuộc đạo đức; đúng về mặt đạo đức|Researchers must follow ethical standards.|Các nhà nghiên cứu phải tuân theo các tiêu chuẩn đạo đức.
+discriminate|phân biệt đối xử; phân biệt|It is illegal to discriminate against people because of their background.|Phân biệt đối xử với người khác vì xuất thân của họ là bất hợp pháp.
+evaluating|đang đánh giá; việc đánh giá|The team is evaluating the effectiveness of the program.|Nhóm đang đánh giá mức độ hiệu quả của chương trình.
+concern|mối lo ngại; sự quan tâm|Safety remains a major concern for parents.|An toàn vẫn là mối lo ngại lớn của các bậc phụ huynh.
+eligible|đủ điều kiện|Only eligible participants can receive the grant.|Chỉ những người tham gia đủ điều kiện mới có thể nhận khoản trợ cấp.
+implied|đã ngụ ý; được ngụ ý|His answer implied that the plan might change.|Câu trả lời của anh ấy ngụ ý rằng kế hoạch có thể thay đổi.
+injection|mũi tiêm; sự tiêm|The nurse gave the patient an injection.|Y tá tiêm cho bệnh nhân một mũi.
+furiously|một cách giận dữ; dữ dội|He argued furiously against the decision.|Anh ấy tranh luận dữ dội phản đối quyết định.
+encourages|khuyến khích; thúc đẩy|The program encourages children to read every day.|Chương trình khuyến khích trẻ em đọc sách mỗi ngày.
+praised|đã khen ngợi|The teacher praised her for the careful work.|Giáo viên khen cô ấy vì công việc cẩn thận.
+gorgeous|rất đẹp; lộng lẫy|The garden looked gorgeous in the morning light.|Khu vườn trông tuyệt đẹp dưới ánh sáng buổi sáng.
+prompts|thúc đẩy; gợi ra; khiến|The question prompts students to think more deeply.|Câu hỏi khiến học sinh suy nghĩ sâu hơn.
+exchange|trao đổi; sự trao đổi|The students exchange ideas after the presentation.|Các học sinh trao đổi ý tưởng sau bài thuyết trình.
+part with|chia tay với; từ bỏ một vật mình sở hữu|He refused to part with the old family photograph.|Anh ấy từ chối chia tay với bức ảnh gia đình cũ.
+forced|bị ép buộc; cưỡng ép|They were forced to leave because of the storm.|Họ buộc phải rời đi vì cơn bão.
+proper|phù hợp; đúng đắn; thích hợp|Proper preparation can prevent many mistakes.|Sự chuẩn bị phù hợp có thể ngăn ngừa nhiều sai lầm.
+uncomplicated|không phức tạp; đơn giản|The procedure is short and uncomplicated.|Quy trình ngắn và không phức tạp.
+sequel|phần tiếp theo|The sequel continues the story of the first film.|Phần tiếp theo tiếp tục câu chuyện của bộ phim đầu tiên.
+annoy|làm khó chịu; chọc tức|Repeated notifications can annoy users.|Các thông báo lặp đi lặp lại có thể làm người dùng khó chịu.
+hurdles|các trở ngại; rào cản|The project faced several financial hurdles.|Dự án gặp phải một số trở ngại về tài chính.
+assessing|đang đánh giá; việc đánh giá|Doctors are assessing the patient before treatment.|Các bác sĩ đang đánh giá bệnh nhân trước khi điều trị.
+represents|đại diện; thể hiện|The symbol represents peace and cooperation.|Biểu tượng đại diện cho hòa bình và sự hợp tác.
+infection|sự nhiễm trùng|The wound developed an infection.|Vết thương bị nhiễm trùng.
+parasitic|thuộc ký sinh; do ký sinh trùng|Malaria is caused by a parasitic organism.|Bệnh sốt rét do một sinh vật ký sinh gây ra.
+specifically|cụ thể; đặc biệt là|The course is designed specifically for beginners.|Khóa học được thiết kế riêng cho người mới bắt đầu.
+clinical|thuộc lâm sàng; liên quan điều trị bệnh nhân|The vaccine was tested in a clinical trial.|Vắc-xin được thử nghiệm trong một thử nghiệm lâm sàng.
+yielded|đã tạo ra; đã mang lại; đã cho ra (động từ)|The clinical trial yielded promising results.|Thử nghiệm lâm sàng cho ra kết quả đầy hứa hẹn.
+yield|tạo ra; mang lại; cho ra (động từ)|The new method may yield more reliable results.|Phương pháp mới có thể tạo ra kết quả đáng tin cậy hơn.
+a month apart|cách nhau một tháng|The two vaccine doses were given a month apart.|Hai liều vắc-xin được tiêm cách nhau một tháng.
+severe|nghiêm trọng; nặng; khắc nghiệt|Severe malaria can become life-threatening.|Sốt rét nặng có thể đe dọa tính mạng.
+effectiveness|hiệu quả; mức độ hiệu quả|Researchers measured the effectiveness of the vaccine.|Các nhà nghiên cứu đo lường hiệu quả của vắc-xin.
+declined|đã giảm; đã suy giảm|The number of cases declined after vaccination.|Số ca bệnh giảm sau khi tiêm chủng.
+essential|thiết yếu; cực kỳ cần thiết|Clean water is essential for good health.|Nước sạch là điều thiết yếu cho sức khỏe tốt.
+malaria|bệnh sốt rét|Malaria is spread by infected mosquitoes.|Sốt rét lây truyền qua muỗi bị nhiễm bệnh.
+administered|đã được cho dùng; đã được tiêm/cấp (thuốc)|The vaccine was administered by a trained nurse.|Vắc-xin được một y tá đã qua đào tạo tiêm.
+childhood vaccines|các vắc-xin dành cho trẻ em|Childhood vaccines protect against several serious diseases.|Vắc-xin trẻ em bảo vệ khỏi một số bệnh nghiêm trọng.
+partially|một phần; chưa hoàn toàn|The treatment was only partially effective.|Việc điều trị chỉ hiệu quả một phần.
+disease|bệnh; bệnh tật|The disease can spread rapidly without treatment.|Bệnh có thể lây lan nhanh chóng nếu không điều trị.
+grant|cấp; trao; cho phép (động từ)|The agency may grant additional funding to the project.|Cơ quan có thể cấp thêm kinh phí cho dự án.
+milk extracts|các chiết xuất từ sữa|Researchers detected milk extracts in ancient pottery.|Các nhà nghiên cứu phát hiện chiết xuất từ sữa trong đồ gốm cổ.
+vessels|bình; đồ đựng; vật chứa|The archaeologists examined pottery vessels from the site.|Các nhà khảo cổ kiểm tra những bình gốm từ địa điểm này.
+pottery|đồ gốm|Ancient pottery can reveal what people cooked and stored.|Đồ gốm cổ có thể cho biết con người đã nấu và lưu trữ gì.
+perforated|được đục lỗ; có lỗ|The vessel had a perforated base.|Chiếc bình có phần đáy được đục lỗ.
+obvious|rõ ràng; dễ nhận thấy|There was no obvious sign of damage.|Không có dấu hiệu hư hại rõ ràng.
+northern|thuộc phía bắc|The samples came from a northern European site.|Các mẫu đến từ một địa điểm ở Bắc Âu.
+Neolithic|thuộc thời kỳ Đồ đá mới|The settlement dates to the Neolithic period.|Khu định cư có niên đại từ thời kỳ Đồ đá mới.
+lipid|chất béo; lipid|Scientists identified a lipid from animal fat.|Các nhà khoa học xác định một loại lipid từ mỡ động vật.
+detected|đã phát hiện|The test detected traces of milk fat.|Bài kiểm tra phát hiện dấu vết mỡ sữa.
+traces|dấu vết; lượng rất nhỏ còn lại|Researchers found traces of fat inside the vessel.|Các nhà nghiên cứu tìm thấy dấu vết chất béo bên trong chiếc bình.
+convincing|thuyết phục; đáng tin|The evidence provides a convincing explanation.|Bằng chứng đưa ra một lời giải thích thuyết phục.
+prehistoric|thuộc thời tiền sử|The cave contains prehistoric paintings.|Hang động có các bức vẽ thời tiền sử.
+ingredient|thành phần; nguyên liệu|Milk may have been an important ingredient in the mixture.|Sữa có thể từng là một thành phần quan trọng trong hỗn hợp.
+domesticated|đã được thuần hóa|Early farmers kept domesticated cattle and goats.|Những người nông dân thời kỳ đầu nuôi gia súc và dê đã được thuần hóa.
+predates|có trước; xảy ra trước|This discovery predates earlier evidence by several centuries.|Phát hiện này có trước bằng chứng trước đó vài thế kỷ.
+genetic|thuộc di truyền; thuộc gen|The researchers compared genetic evidence from several populations.|Các nhà nghiên cứu so sánh bằng chứng di truyền từ nhiều quần thể.
+lactose intolerant|không dung nạp lactose|A lactose intolerant person may have difficulty digesting fresh milk.|Người không dung nạp lactose có thể gặp khó khăn khi tiêu hóa sữa tươi.
+consume|tiêu thụ; ăn; uống|Some adults can consume milk without discomfort.|Một số người lớn có thể uống sữa mà không khó chịu.
+undesirable|không mong muốn; không có lợi|The treatment produced several undesirable side effects.|Việc điều trị gây ra một số tác dụng phụ không mong muốn.
+upset|làm rối loạn; gây khó chịu (động từ)|Too much lactose can upset digestion.|Quá nhiều lactose có thể làm rối loạn tiêu hóa.
+digestion|sự tiêu hóa|Certain foods can affect digestion.|Một số thực phẩm có thể ảnh hưởng đến tiêu hóa.
+cow|bò; bò cái|Cow milk contains lactose.|Sữa bò có chứa lactose.
+goat|dê|Goat milk was also used by early farming communities.|Sữa dê cũng được các cộng đồng nông nghiệp thời kỳ đầu sử dụng.
+slave|nô lệ|The plantation owner treated the man as a slave.|Chủ đồn điền đối xử với người đàn ông như một nô lệ.
+named after the|được đặt tên theo|The town was named after the explorer who founded it.|Thị trấn được đặt theo tên nhà thám hiểm đã thành lập nó.
+slender|mảnh mai; thon; mỏng|The tool had a long, slender wooden handle.|Dụng cụ có một cán gỗ dài và mảnh.
+frail|yếu ớt; mỏng manh|The frail old woman needed help walking.|Bà lão yếu ớt cần được giúp đỡ khi đi lại.
+trifle|một điều nhỏ nhặt; một chút|The delay was only a trifle and caused no real problem.|Sự chậm trễ chỉ là chuyện nhỏ và không gây ra vấn đề thực sự nào.
+in want of a domestic|đang cần một người giúp việc trong nhà|The family was in want of a domestic to help with household work.|Gia đình đang cần một người giúp việc để hỗ trợ việc nhà.
+waif|đứa trẻ lang thang; trẻ bị bỏ rơi|The novel tells the story of a homeless waif in the city.|Cuốn tiểu thuyết kể câu chuyện về một đứa trẻ lang thang vô gia cư trong thành phố.
+terminally ill|mắc bệnh nan y ở giai đoạn cuối|The charity provides care for terminally ill patients.|Tổ chức từ thiện chăm sóc các bệnh nhân mắc bệnh giai đoạn cuối.
+surmised|đã suy đoán; phỏng đoán|From the footprints, the investigators surmised that two people had entered.|Từ những dấu chân, các điều tra viên suy đoán rằng có hai người đã đi vào.
+evidently|rõ ràng; hiển nhiên là|Evidently, the storm had damaged the roof during the night.|Rõ ràng cơn bão đã làm hỏng mái nhà trong đêm.
+climate|khí hậu|The region has a warm and humid climate.|Khu vực có khí hậu ấm và ẩm.
+carpet|thảm; trải thảm|A thick carpet covered the floor of the room.|Một tấm thảm dày phủ sàn căn phòng.
+a quantity|một lượng; một số lượng|The workers stored a quantity of timber beside the workshop.|Công nhân chất một lượng gỗ bên cạnh xưởng.
+circumstances of|hoàn cảnh của; các tình tiết xung quanh|The report examined the circumstances of the accident.|Báo cáo xem xét hoàn cảnh của vụ tai nạn.
+shedding|sự rụng; sự thải ra|The animal begins shedding its winter coat in spring.|Con vật bắt đầu rụng lớp lông mùa đông vào mùa xuân.
+poetry|thơ ca|She became famous for poetry about freedom and faith.|Cô ấy trở nên nổi tiếng nhờ thơ về tự do và đức tin.
+poem|bài thơ|He wrote a short poem in memory of his friend.|Anh ấy viết một bài thơ ngắn để tưởng nhớ người bạn.
+elegiac|mang tính ai điếu; buồn thương|The poem has an elegiac tone and mourns the dead.|Bài thơ mang âm hưởng bi thương và thương tiếc người đã khuất.
+celebrated|nổi tiếng; được ca ngợi|She was a celebrated writer in her lifetime.|Cô ấy là một nhà văn nổi tiếng khi còn sống.
+divine|thiêng liêng; thần thánh|The poet described love as a divine gift.|Nhà thơ mô tả tình yêu như một món quà thiêng liêng.
+countess|nữ bá tước|The countess used her wealth to support charitable causes.|Nữ bá tước dùng tài sản của mình để ủng hộ các hoạt động từ thiện.
+wealthy|giàu có|A wealthy family funded the new school.|Một gia đình giàu có tài trợ cho ngôi trường mới.
+evangelical|thuộc Tin Lành Phúc Âm; nhiệt thành truyền bá đức tin|The movement attracted many evangelical Christians.|Phong trào thu hút nhiều tín đồ Kitô giáo Tin Lành.
+abolitionist|người theo chủ nghĩa bãi nô|The abolitionist campaigned against slavery.|Nhà hoạt động bãi nô vận động chống chế độ nô lệ.
+colonies|các thuộc địa|Several colonies depended heavily on overseas trade.|Một số thuộc địa phụ thuộc nhiều vào thương mại ở nước ngoài.
+infants|trẻ sơ sinh; trẻ nhỏ|The hospital provides special care for premature infants.|Bệnh viện cung cấp chăm sóc đặc biệt cho trẻ sinh non.
+grave|mộ; nghiêm trọng|Flowers were placed beside the grave.|Hoa được đặt bên cạnh ngôi mộ.
+unmarked grave|ngôi mộ không có bia hay dấu đánh dấu|The soldiers were buried in an unmarked grave.|Những người lính được chôn trong một ngôi mộ không có bia đánh dấu.
+nevertheless|tuy nhiên; dù vậy|The journey was difficult; nevertheless, they continued.|Hành trình rất khó khăn; tuy vậy, họ vẫn tiếp tục.
+enslaved|bị bắt làm nô lệ|Thousands of people were enslaved and forced to work.|Hàng nghìn người bị bắt làm nô lệ và bị ép lao động.
+former|trước đây; cựu|The former teacher later became a writer.|Người giáo viên trước đây sau này trở thành nhà văn.
+attachment to|sự gắn bó với; sự quyến luyến với|Her attachment to her hometown remained strong.|Sự gắn bó của cô ấy với quê hương vẫn rất mạnh mẽ.
+millennia|hàng thiên niên kỷ|People have used wood for tools for millennia.|Con người đã dùng gỗ làm công cụ suốt hàng thiên niên kỷ.
+conservatism|chủ nghĩa bảo thủ; khuynh hướng giữ truyền thống|Political conservatism often emphasizes tradition and gradual change.|Chủ nghĩa bảo thủ chính trị thường nhấn mạnh truyền thống và sự thay đổi dần dần.
+saws|các loại cưa|Carpenters used saws to cut timber into boards.|Thợ mộc dùng cưa để cắt gỗ thành các tấm ván.
+chisels|các loại đục|The craftsman used chisels to shape the wood.|Người thợ thủ công dùng đục để tạo hình gỗ.
+planes|bào; dụng cụ bào gỗ|Woodworkers use planes to smooth wooden surfaces.|Thợ gỗ dùng bào để làm nhẵn các bề mặt gỗ.
+augers|các mũi khoan xoắn; dụng cụ khoan lỗ|Large augers were used to bore holes in heavy timbers.|Những mũi khoan xoắn lớn được dùng để khoan lỗ trên các thanh gỗ nặng.
+compasses|compa; dụng cụ vẽ hoặc đo vòng tròn|The carpenter used compasses to mark a curved line.|Người thợ mộc dùng compa để đánh dấu một đường cong.
+measures|phép đo; dụng cụ đo|Accurate measures were essential for fitting the pieces together.|Các phép đo chính xác là điều thiết yếu để lắp các bộ phận khớp với nhau.
+carpenters|thợ mộc|Skilled carpenters built the wooden frame of the house.|Những người thợ mộc lành nghề dựng khung gỗ của ngôi nhà.
+shipwrights|thợ đóng tàu|Shipwrights shaped heavy timbers for wooden ships.|Thợ đóng tàu tạo hình những thanh gỗ nặng cho tàu gỗ.
+at most|nhiều nhất; tối đa|The repair should take two hours at most.|Việc sửa chữa sẽ mất nhiều nhất hai giờ.
+delicate|tinh xảo; mỏng manh; cần sự khéo léo|The decorative work required delicate handling.|Công việc trang trí đòi hỏi sự xử lý nhẹ nhàng, tinh tế.
+delicate chisels|những chiếc đục tinh nhỏ dùng cho chi tiết tinh xảo|Delicate chisels were used to carve the smallest details.|Những chiếc đục tinh được dùng để chạm khắc các chi tiết nhỏ nhất.
+specialization|sự chuyên môn hóa|Greater specialization allowed craftsmen to focus on particular tasks.|Mức độ chuyên môn hóa cao hơn cho phép thợ thủ công tập trung vào những nhiệm vụ cụ thể.
+primary|chính; chủ yếu; đầu tiên|Wood was the primary material used in the structure.|Gỗ là vật liệu chính được sử dụng trong công trình.
+joinery|kỹ thuật ghép nối gỗ; nghề mộc ghép|Traditional joinery can hold timber together without metal fasteners.|Kỹ thuật mộng gỗ truyền thống có thể liên kết gỗ mà không cần chốt kim loại.
+protruding|nhô ra; lồi ra|A protruding peg was cut flush with the surface.|Một chiếc chốt nhô ra được cắt ngang bằng với bề mặt.
+projecting|nhô ra; chìa ra|The projecting beam extended beyond the wall.|Thanh dầm nhô ra kéo dài vượt khỏi bức tường.
+drilled|đã khoan|The carpenter drilled a hole through the beam.|Người thợ mộc khoan một lỗ xuyên qua thanh dầm.
+auger|mũi khoan xoắn; dụng cụ khoan lỗ|He used an auger to make a deep hole in the timber.|Anh ấy dùng một mũi khoan xoắn để tạo một lỗ sâu trong thanh gỗ.
+peg|chốt; chốt gỗ|A wooden peg held the two beams together.|Một chiếc chốt gỗ giữ hai thanh dầm lại với nhau.
+whittled|đã gọt; đẽo bằng dao|He whittled the stick until it fitted the hole.|Anh ấy gọt thanh gỗ cho đến khi nó vừa với lỗ.
+whittled peg|chốt gỗ được gọt đẽo|A whittled peg was driven into the joint.|Một chiếc chốt được gọt vừa được đóng vào mối nối.
+secure|cố định; làm chắc; an toàn|The rope helped secure the load to the wagon.|Sợi dây giúp cố định hàng hóa vào xe ngựa.
+secure the joint|cố định mối nối; làm chắc mối ghép|The peg was hammered in to secure the joint.|Chiếc chốt được đóng vào để cố định mối nối.
+forged|được rèn; đã rèn|The blacksmith forged the iron into a strong hook.|Thợ rèn rèn sắt thành một chiếc móc chắc chắn.
+screws|ốc vít; đinh vít|Metal screws were used to attach the hinge.|Các vít kim loại được dùng để gắn bản lề.
+glue|keo dán; dán bằng keo|The carpenter applied glue before joining the pieces.|Người thợ mộc bôi keo trước khi ghép các bộ phận lại.
+hinges|bản lề|Iron hinges allowed the heavy door to swing open.|Bản lề sắt giúp cánh cửa nặng có thể mở ra.
+cruder|thô sơ hơn; kém tinh xảo hơn|Earlier tools were cruder than the later versions.|Các công cụ thời kỳ đầu thô sơ hơn những phiên bản về sau.
+crude|thô sơ; thô ráp|They built a crude shelter from branches.|Họ dựng một nơi trú ẩn thô sơ bằng cành cây.
+finer|tinh hơn; mịn hơn; tốt hơn|Finer tools allowed craftsmen to make more precise cuts.|Những công cụ tinh hơn cho phép thợ thủ công tạo ra các đường cắt chính xác hơn.
+plates|các tấm; bản kim loại|Metal plates strengthened the wooden connection.|Các tấm kim loại gia cố mối nối bằng gỗ.
+the latter|người/vật được nhắc đến sau trong hai đối tượng|Of oak and pine, the latter was easier to cut.|Giữa gỗ sồi và gỗ thông, loại sau dễ cắt hơn.
+above all|trên hết; quan trọng nhất|Above all, the workers needed patience and skill.|Trên hết, người lao động cần sự kiên nhẫn và kỹ năng.
+dedication|sự tận tâm; cống hiến|The project required years of dedication.|Dự án đòi hỏi nhiều năm tận tâm.
+forts|các pháo đài; đồn quân sự|The army built forts along the frontier.|Quân đội xây các pháo đài dọc vùng biên cương.
+bold|táo bạo; gan dạ|The explorers made a bold decision to continue west.|Các nhà thám hiểm đưa ra một quyết định táo bạo là tiếp tục đi về phía tây.
+daring|gan dạ; táo bạo|Daring adventurers crossed the mountains in winter.|Những nhà thám hiểm gan dạ vượt núi vào mùa đông.
+numerous|nhiều; rất nhiều|Numerous travelers stopped at the fort for supplies.|Rất nhiều du khách dừng tại pháo đài để lấy tiếp tế.
+posts|bài đăng; vị trí/trạm/đồn đóng quân trong ngữ cảnh quân đội|The establishment of military posts opened new roads, while online posts spread news quickly.|Việc thiết lập các đồn quân sự mở ra những con đường mới, trong khi các bài đăng trực tuyến lan truyền tin tức nhanh chóng.
+expeditions|các cuộc thám hiểm; đoàn thám hiểm|Several expeditions passed through the region.|Một số đoàn thám hiểm đi qua khu vực.
+obtain|có được; đạt được; lấy được|Travelers stopped at the fort to obtain fresh supplies.|Du khách dừng tại pháo đài để lấy thêm đồ tiếp tế tươi mới.
+supplies|đồ tiếp tế; vật tư; nhu yếu phẩm|The wagon train carried food and medical supplies.|Đoàn xe ngựa chở theo thực phẩm và vật tư y tế.
+refreshments|đồ ăn nhẹ và thức uống|Travelers were offered refreshments after the long journey.|Du khách được phục vụ đồ ăn thức uống nhẹ sau hành trình dài.
+wagon trains|đoàn xe ngựa chở hàng/người|Wagon trains moved slowly across the frontier.|Các đoàn xe ngựa di chuyển chậm qua vùng biên cương.
+frontiers|các vùng biên cương; vùng khai phá|Settlers moved toward the western frontiers.|Những người định cư tiến về các vùng biên cương phía tây.
+pony express|dịch vụ chuyển thư bằng ngựa tốc hành|The Pony Express carried mail across long distances.|Dịch vụ Pony Express vận chuyển thư từ qua những quãng đường dài.
+still others|còn những người khác nữa|Some became farmers, while still others worked as traders.|Một số người trở thành nông dân, còn những người khác nữa làm nghề buôn bán.
+chapels|các nhà nguyện|Small chapels were built near several settlements.|Những nhà nguyện nhỏ được xây gần một số khu định cư.
+religious|thuộc tôn giáo|The community held regular religious services.|Cộng đồng tổ chức các buổi lễ tôn giáo thường xuyên.
+expenses|chi phí; khoản chi|The organization paid the travel expenses.|Tổ chức chi trả các chi phí đi lại.
+inference|sự suy luận; kết luận suy ra|The conclusion was an inference based on limited evidence.|Kết luận là một suy luận dựa trên bằng chứng hạn chế.
+promote|thúc đẩy; khuyến khích; quảng bá|The program was designed to promote better farming methods.|Chương trình được thiết kế để thúc đẩy các phương pháp canh tác tốt hơn.
+gardening|việc làm vườn|The school taught gardening and basic agriculture.|Nhà trường dạy làm vườn và kiến thức nông nghiệp cơ bản.
+experimental|mang tính thử nghiệm|The farmers tested an experimental method of irrigation.|Nông dân thử nghiệm một phương pháp tưới tiêu mang tính thử nghiệm.
+agriculture|nông nghiệp|Agriculture became the main source of income in the region.|Nông nghiệp trở thành nguồn thu nhập chính trong khu vực.
+stationed|được đóng quân; được bố trí tại|Soldiers were stationed at the fort throughout the winter.|Binh lính được đóng quân tại pháo đài suốt mùa đông.
+maintaining order|duy trì trật tự|The local officials were responsible for maintaining order.|Các quan chức địa phương chịu trách nhiệm duy trì trật tự.
+officials|các quan chức; viên chức|Government officials inspected the settlement.|Các quan chức chính phủ kiểm tra khu định cư.
+posed|đặt ra; gây ra|The rough terrain posed a serious obstacle to construction.|Địa hình gồ ghề tạo ra một trở ngại nghiêm trọng cho việc xây dựng.
+obstacle|trở ngại; chướng ngại vật|The river was a major obstacle to travel.|Con sông là một trở ngại lớn đối với việc đi lại.
+investigation|cuộc điều tra; sự nghiên cứu|The agency opened an investigation into the accident.|Cơ quan mở cuộc điều tra về vụ tai nạn.
+foremost|hàng đầu; quan trọng nhất|Safety was the foremost concern of the engineers.|An toàn là mối quan tâm hàng đầu của các kỹ sư.
+inhibit|ngăn cản; kìm hãm|Cold temperatures can inhibit plant growth.|Nhiệt độ thấp có thể kìm hãm sự phát triển của cây.
+involved|có liên quan; tham gia|Several departments were involved in the project.|Một số phòng ban tham gia vào dự án.
+united|đoàn kết; thống nhất|The crisis united the local communities.|Cuộc khủng hoảng gắn kết các cộng đồng địa phương lại với nhau.
+exploited|bị khai thác; bị lợi dụng|Workers were exploited for cheap labor.|Công nhân bị bóc lột để lấy lao động giá rẻ.
+hinder|cản trở|Heavy rain can hinder construction work.|Mưa lớn có thể cản trở công việc xây dựng.
+official|quan chức; chính thức|An official visited the fort to inspect conditions.|Một quan chức đến pháo đài để kiểm tra tình hình.
+incapacitated|mất khả năng hoạt động; không thể làm việc|The injured soldier was temporarily incapacitated.|Người lính bị thương tạm thời mất khả năng hoạt động.
+garrisons|các đơn vị đồn trú; quân đồn trú|Small garrisons protected the frontier forts.|Các đơn vị đồn trú nhỏ bảo vệ những pháo đài biên cương.
+frequency|tần suất|Researchers measured the frequency of the events.|Các nhà nghiên cứu đo tần suất của các sự kiện.
+surgeons|các bác sĩ phẫu thuật|Surgeons treated the most serious injuries.|Các bác sĩ phẫu thuật điều trị những chấn thương nghiêm trọng nhất.
+monitoring|việc theo dõi; giám sát|Regular monitoring helped detect changes early.|Việc theo dõi thường xuyên giúp phát hiện thay đổi sớm.
+composition|thành phần; cấu tạo; bài viết/sáng tác|Scientists analyzed the mineral composition of the sample.|Các nhà khoa học phân tích thành phần khoáng chất của mẫu.
+counterpart|đối tác; đối tượng tương ứng; bản sao/bản đối chiếu|The modern tool is lighter than its traditional counterpart.|Công cụ hiện đại nhẹ hơn công cụ truyền thống tương ứng của nó.
+identical|giống hệt; đồng nhất|The two samples were almost identical in composition.|Hai mẫu gần như giống hệt nhau về thành phần.
+interpretation|sự diễn giải; cách hiểu|The discovery led to a new interpretation of the evidence.|Phát hiện dẫn đến một cách diễn giải mới về bằng chứng.
+dense|dày đặc; đặc|Dense bone contains fewer large spaces.|Xương đặc có ít khoảng trống lớn hơn.
+pores|các lỗ nhỏ; lỗ rỗng|Water moved through tiny pores in the rock.|Nước di chuyển qua những lỗ nhỏ li ti trong đá.
+minerals|các khoáng chất; khoáng vật|The water contained dissolved minerals.|Nước chứa các khoáng chất hòa tan.
+interstitial|nằm ở kẽ; thuộc khoảng giữa|Interstitial spaces can hold fluids between solid particles.|Các khoảng kẽ có thể giữ chất lỏng giữa những hạt rắn.
+foreign|ngoại lai; nước ngoài|Foreign material entered the pores of the bone.|Vật chất ngoại lai đi vào các lỗ rỗng của xương.
+marrow cavity|khoang tủy xương|The marrow cavity lies inside the long bone.|Khoang tủy nằm bên trong xương dài.
+recrystallized|đã tái kết tinh|Some minerals recrystallized during fossilization.|Một số khoáng chất tái kết tinh trong quá trình hóa thạch.
+percolation|sự thấm qua; lọc qua|Percolation of mineral-rich water changed the bone.|Sự thấm qua của nước giàu khoáng chất làm thay đổi xương.
+concentrations|nồng độ; sự tập trung|High concentrations of minerals were found in the sample.|Nồng độ khoáng chất cao được tìm thấy trong mẫu.
+solution|dung dịch; giải pháp|The mineral solution moved through the pores, while a practical solution solved the problem.|Dung dịch khoáng chất di chuyển qua các lỗ rỗng, trong khi một giải pháp thực tế đã giải quyết vấn đề.
+factors|các yếu tố|Several factors determine how quickly fossilization occurs.|Một số yếu tố quyết định quá trình hóa thạch diễn ra nhanh đến mức nào.
+extent|mức độ; phạm vi|The extent of mineral replacement varied between specimens.|Mức độ thay thế khoáng chất khác nhau giữa các mẫu vật.
+antiquity|thời cổ đại; tính cổ xưa|The object has survived since antiquity.|Vật thể đã tồn tại từ thời cổ đại.
+optimum|tối ưu; tốt nhất|The process works best under optimum conditions.|Quá trình hoạt động tốt nhất trong những điều kiện tối ưu.
+remarkably|một cách đáng chú ý; đáng kinh ngạc|The structure was remarkably well preserved.|Cấu trúc được bảo tồn tốt một cách đáng kinh ngạc.
+microscopic|cực nhỏ; thuộc kính hiển vi|Microscopic pores can still contain minerals.|Các lỗ rỗng cực nhỏ vẫn có thể chứa khoáng chất.
+lacunae|các hốc nhỏ, đặc biệt trong mô xương|Bone cells once occupied microscopic lacunae.|Các tế bào xương từng nằm trong những hốc nhỏ li ti.
+living bone|mô xương sống; xương khi còn là mô sống|Living bone contains cells and blood vessels.|Xương sống chứa tế bào và mạch máu.
+resided|đã cư trú; nằm ở|The cells resided in tiny spaces within the bone.|Các tế bào nằm trong những khoảng nhỏ bên trong xương.
+alter|thay đổi; làm biến đổi|Minerals can alter the original structure over time.|Khoáng chất có thể làm thay đổi cấu trúc ban đầu theo thời gian.
+unaltered|không bị thay đổi|Some parts of the specimen remained unaltered.|Một số phần của mẫu vật vẫn không bị thay đổi.
+virtually|hầu như; gần như|The original shape was virtually unchanged.|Hình dạng ban đầu hầu như không thay đổi.
+retains|giữ lại; vẫn còn|The fossil retains much of its original structure.|Hóa thạch giữ lại phần lớn cấu trúc ban đầu của nó.
+apparent|rõ ràng; có vẻ như|There was no apparent damage to the surface.|Không có hư hại rõ ràng nào trên bề mặt.
+component|thành phần; bộ phận|Calcium is an important component of bone.|Canxi là một thành phần quan trọng của xương.
+detectable|có thể phát hiện được|Only small amounts of the substance were detectable.|Chỉ có một lượng nhỏ chất này có thể được phát hiện.
+moist|ẩm; hơi ướt|The soil remained moist after the rain.|Đất vẫn ẩm sau cơn mưa.
+led|đã dẫn đến; đã dẫn dắt|The discovery led to a different conclusion.|Phát hiện này dẫn đến một kết luận khác.
+implication|hàm ý; hệ quả|One implication of the findings is that the process began earlier.|Một hàm ý của các phát hiện là quá trình này đã bắt đầu sớm hơn.
+tissues|các mô của cơ thể; khăn giấy|Soft tissues decay quickly, while tissues can also mean paper handkerchiefs.|Các mô mềm phân hủy nhanh, trong khi “tissues” cũng có thể có nghĩa là khăn giấy.
+certainly|chắc chắn; chắc hẳn|The evidence certainly supports further research.|Bằng chứng chắc chắn ủng hộ việc nghiên cứu thêm.
+threat|mối đe dọa|Pollution poses a serious threat to wildlife.|Ô nhiễm tạo ra một mối đe dọa nghiêm trọng đối với động vật hoang dã.
+ploughed|đã cày|The farmer ploughed the field before planting seeds.|Người nông dân cày ruộng trước khi gieo hạt.
+amazed|kinh ngạc|She was amazed by how quickly the plants grew.|Cô ấy ngạc nhiên vì cây phát triển nhanh đến vậy.
+noticed|đã nhận thấy; chú ý|He noticed a small crack in the wall.|Anh ấy nhận thấy một vết nứt nhỏ trên tường.
+jealous|ghen tị; ghen tuông|He felt jealous of his friend's success.|Anh ấy cảm thấy ghen tị với thành công của người bạn.
+rivalry|sự cạnh tranh; đối địch|A strong rivalry developed between the two teams.|Một sự cạnh tranh mạnh mẽ hình thành giữa hai đội.
+ditched|đã bỏ; vứt bỏ; đào mương|They ditched the old plan and started again.|Họ bỏ kế hoạch cũ và bắt đầu lại.
+semester|học kỳ|The course lasts for one semester.|Khóa học kéo dài một học kỳ.
+commercials|quảng cáo trên truyền hình/phát thanh|The program was interrupted by several commercials.|Chương trình bị gián đoạn bởi một số quảng cáo.
+stressed|căng thẳng; được nhấn mạnh|She felt stressed before the final exam.|Cô ấy cảm thấy căng thẳng trước kỳ thi cuối kỳ.
+frankly|thẳng thắn mà nói|Frankly, I do not think the plan will work.|Thành thật mà nói, tôi không nghĩ kế hoạch này sẽ hiệu quả.
+beliefs|niềm tin; tín ngưỡng|People's beliefs can influence their decisions.|Niềm tin của con người có thể ảnh hưởng đến quyết định của họ.
+dawn|bình minh; sự khởi đầu|They left the camp at dawn.|Họ rời trại lúc bình minh.
+phenomena|các hiện tượng|Scientists study unusual natural phenomena.|Các nhà khoa học nghiên cứu những hiện tượng tự nhiên khác thường.
+corporate|thuộc công ty; doanh nghiệp|The company changed its corporate strategy.|Công ty thay đổi chiến lược doanh nghiệp của mình.
+statement|tuyên bố; phát biểu; bản kê|The witness gave a written statement to the police.|Nhân chứng đưa một bản tường trình bằng văn bản cho cảnh sát.
+reliability|độ tin cậy|The researchers tested the reliability of the equipment.|Các nhà nghiên cứu kiểm tra độ tin cậy của thiết bị.
+expertise|chuyên môn; kiến thức chuyên sâu|Her expertise in engineering was essential to the project.|Chuyên môn của cô ấy về kỹ thuật là điều thiết yếu đối với dự án.
+efficiency|hiệu suất; tính hiệu quả|The new system improved efficiency and reduced waste.|Hệ thống mới nâng cao hiệu quả và giảm lãng phí.
+reassured|đã trấn an; làm yên lòng|The doctor reassured the patient that the test was routine.|Bác sĩ trấn an bệnh nhân rằng xét nghiệm này là thủ tục thông thường.
+recognisable|có thể nhận ra; dễ nhận biết|The building remained recognisable despite the damage.|Tòa nhà vẫn có thể nhận ra được mặc dù bị hư hại.`;
 const DATA=RAW.trim().split('\n').map(r=>r.split('|')),SIZE=10,ORDER_KEY='vocab-trio-order-v1';
 function loadOrder(){try{const x=JSON.parse(localStorage.getItem(ORDER_KEY));if(Array.isArray(x)&&x.length===DATA.length&&new Set(x).size===DATA.length&&x.every(n=>Number.isInteger(n)&&n>=0&&n<DATA.length))return x}catch{}return [...Array(DATA.length).keys()]}
 let wordOrder=loadOrder(),LESSONS=makeLessons(wordOrder);
@@ -1136,9 +1136,10 @@ function updateHeading(){if(state.mode==='trio'){const n=String(state.lesson+1).
 function renderStats(){const s=lessonStats(state.lesson),ss=synLessonStats(state.synLesson);$('#plays').textContent=s.plays;$('#correct').textContent=s.correct;$('#wrong').textContent=s.wrong;$('#synPlays').textContent=ss.plays;$('#synCorrect').textContent=ss.correct;$('#synWrong').textContent=ss.wrong;const total=LESSONS[state.lesson].length,done=state.matched.size;$('#progressBar').style.width=`${done/total*100}%`;$('#progressLabel').textContent=`${done} / ${total}`}
 function renderTrio(){const area=$('#trioArea');$('#feedback').textContent='';$('#feedback').className='feedback';renderStats();if(!state.started){area.innerHTML=`<div class="start-screen"><div class="start-mark">A↔</div><h3>Sẵn sàng cho Bài ${String(state.lesson+1).padStart(2,'0')}?</h3><p>Ghép đủ ${LESSONS[state.lesson].length} bộ. Thẻ tiếng Anh sẽ đọc phát âm và hiện English hint khi chọn; bấm lại thẻ tiếng Anh để bỏ chọn.</p><button class="primary" id="startBtn">Bắt đầu lượt mới</button></div>`;$('#startBtn').onclick=startTrio;return}if(state.matched.size===LESSONS[state.lesson].length){area.innerHTML=`<div class="complete"><div class="cup">🏆</div><h3>Hoàn thành bài ${String(state.lesson+1).padStart(2,'0')}!</h3><p>Bạn đã ghép đúng toàn bộ ${LESSONS[state.lesson].length} từ trong bài này.</p><button class="primary" id="againBtn">Chơi lại bài này</button></div>`;$('#againBtn').onclick=startTrio;return}drawBoard()}
 function startTrio(){primeSpeech();state.started=true;state.matched=new Set();state.selected={word:null,meaning:null,example:null};lessonStats(state.lesson).plays++;state.order={word:shuffle([...Array(LESSONS[state.lesson].length).keys()]),meaning:shuffle([...Array(LESSONS[state.lesson].length).keys()]),example:shuffle([...Array(LESSONS[state.lesson].length).keys()])};save();renderTrio()}
-function drawBoard(){const lesson=LESSONS[state.lesson],area=$('#trioArea');area.innerHTML='<div class="column-heads"><span>Từ tiếng Anh</span><span>Nghĩa tiếng Việt</span><span>Câu ví dụ</span></div><div class="board"><div class="col" data-col="word"></div><div class="col" data-col="meaning"></div><div class="col" data-col="example"></div></div>';['word','meaning','example'].forEach(type=>{const box=area.querySelector(`[data-col="${type}"]`);state.order[type].forEach(idx=>{const d=lesson[idx],btn=document.createElement('button'),visibleText=type==='word'?d[0]:type==='meaning'?d[1]:d[2];btn.className=`card ${type}-card${state.matched.has(idx)?' matched':''}${state.selected[type]===idx?' selected':''}`;btn.dataset.id=idx;btn.dataset.type=type;btn.setAttribute('aria-label',visibleText);if(type==='word')btn.setAttribute('aria-pressed',state.selected.word===idx?'true':'false');const label=document.createTextNode(visibleText);btn.appendChild(label);if(type!=='meaning'){const speaker=document.createElement('span');speaker.className='speaker';speaker.setAttribute('aria-hidden','true');speaker.textContent='🔊';btn.appendChild(speaker)}if(type==='word'&&state.selected.word===idx)showEnglishHint(btn,d[0]);btn.onclick=()=>chooseCard(type,idx,btn);box.appendChild(btn)})});updateExampleGuide()}
-function updateExampleGuide(){document.querySelectorAll('[data-type="example"]').forEach(c=>c.classList.remove('example-guide'));const {word,meaning}=state.selected;if(word===null||meaning===null||word!==meaning)return;const target=document.querySelector(`[data-type="example"][data-id="${word}"]`);if(target&&!target.classList.contains('matched'))target.classList.add('example-guide')}
-function chooseCard(type,idx,btn){if(state.locked||state.matched.has(idx))return;const lesson=LESSONS[state.lesson];if(type==='word'){if(state.selected.word===idx){state.selected.word=null;btn.classList.remove('selected');btn.setAttribute('aria-pressed','false');clearEnglishHint(btn);updateExampleGuide();return}document.querySelectorAll('[data-type="word"]').forEach(c=>{c.classList.remove('selected');c.setAttribute('aria-pressed','false');clearEnglishHint(c)});state.selected.word=idx;btn.classList.add('selected');btn.setAttribute('aria-pressed','true');speak(lesson[idx][0]);showEnglishHint(btn,lesson[idx][0])}else{if(type==='example')speak(lesson[idx][2]);state.selected[type]=idx;document.querySelectorAll(`[data-type="${type}"]`).forEach(c=>c.classList.remove('selected'));btn.classList.add('selected')}updateExampleGuide();if(Object.values(state.selected).every(v=>v!==null))checkTrio()}
+function drawBoard(){const lesson=LESSONS[state.lesson],area=$('#trioArea');area.innerHTML='<div class="column-heads"><span>Từ tiếng Anh</span><span>Nghĩa tiếng Việt</span><span>Câu ví dụ</span></div><div class="board"><div class="col" data-col="word"></div><div class="col" data-col="meaning"></div><div class="col" data-col="example"></div></div>';['word','meaning','example'].forEach(type=>{const box=area.querySelector(`[data-col="${type}"]`);state.order[type].forEach(idx=>{const d=lesson[idx],btn=document.createElement('button'),visibleText=type==='word'?d[0]:type==='meaning'?d[1]:d[2];btn.className=`card ${type}-card${state.matched.has(idx)?' matched':''}${state.selected[type]===idx?' selected':''}`;btn.dataset.id=idx;btn.dataset.type=type;btn.setAttribute('aria-label',visibleText);if(type==='word')btn.setAttribute('aria-pressed',state.selected.word===idx?'true':'false');const label=document.createElement('span');label.className=type==='example'?'example-text':'card-text';label.textContent=visibleText;btn.appendChild(label);if(type!=='meaning'){const speaker=document.createElement('span');speaker.className='speaker';speaker.setAttribute('aria-hidden','true');speaker.textContent='🔊';btn.appendChild(speaker)}if(type==='word'&&state.selected.word===idx)showEnglishHint(btn,d[0]);btn.onclick=()=>chooseCard(type,idx,btn);box.appendChild(btn)})});updateExampleAssist()}
+function clearExampleAssist(){document.querySelectorAll('[data-type="example"]').forEach(c=>{c.classList.remove('example-suggested');c.querySelector('.vietsub')?.remove()})}
+function updateExampleAssist(){clearExampleAssist();const w=state.selected.word,m=state.selected.meaning;if(w===null||m===null||w!==m)return;const lesson=LESSONS[state.lesson],card=document.querySelector(`[data-type="example"][data-id="${w}"]`);if(!card||state.matched.has(w))return;card.classList.add('example-suggested');const sub=document.createElement('span');sub.className='vietsub';sub.textContent='🇻🇳 '+(lesson[w][3]||lesson[w][1]);card.appendChild(sub)}
+function chooseCard(type,idx,btn){if(state.locked||state.matched.has(idx))return;const lesson=LESSONS[state.lesson];if(type==='word'){if(state.selected.word===idx){state.selected.word=null;btn.classList.remove('selected');btn.setAttribute('aria-pressed','false');clearEnglishHint(btn);updateExampleAssist();return}document.querySelectorAll('[data-type="word"]').forEach(c=>{c.classList.remove('selected');c.setAttribute('aria-pressed','false');clearEnglishHint(c)});state.selected.word=idx;btn.classList.add('selected');btn.setAttribute('aria-pressed','true');speak(lesson[idx][0]);showEnglishHint(btn,lesson[idx][0]);updateExampleAssist()}else{if(type==='example')speak(lesson[idx][2]);state.selected[type]=idx;document.querySelectorAll(`[data-type="${type}"]`).forEach(c=>c.classList.remove('selected'));btn.classList.add('selected');if(type==='meaning')updateExampleAssist()}if(Object.values(state.selected).every(v=>v!==null))checkTrio()}
 function checkTrio(){state.locked=true;const ids=Object.values(state.selected),types=['word','meaning','example'],cards=ids.map((id,i)=>document.querySelector(`[data-type="${types[i]}"][data-id="${id}"]`));if(ids.every(x=>x===ids[0])){state.matched.add(ids[0]);lessonStats(state.lesson).correct++;cards.forEach(c=>c.classList.add('matched'));$('#feedback').textContent='✓ Chính xác!';$('#feedback').className='feedback good';state.selected={word:null,meaning:null,example:null};save();setTimeout(()=>{state.locked=false;renderTrio()},500)}else{lessonStats(state.lesson).wrong++;cards.forEach(c=>c.classList.add('wrong'));$('#feedback').textContent='Chưa đúng — thử lại nhé.';$('#feedback').className='feedback bad';save();setTimeout(()=>{state.selected={word:null,meaning:null,example:null};state.locked=false;drawBoard();$('#feedback').textContent=''},750)}}
 function switchMode(mode){state.mode=mode;$('#trioMode').classList.toggle('mode-hidden',mode!=='trio');$('#synMode').classList.toggle('mode-hidden',mode!=='syn');$('#trioTab').classList.toggle('active',mode==='trio');$('#synTab').classList.toggle('active',mode==='syn');renderLessonList();updateHeading();if(mode==='trio')renderTrio();else renderSyn()}
 function renderSyn(){renderStats();$('#synFeedback').textContent='';$('#synFeedback').className='feedback';if(!state.synStarted)return renderSynStart();nextSynRound()}
