@@ -5,3 +5,9 @@
 .syn-card .english-hint{font-size:.76rem;text-align:left;font-weight:600;color:#aee9ff}
 
 .card,.syn-card,.primary,.tab,.lesson,.mode-choice,.random-btn{touch-action:manipulation}
+
+/* When the selected English word and Vietnamese meaning match, gently reveal the correct example card. */
+.example-card.example-guide{border-color:var(--green);background:#163d38;box-shadow:0 0 0 2px #55d6a82b,0 0 24px #55d6a826;animation:examplePulse 1.25s ease-in-out infinite alternate}
+.example-card.example-guide:hover{border-color:#8ce8c8;transform:translateY(-2px)}
+@keyframes examplePulse{from{box-shadow:0 0 0 2px #55d6a81f,0 0 14px #55d6a816}to{box-shadow:0 0 0 3px #55d6a83b,0 0 28px #55d6a832}}
+@media(prefers-reduced-motion:reduce){.example-card.example-guide{animation:none}}
