@@ -1138,38 +1138,72 @@ function renderTrio(){const area=$('#trioArea');$('#feedback').textContent='';$(
 function startTrio(){primeSpeech();state.started=true;state.matched=new Set();state.selected={word:null,meaning:null,example:null};lessonStats(state.lesson).plays++;state.order={word:shuffle([...Array(LESSONS[state.lesson].length).keys()]),meaning:shuffle([...Array(LESSONS[state.lesson].length).keys()]),example:shuffle([...Array(LESSONS[state.lesson].length).keys()])};save();renderTrio()}
 function drawBoard(){const lesson=LESSONS[state.lesson],area=$('#trioArea');area.innerHTML='<div class="column-heads"><span>Từ tiếng Anh</span><span>Nghĩa tiếng Việt</span><span>Câu ví dụ</span></div><div class="board"><div class="col" data-col="word"></div><div class="col" data-col="meaning"></div><div class="col" data-col="example"></div></div>';['word','meaning','example'].forEach(type=>{const box=area.querySelector(`[data-col="${type}"]`);state.order[type].forEach(idx=>{const d=lesson[idx],btn=document.createElement('button'),visibleText=type==='word'?d[0]:type==='meaning'?d[1]:d[2];btn.className=`card ${type}-card${state.matched.has(idx)?' matched':''}${state.selected[type]===idx?' selected':''}`;btn.dataset.id=idx;btn.dataset.type=type;btn.setAttribute('aria-label',visibleText);if(type==='word')btn.setAttribute('aria-pressed',state.selected.word===idx?'true':'false');const label=document.createElement('span');label.className=type==='example'?'example-text':'card-text';label.textContent=visibleText;btn.appendChild(label);if(type!=='meaning'){const speaker=document.createElement('span');speaker.className='speaker';speaker.setAttribute('aria-hidden','true');speaker.textContent='🔊';btn.appendChild(speaker)}if(type==='word'&&state.selected.word===idx)showEnglishHint(btn,d[0]);btn.onclick=()=>chooseCard(type,idx,btn);box.appendChild(btn)})});updateExampleAssist()}
 const ALIGN_PALETTE_SIZE=10;
+// Semantic alignment: colors follow meaning, not left-to-right word position.
+// The Vietnamese translation may reorder words (e.g. "Imported goods" -> "Hàng nhập khẩu").
 const BILINGUAL_ALIGN={
-  i:['tôi','mình'],you:['bạn','cậu','anh','chị'],he:['anh ấy','ông ấy'],she:['cô ấy','bà ấy'],we:['chúng tôi','chúng ta'],they:['họ'],it:['nó'],
-  my:['của tôi'],your:['của bạn'],his:['của anh ấy','của ông ấy'],her:['của cô ấy','của bà ấy'],our:['của chúng tôi','của chúng ta'],their:['của họ'],
-  go:['đi'],went:['đi'],gone:['đi'],come:['đến','tới'],came:['đến','tới'],school:['trường'],home:['nhà'],house:['nhà'],room:['phòng'],city:['thành phố'],country:['đất nước','quốc gia'],
-  to:['đến','tới','để'],from:['từ'],in:['trong','ở'],on:['trên','vào'],at:['tại','ở'],with:['với'],without:['không có'],of:['của'],for:['cho','để'],by:['bởi','bằng'],into:['vào'],through:['qua','xuyên qua'],
-  and:['và'],or:['hoặc'],but:['nhưng'],because:['vì','bởi vì'],so:['nên','vì vậy'],if:['nếu'],when:['khi'],while:['trong khi'],before:['trước'],after:['sau'],
-  is:['là','thì'],are:['là'],was:['là','đã'],were:['là','đã'],be:['là'],been:['được','đã'],being:['đang'],have:['có'],has:['có'],had:['có','đã'],do:['làm'],does:['làm'],did:['đã'],
-  can:['có thể'],could:['có thể'],may:['có thể'],might:['có thể'],must:['phải'],should:['nên'],will:['sẽ'],would:['sẽ'],not:['không'],no:['không'],yes:['có'],
-  this:['này'],that:['đó'],these:['những','các'],those:['những','các'],some:['một số'],many:['nhiều'],much:['nhiều'],more:['hơn','thêm'],most:['nhất','phần lớn'],all:['tất cả'],each:['mỗi'],
-  one:['một'],two:['hai'],three:['ba'],first:['đầu tiên','thứ nhất'],second:['thứ hai'],new:['mới'],old:['cũ','già'],good:['tốt'],bad:['xấu','tệ'],big:['lớn','to'],small:['nhỏ'],long:['dài','lâu'],short:['ngắn'],
-  people:['người','mọi người'],person:['người'],children:['trẻ em'],child:['đứa trẻ','trẻ em'],students:['học sinh','sinh viên'],student:['học sinh','sinh viên'],researchers:['các nhà nghiên cứu','nhà nghiên cứu'],scientists:['các nhà khoa học','nhà khoa học'],
-  water:['nước'],food:['thức ăn','thực phẩm'],light:['ánh sáng'],air:['không khí'],land:['đất','đất liền'],sea:['biển'],road:['đường'],roads:['đường'],market:['thị trường','chợ'],time:['thời gian'],year:['năm'],years:['năm'],day:['ngày'],
-  use:['sử dụng','dùng'],used:['được sử dụng','đã dùng'],make:['làm','tạo ra'],made:['được làm','đã tạo ra'],take:['lấy','mất'],took:['lấy','đã mất'],give:['cho','trao'],gave:['đã cho','đã trao'],
-  find:['tìm','tìm thấy'],found:['tìm thấy','phát hiện'],show:['cho thấy','thể hiện'],shown:['được cho thấy'],help:['giúp'],work:['làm việc','hoạt động'],learn:['học'],study:['nghiên cứu','học'],read:['đọc'],write:['viết'],
-  become:['trở nên'],became:['trở nên'],change:['thay đổi'],changed:['đã thay đổi'],increase:['tăng'],increased:['đã tăng'],reduce:['giảm'],reduced:['đã giảm'],
-  important:['quan trọng'],different:['khác','khác nhau'],same:['giống','cùng'],possible:['có thể'],likely:['có khả năng'],clear:['rõ ràng'],strong:['mạnh'],
-  scientists:['nhà khoa học','các nhà khoa học'],research:['nghiên cứu'],evidence:['bằng chứng'],system:['hệ thống'],method:['phương pháp'],process:['quá trình'],problem:['vấn đề'],solution:['giải pháp','dung dịch'],
+  // Pronouns / common content words
+  i:['tôi','mình'],you:['bạn','cậu','anh','chị'],he:['anh ấy','ông ấy'],she:['cô ấy','bà ấy'],we:['chúng tôi','chúng ta'],they:['họ'],
+  go:['đi'],went:['đi'],come:['đến','tới'],came:['đến','tới'],school:['trường'],home:['nhà'],house:['nhà'],room:['phòng'],city:['thành phố'],country:['đất nước','quốc gia'],
+  people:['người','mọi người'],person:['người'],children:['trẻ em'],child:['trẻ em'],students:['học sinh','sinh viên'],student:['học sinh','sinh viên'],
+  researchers:['các nhà nghiên cứu','nhà nghiên cứu'],scientists:['các nhà khoa học','nhà khoa học'],water:['nước'],food:['thức ăn','thực phẩm'],light:['ánh sáng'],air:['không khí'],land:['đất','đất liền'],sea:['biển'],road:['đường'],roads:['đường'],market:['thị trường','chợ'],time:['thời gian'],year:['năm'],years:['năm'],day:['ngày'],
+  // Verbs / adjectives with relatively stable equivalents
+  use:['sử dụng','dùng'],used:['sử dụng','dùng'],make:['làm','tạo ra'],made:['làm','tạo ra'],give:['cho','trao'],gave:['cho','trao'],find:['tìm','tìm thấy'],found:['tìm thấy','phát hiện'],show:['cho thấy','thể hiện'],help:['giúp'],work:['làm việc','hoạt động'],learn:['học'],study:['nghiên cứu','học'],read:['đọc'],write:['viết'],
+  become:['trở nên'],became:['trở nên'],change:['thay đổi'],changed:['thay đổi'],increase:['tăng'],increased:['tăng'],reduce:['giảm'],reduced:['giảm'],
+  important:['quan trọng'],different:['khác','khác nhau'],same:['giống','cùng'],clear:['rõ ràng'],strong:['mạnh'],research:['nghiên cứu'],evidence:['bằng chứng'],system:['hệ thống'],method:['phương pháp'],process:['quá trình'],problem:['vấn đề'],solution:['giải pháp','dung dịch'],
+  // Common grammar words are only included when their Vietnamese realization is usually explicit.
+  not:['không'],no:['không'],must:['phải'],should:['nên'],will:['sẽ'],can:['có thể'],could:['có thể'],because:['vì','bởi vì'],if:['nếu'],when:['khi'],before:['trước'],after:['sau'],with:['với'],without:['không có'],from:['từ'],
+  this:['này'],that:['đó'],these:['những','các'],those:['những','các'],some:['một số'],many:['nhiều'],more:['hơn','thêm'],all:['tất cả'],each:['mỗi'],one:['một'],two:['hai'],three:['ba'],first:['đầu tiên','thứ nhất'],second:['thứ hai'],
+  // Explicit pairs needed by the learning set / known order inversions.
+  imported:['nhập khẩu'],goods:['hàng','hàng hóa'],additional:['thêm','bổ sung'],restrictions:['hạn chế','các hạn chế'],restriction:['hạn chế'],
+  red:['đỏ','màu đỏ'],car:['xe','chiếc xe'],
   word:['từ'],words:['từ'],example:['ví dụ'],meaning:['nghĩa'],language:['ngôn ngữ'],english:['tiếng anh'],vietnamese:['tiếng việt']
+};
+const PHRASE_ALIGN={
+  'subject to':['chịu','phải chịu','thuộc diện'],
+  'in order to':['để'],
+  'due to':['do','bởi vì'],
+  'because of':['do','bởi vì'],
+  'a month apart':['cách nhau một tháng'],
+  'at the turn of the century':['vào thời điểm chuyển giao thế kỷ'],
+  'title to land':['quyền sở hữu đất'],
+  'native industries':['các ngành công nghiệp trong nước','ngành công nghiệp trong nước'],
+  'drastic change':['sự thay đổi mạnh mẽ','thay đổi mạnh mẽ'],
+  'living bone':['xương sống'],
+  'unmarked grave':['mộ không đánh dấu','ngôi mộ không có bia'],
+  'secure the joint':['cố định mối nối'],
+  'maintaining order':['duy trì trật tự'],
+  'pony express':['dịch vụ chuyển thư pony express','pony express'],
+  'still others':['những người khác nữa','còn những người khác'],
+  'above all':['trên hết','quan trọng nhất'],
+  'the latter':['cái sau','đối tượng sau','vế sau'],
+  'at most':['nhiều nhất','tối đa']
 };
 function alignNorm(s){return String(s??'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/đ/g,'d').replace(/[^a-z0-9]+/g,' ').trim()}
 function wordTokens(text){const out=[];for(const m of String(text??'').matchAll(/[\p{L}\p{N}]+(?:['’][\p{L}\p{N}]+)*/gu))out.push({raw:m[0],norm:alignNorm(m[0]),start:m.index,end:m.index+m[0].length});return out}
-function findViPhrase(tokens,phrase,used){const target=alignNorm(phrase).split(/\s+/).filter(Boolean);if(!target.length)return null;for(let i=0;i<=tokens.length-target.length;i++){let ok=true;for(let j=0;j<target.length;j++){if(used.has(i+j)||tokens[i+j].norm!==target[j]){ok=false;break}}if(ok)return Array.from({length:target.length},(_,j)=>i+j)}return null}
-function buildSoftAlignment(enText,viText,vocabWord,vocabMeaning){const en=wordTokens(enText),vi=wordTokens(viText),viColor=Array(vi.length).fill(null),used=new Set();if(!en.length||!vi.length)return{en,vi,enColor:en.map((_,i)=>i%ALIGN_PALETTE_SIZE),viColor:vi.map((_,i)=>i%ALIGN_PALETTE_SIZE)};const enColor=en.map((_,i)=>i%ALIGN_PALETTE_SIZE);
-  // First align the lesson's target word/phrase to a plausible Vietnamese meaning phrase.
-  const targetParts=wordTokens(vocabWord).map(x=>x.norm),targetStart=en.findIndex((_,i)=>targetParts.length&&targetParts.every((p,j)=>en[i+j]?.norm===p));
-  if(targetStart>=0){const meanings=String(vocabMeaning??'').split(/[;\/]|\(|\)/).map(x=>x.trim()).filter(Boolean);for(const meaning of meanings){const pos=findViPhrase(vi,meaning,used);if(pos){pos.forEach(k=>{viColor[k]=enColor[targetStart];used.add(k)});break}}}
-  // Then use a compact bilingual lexicon for common words and function words.
-  en.forEach((tok,i)=>{const opts=BILINGUAL_ALIGN[tok.norm]||[];for(const phrase of opts){const pos=findViPhrase(vi,phrase,used);if(pos){pos.forEach(k=>{viColor[k]=enColor[i];used.add(k)});break}}});
-  // Finally use monotonic positional alignment for words that have no reliable direct counterpart.
-  const freeVi=vi.map((_,i)=>i).filter(i=>viColor[i]===null);freeVi.forEach((k,rank)=>{const ratio=freeVi.length<=1?0.5:rank/(freeVi.length-1),ei=Math.min(en.length-1,Math.round(ratio*(en.length-1)));viColor[k]=enColor[ei]});
-  return{en,vi,enColor,viColor}}
-function appendColoredText(container,text,tokens,colors){let pos=0;tokens.forEach((t,i)=>{if(t.start>pos)container.appendChild(document.createTextNode(text.slice(pos,t.start)));const span=document.createElement('span');span.className=`align-word align-c${colors[i]%ALIGN_PALETTE_SIZE}`;span.textContent=text.slice(t.start,t.end);container.appendChild(span);pos=t.end});if(pos<text.length)container.appendChild(document.createTextNode(text.slice(pos)))}
+function phraseParts(text){return alignNorm(text).split(/\s+/).filter(Boolean)}
+function findTokenPhrase(tokens,phrase,used=new Set()){const target=phraseParts(phrase);if(!target.length)return null;for(let i=0;i<=tokens.length-target.length;i++){let ok=true;for(let j=0;j<target.length;j++){if(used.has(i+j)||tokens[i+j].norm!==target[j]){ok=false;break}}if(ok)return Array.from({length:target.length},(_,j)=>i+j)}return null}
+function meaningCandidates(raw){return String(raw??'').split(/[;\/]|\(|\)/).map(x=>x.trim()).filter(Boolean)}
+function buildDataAlignLexicon(){const map={};for(const row of DATA){const key=alignNorm(row[0]);if(!key)continue;const vals=meaningCandidates(row[1]);if(vals.length)map[key]=(map[key]||[]).concat(vals)}return map}
+const DATA_ALIGN=buildDataAlignLexicon();
+function addSemanticPair(enIdx,viIdx,enColor,viColor,usedEn,usedVi,colorState){if(!enIdx?.length||!viIdx?.length)return false;if(enIdx.some(i=>usedEn.has(i))||viIdx.some(i=>usedVi.has(i)))return false;const c=colorState.next++%ALIGN_PALETTE_SIZE;enIdx.forEach(i=>{enColor[i]=c;usedEn.add(i)});viIdx.forEach(i=>{viColor[i]=c;usedVi.add(i)});return true}
+function tryAlignRule(en,vi,enPhrase,viOptions,enColor,viColor,usedEn,usedVi,colorState){const e=findTokenPhrase(en,enPhrase,usedEn);if(!e)return false;for(const option of viOptions){const v=findTokenPhrase(vi,option,usedVi);if(v&&addSemanticPair(e,v,enColor,viColor,usedEn,usedVi,colorState))return true}return false}
+function buildSoftAlignment(enText,viText,vocabWord,vocabMeaning){
+  const en=wordTokens(enText),vi=wordTokens(viText),enColor=Array(en.length).fill(null),viColor=Array(vi.length).fill(null),usedEn=new Set(),usedVi=new Set(),colorState={next:0};
+  if(!en.length||!vi.length)return{en,vi,enColor,viColor};
+  // 1) Long semantic phrases first. Position does NOT matter between languages.
+  Object.entries(PHRASE_ALIGN).sort((a,b)=>phraseParts(b[0]).length-phraseParts(a[0]).length).forEach(([ep,vp])=>tryAlignRule(en,vi,ep,vp,enColor,viColor,usedEn,usedVi,colorState));
+  // 2) Always try the lesson's target vocabulary item using its actual Vietnamese meanings.
+  tryAlignRule(en,vi,vocabWord,meaningCandidates(vocabMeaning),enColor,viColor,usedEn,usedVi,colorState);
+  // 3) Reuse the app's own vocabulary dictionary. This naturally handles adjective+noun inversions
+  //    because the Vietnamese phrase is searched anywhere in the translated sentence.
+  const candidates=[];
+  for(let len=Math.min(5,en.length);len>=1;len--){for(let i=0;i<=en.length-len;i++){if(Array.from({length:len},(_,j)=>usedEn.has(i+j)).some(Boolean))continue;const ep=en.slice(i,i+len).map(t=>t.norm).join(' '),opts=DATA_ALIGN[ep];if(opts)candidates.push([ep,opts])}}
+  for(const [ep,opts] of candidates)tryAlignRule(en,vi,ep,opts,enColor,viColor,usedEn,usedVi,colorState);
+  // 4) Conservative hand lexicon for ordinary words. No positional fallback: uncertain items stay neutral.
+  en.forEach((tok,i)=>{if(usedEn.has(i))return;const opts=BILINGUAL_ALIGN[tok.norm];if(opts)tryAlignRule(en,vi,tok.norm,opts,enColor,viColor,usedEn,usedVi,colorState)});
+  return{en,vi,enColor,viColor}
+}
+function appendColoredText(container,text,tokens,colors){let pos=0;tokens.forEach((t,i)=>{if(t.start>pos)container.appendChild(document.createTextNode(text.slice(pos,t.start)));const span=document.createElement('span'),c=colors[i];span.className=c===null?'align-word align-neutral':`align-word align-c${c%ALIGN_PALETTE_SIZE}`;span.textContent=text.slice(t.start,t.end);container.appendChild(span);pos=t.end});if(pos<text.length)container.appendChild(document.createTextNode(text.slice(pos)))}
 function renderAlignedExample(card,enText,viText,vocabWord,vocabMeaning){const alignment=buildSoftAlignment(enText,viText,vocabWord,vocabMeaning),enEl=card.querySelector('.example-text');if(enEl){enEl.textContent='';appendColoredText(enEl,enText,alignment.en,alignment.enColor)}const sub=document.createElement('span');sub.className='vietsub';const flag=document.createElement('span');flag.className='vietsub-label';flag.textContent='🇻🇳 ';sub.appendChild(flag);const viWrap=document.createElement('span');viWrap.className='vietsub-text';appendColoredText(viWrap,viText,alignment.vi,alignment.viColor);sub.appendChild(viWrap);card.appendChild(sub)}
 function clearExampleAssist(){document.querySelectorAll('[data-type="example"]').forEach(c=>{c.classList.remove('example-suggested');c.querySelector('.vietsub')?.remove();const id=Number(c.dataset.id),lesson=LESSONS[state.lesson],txt=c.querySelector('.example-text');if(txt&&lesson?.[id])txt.textContent=lesson[id][2]})}
 function updateExampleAssist(){clearExampleAssist();const w=state.selected.word,m=state.selected.meaning;if(w===null||m===null||w!==m)return;const lesson=LESSONS[state.lesson],card=document.querySelector(`[data-type="example"][data-id="${w}"]`);if(!card||state.matched.has(w))return;card.classList.add('example-suggested');renderAlignedExample(card,lesson[w][2],lesson[w][3]||lesson[w][1],lesson[w][0],lesson[w][1])}
