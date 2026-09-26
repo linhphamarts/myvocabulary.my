@@ -32,3 +32,26 @@
   font-weight:650;
   line-height:1.48;
 }
+
+/* Soft bilingual word alignment shown only on the suggested example. */
+.example-card.example-suggested .align-word{
+  display:inline;
+  padding:0 .06em;
+  border-radius:.28em;
+  font-weight:760;
+  -webkit-box-decoration-break:clone;
+  box-decoration-break:clone;
+}
+.example-card.example-suggested .align-c0{color:#9ed8ff;background:#5bbcff16}
+.example-card.example-suggested .align-c1{color:#ffb0b9;background:#ff7f8d14}
+.example-card.example-suggested .align-c2{color:#ffe08a;background:#ffd45e14}
+.example-card.example-suggested .align-c3{color:#cbb7ff;background:#a98cff16}
+.example-card.example-suggested .align-c4{color:#91e7c8;background:#55d6a814}
+.example-card.example-suggested .align-c5{color:#ffc596;background:#ffad6814}
+.example-card.example-suggested .align-c6{color:#a9e6f2;background:#6ed5ff12}
+.example-card.example-suggested .align-c7{color:#f2b8e8;background:#e68bd814}
+.example-card.example-suggested .align-c8{color:#c9e69a;background:#a8d86614}
+.example-card.example-suggested .align-c9{color:#e2c4a7;background:#d2a87d14}
+.vietsub-label{color:#d9fff2;font-weight:800}
+.vietsub-text{color:#dce7ed}
+@media(max-width:900px){.example-card.example-suggested .align-word{padding:0 .04em}}
