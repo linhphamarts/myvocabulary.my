@@ -1620,10 +1620,181 @@ occupy|take up
 accommodation|lodging
 forbid|prohibit
 rural|countryside
-frustrating|annoying`;
+frustrating|annoying
+slave|a person who is legally owned or forced to work for another person without freedom
+named after the|given the same name as a person, place, or thing in order to honor or identify a connection
+slender|thin and gracefully narrow in shape or build
+frail|physically weak, delicate, or easily damaged
+trifle|a small, unimportant matter or a very small amount
+in want of a domestic|needing or lacking a household servant
+waif|a homeless, abandoned, or neglected child or young person
+terminally ill|suffering from an illness that is expected to cause death
+surmised|formed an opinion or conclusion from limited evidence
+evidently|in a way that is clear from the available evidence; apparently
+climate|the usual weather conditions of a place over a long period
+carpet|a thick woven floor covering
+a quantity|an amount or number of something
+circumstances of|the conditions or facts surrounding a situation or event
+shedding|losing or dropping something naturally, such as hair, skin, leaves, or light
+poetry|literary writing that uses rhythm, imagery, and carefully chosen language
+poem|a piece of writing in verse that expresses ideas, feelings, or images
+elegiac|expressing sadness, mourning, or reflection on loss
+celebrated|widely known and admired; famous
+divine|related to a god or having a sacred or heavenly quality
+countess|a woman holding the rank of count, or the wife of a count
+wealthy|having a large amount of money, property, or valuable possessions
+evangelical|related to a Christian movement emphasizing the Bible and personal faith
+abolitionist|a person who worked to end slavery or another established practice
+colonies|territories or settlements controlled by another country or group
+infants|very young children or babies
+grave|a place where a dead person is buried
+unmarked grave|a burial place with no stone, sign, or marker identifying the person buried there
+nevertheless|despite what has just been said; even so
+enslaved|made into a slave or forced to live and work without freedom
+former|belonging to an earlier time or position, but not now
+attachment to|a strong feeling of affection, connection, or loyalty toward someone or something
+millennia|periods of one thousand years
+conservatism|a preference for traditional values and gradual rather than rapid change
+saws|tools with toothed blades used for cutting wood or other materials
+chisels|tools with sharp cutting edges used for carving or shaping wood, stone, or metal
+planes|woodworking tools used to shave and smooth the surface of wood
+augers|tools with spiral bits used for boring large holes, especially in wood or soil
+compasses|drawing instruments used to make circles or measure distances
+measures|methods, actions, or standards used to deal with, judge, or control something
+carpenters|workers who make or repair wooden structures and objects
+shipwrights|skilled workers who build or repair ships
+at most|no more than a stated amount or number
+delicate|easily damaged, fine, or requiring careful handling
+delicate chisels|fine, precise chisels used for detailed carving or careful woodworking
+specialization|the process of concentrating on a particular skill, subject, or type of work
+primary|main, first in importance, or occurring first
+joinery|the craft or method of joining pieces of wood together
+protruding|sticking out beyond the surrounding surface
+projecting|sticking or extending outward from a surface
+drilled|made a hole in something using a drill or boring tool
+auger|a tool with a spiral cutting bit used for boring holes
+peg|a short pin or piece used to fasten, support, or mark something
+whittled|cut or shaped a piece of wood by removing small slices with a knife
+whittled peg|a wooden peg shaped by cutting away small pieces with a knife
+secure|to fasten, fix, or make something safe and firmly held
+secure the joint|to fasten the connection between two parts so that it stays firm
+forged|shaped metal by heating and hammering it, or created something by forceful shaping
+screws|threaded metal fasteners turned into material to hold parts together
+glue|a sticky substance used to join materials together
+hinges|jointed metal pieces that allow a door, lid, or panel to swing open and closed
+cruder|less refined, less precise, or more roughly made
+crude|rough, simple, and not carefully finished or refined
+finer|more delicate, precise, or higher in quality
+plates|flat pieces or sheets of material, sometimes used as fittings or supports
+the latter|the second of two people or things that were just mentioned
+above all|more importantly than anything else
+dedication|strong commitment of time and effort to a purpose or activity
+forts|strong defensive buildings or military positions
+bold|confident, brave, and willing to take risks
+daring|brave and willing to do risky or difficult things
+numerous|existing in large numbers; many
+posts|positions, stations, or places where people are assigned to work or guard; also online messages
+expeditions|organized journeys made for exploration, research, or a particular purpose
+supplies|materials, food, equipment, or other things needed for an activity
+refreshments|light food and drinks provided to people
+wagon trains|groups of wagons traveling together, especially across frontier regions
+frontiers|border regions at the edge of settled or explored territory
+pony express|a historical mail service in which riders carried messages rapidly by horse
+still others|additional people or things different from those already mentioned
+chapels|small places or buildings used for Christian worship
+religious|related to religion, belief, or worship
+expenses|money spent or costs that must be paid
+inference|a conclusion reached from evidence and reasoning rather than direct statement
+promote|to encourage, support, or help something develop
+gardening|the activity of growing and caring for plants in a garden
+experimental|based on testing new ideas, methods, or techniques
+agriculture|the practice of farming, including growing crops and raising animals
+stationed|assigned to work or serve in a particular place
+maintaining order|keeping a place or group peaceful, controlled, and organized
+officials|people who hold positions of authority in an organization or government
+posed|created, presented, or caused a problem, question, or threat
+obstacle|something that blocks progress or makes an action difficult
+investigation|a careful examination carried out to discover facts or causes
+foremost|most important, leading, or best known
+inhibit|to prevent, restrict, or slow down an action or process
+united|joined together for a common purpose or as one group
+exploited|used someone or something unfairly for advantage or benefit
+hinder|to make progress or an action more difficult or slower
+official|a person who holds a position of authority or responsibility
+incapacitated|made unable to function, work, or act normally
+garrisons|groups of soldiers stationed at a fort, town, or military post
+frequency|how often something happens within a particular period
+surgeons|doctors who perform operations
+monitoring|watching, checking, or measuring something over time
+composition|the parts or substances that something is made of and how they are arranged
+counterpart|a person or thing with a similar role or function in another place or system
+identical|exactly the same in every important way
+interpretation|an explanation or understanding of the meaning of something
+dense|closely packed together, with little empty space
+pores|very small openings in a surface or material
+minerals|naturally occurring inorganic substances found in rocks, soil, and living bodies
+interstitial|located in or relating to the small spaces between parts of a structure
+foreign|coming from outside or not naturally belonging to a particular place or body
+marrow cavity|the hollow space inside a bone that contains or can contain bone marrow
+recrystallized|formed into crystals again after changing from an earlier structure
+percolation|the slow movement of liquid through small spaces in a porous material
+concentrations|amounts of a substance present in a particular volume or area
+solution|a liquid mixture in chemistry, or a way of solving a problem
+factors|facts or conditions that influence a result or situation
+extent|the degree, amount, or range to which something exists or happens
+antiquity|the ancient past, especially the period of early civilizations
+optimum|the best or most favorable level, condition, or amount
+remarkably|in an unusually or surprisingly noticeable way
+microscopic|extremely small and often visible only with a microscope
+lacunae|small cavities, gaps, or empty spaces, especially in bone or tissue
+living bone|bone tissue that is biologically active and contains living cells
+resided|lived in a particular place
+alter|to change something, usually without completely replacing it
+unaltered|not changed; remaining in the original condition
+virtually|almost completely or nearly, though not absolutely
+retains|continues to have, keep, or preserve something
+apparent|easy to notice or understand; seeming to be true based on what can be seen
+detectable|able to be noticed, discovered, or measured
+moist|slightly wet or damp
+led|caused or resulted in a particular outcome; past tense of lead
+implication|a possible effect, consequence, or meaning suggested by something
+tissues|groups of cells forming body material; also soft paper products such as facial tissues
+certainly|definitely or without doubt
+threat|a person, thing, or situation that may cause harm or danger
+ploughed|turned over and prepared soil using a plough
+amazed|very surprised or filled with wonder
+noticed|became aware of or observed something
+jealous|feeling unhappy because of another person’s advantage, relationship, or possession
+rivalry|competition between people or groups trying to achieve the same goal
+ditched|abandoned, got rid of, or stopped using something
+semester|one of the main periods into which an academic year is divided
+commercials|advertisements shown or broadcast on television, radio, or other media
+stressed|worried, tense, or under mental or emotional pressure
+frankly|in an honest and direct way
+beliefs|ideas or convictions that a person accepts as true
+dawn|the time of day when light first appears before sunrise
+phenomena|observable events, facts, or occurrences, especially ones that can be studied
+corporate|related to a company or large business organization
+statement|something that is said or written to express information, an opinion, or a position
+reliability|the quality of being dependable, consistent, and likely to work correctly
+expertise|advanced knowledge or skill in a particular subject or activity
+efficiency|the ability to achieve a result with little waste of time, effort, or resources
+reassured|made someone feel less worried or more confident
+recognisable|easy or possible to identify because it is familiar or distinctive`;
 const ENGLISH_HINTS=Object.fromEntries(ENGLISH_HINTS_RAW.trim().split('\n').map(line=>{const p=line.indexOf('|');return [line.slice(0,p),line.slice(p+1)]}));
 function englishHintKey(word){return word.toLowerCase().replace(/\s*\(verb\)\s*$/,'').trim()}
-function getEnglishHint(word){return ENGLISH_HINTS[englishHintKey(word)]||'Use the example sentence and context to infer this word.'}
+const SYNONYM_HINTS=(()=>{const m=new Map();for(const [a,b] of SYNONYMS){const ka=englishHintKey(a),kb=englishHintKey(b);if(!m.has(ka))m.set(ka,[]);if(!m.has(kb))m.set(kb,[]);m.get(ka).push(b);m.get(kb).push(a)}return m})();
+function getEnglishHint(word){
+  const key=englishHintKey(word);
+  if(ENGLISH_HINTS[key])return ENGLISH_HINTS[key];
+  const related=SYNONYM_HINTS.get(key)||[];
+  for(const other of related){
+    const otherKey=englishHintKey(other),definition=ENGLISH_HINTS[otherKey];
+    if(definition)return `similar in meaning to “${other}” — ${definition}`;
+  }
+  if(related.length)return `similar in meaning to “${related[0]}”`;
+  return 'a vocabulary item whose meaning can be understood from its example sentence and context';
+}
 function clearEnglishHint(btn){btn?.querySelector('.english-hint')?.remove()}
 function showEnglishHint(btn,word){clearEnglishHint(btn);const note=document.createElement('span');note.className='english-hint';note.setAttribute('aria-hidden','true');note.textContent='💡 '+getEnglishHint(word);btn.appendChild(note)}
 
